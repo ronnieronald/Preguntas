@@ -1,0 +1,10 @@
+[
+  {
+    "pregunta": "¿Cuánto es 1 + 1?",
+    "alternativas": ["1", "2", "5", "9"]
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "alternativas": ["Madrid", "París", "Roma", "Berlín"]
+  }
+]
