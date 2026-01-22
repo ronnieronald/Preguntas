@@ -1,42 +1,42 @@
 [
   {
-    "pregunta": "¿Cuánto es 5 + 7?",
-    "alternativas": ["10", "11", "12", "13"]
+    "pregunta": "¿Quiénes contaron lo que les había pasado a los demás creyentes?",
+    "alternativas": ["Pedro y Juan", "Pablo y Bernabé", "Santiago y Felipe", "Andrés y Tomás"]
   },
   {
-    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
-    "alternativas": ["Marte", "Tierra", "Júpiter", "Saturno"]
+    "pregunta": "Cuando escucharon la historia, ¿qué hicieron los creyentes?",
+    "alternativas": ["Se asustaron", "Oraron juntos a Dios", "Se fueron a casa", "Escribieron un mensaje"]
   },
   {
-    "pregunta": "¿Cuántos minutos tiene una hora?",
-    "alternativas": ["30", "45", "60", "90"]
+    "pregunta": "¿Cómo llamaron los creyentes a Dios en su oración?",
+    "alternativas": ["Señor de todo", "Solo un amigo", "Un maestro", "Un profeta"]
   },
   {
-    "pregunta": "¿Cuál es el océano más grande del mundo?",
-    "alternativas": ["Atlántico", "Índico", "Ártico", "Pacífico"]
+    "pregunta": "¿Qué hicieron los enemigos de Jesús según la oración de los creyentes?",
+    "alternativas": ["Lo ignoraron", "Conspiraron contra Él", "Lo siguieron", "Le dieron regalos"]
   },
   {
-    "pregunta": "¿Cuánto es 9 × 6?",
-    "alternativas": ["42", "48", "54", "56"]
+    "pregunta": "¿Qué pidieron los creyentes a Dios después de reconocer que Él tiene el control?",
+    "alternativas": ["Valentía para hablar de Jesús", "Dinero y riquezas", "Viajar a otro país", "Que todo fuera fácil"]
   },
   {
-    "pregunta": "¿Cuál es la capital de Japón?",
-    "alternativas": ["Pekín", "Seúl", "Tokio", "Bangkok"]
+    "pregunta": "¿Qué parte de la Biblia recordaron los creyentes para mostrar que Dios cumple su plan?",
+    "alternativas": ["Salmos", "Proverbios", "Éxodo", "Apocalipsis"]
   },
   {
-    "pregunta": "¿Cuántos días tiene un año bisiesto?",
-    "alternativas": ["364", "365", "366", "367"]
+    "pregunta": "Después de orar, ¿qué pasó en el lugar donde estaban?",
+    "alternativas": ["El lugar se estremeció y recibieron el Espíritu Santo", "Los enemigos fueron castigados", "Todos se durmieron", "No pasó nada"]
   },
   {
-    "pregunta": "¿Qué animal es conocido como el rey de la selva?",
-    "alternativas": ["Tigre", "León", "Elefante", "Pantera"]
+    "pregunta": "¿Cuál fue la actitud de los creyentes frente a los problemas?",
+    "alternativas": ["Confianza en Dios y valentía", "Miedo y huida", "Indiferencia", "Rabia y venganza"]
   },
   {
-    "pregunta": "¿Cuál es el metal más ligero?",
-    "alternativas": ["Hierro", "Aluminio", "Litio", "Plata"]
+    "pregunta": "¿Qué les dio Dios al orar para que hablaran con valentía?",
+    "alternativas": ["El poder del Espíritu Santo", "Dinero", "Protección física", "Un mensaje secreto"]
   },
   {
-    "pregunta": "¿En qué continente está Egipto?",
-    "alternativas": ["Asia", "Europa", "África", "América"]
+    "pregunta": "¿Qué mostró que Dios estaba presente cuando oraron?",
+    "alternativas": ["El lugar se estremeció y fueron llenos del Espíritu Santo", "Un milagro enorme", "Un ángel que habló", "Un arco iris"]
   }
 ]
