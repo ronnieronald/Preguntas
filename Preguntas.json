@@ -15,28 +15,5 @@
     "pregunta": "¿Qué hicieron los enemigos de Jesús según la oración de los creyentes?",
     "alternativas": ["Lo ignoraron", "Conspiraron contra Él", "Lo siguieron", "Le dieron regalos"]
   },
-  {
-    "pregunta": "¿Qué pidieron los creyentes a Dios después de reconocer que Él tiene el control?",
-    "alternativas": ["Valentía para hablar de Jesús", "Dinero y riquezas", "Viajar a otro país", "Que todo fuera fácil"]
-  },
-  {
-    "pregunta": "¿Qué parte de la Biblia recordaron los creyentes para mostrar que Dios cumple su plan?",
-    "alternativas": ["Salmos", "Proverbios", "Éxodo", "Apocalipsis"]
-  },
-  {
-    "pregunta": "Después de orar, ¿qué pasó en el lugar donde estaban?",
-    "alternativas": ["El lugar se estremeció y recibieron el Espíritu Santo", "Los enemigos fueron castigados", "Todos se durmieron", "No pasó nada"]
-  },
-  {
-    "pregunta": "¿Cuál fue la actitud de los creyentes frente a los problemas?",
-    "alternativas": ["Confianza en Dios y valentía", "Miedo y huida", "Indiferencia", "Rabia y venganza"]
-  },
-  {
-    "pregunta": "¿Qué les dio Dios al orar para que hablaran con valentía?",
-    "alternativas": ["El poder del Espíritu Santo", "Dinero", "Protección física", "Un mensaje secreto"]
-  },
-  {
-    "pregunta": "¿Qué mostró que Dios estaba presente cuando oraron?",
-    "alternativas": ["El lugar se estremeció y fueron llenos del Espíritu Santo", "Un milagro enorme", "Un ángel que habló", "Un arco iris"]
-  }
+  
 ]
