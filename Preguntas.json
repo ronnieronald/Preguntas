@@ -1,92 +1,42 @@
 [
   {
-    "pregunta": "¿Qué problema surgió en la iglesia al crecer el número de los discípulos?",
-    "alternativas": [
-      "Una persecución externa",
-      "Una queja por la distribución diaria de alimentos",
-      "Falta de predicación",
-      "División doctrinal"
-    ]
+    "pregunta": "¿En qué lugar se le apareció Dios a Abraham antes de habitar en Harán, según el discurso de Esteban?",
+    "alternativas": ["Mesopotamia", "Canaán", "Egipto", "Ur de los caldeos"]
   },
   {
-    "pregunta": "¿Quiénes estaban siendo desatendidas en la distribución diaria?",
-    "alternativas": [
-      "Las viudas hebreas",
-      "Los nuevos convertidos",
-      "Las viudas de habla griega",
-      "Los apóstoles"
-    ]
+    "pregunta": "¿Qué promesa específica menciona Esteban que Dios hizo a Abraham aun cuando no tenía heredad en la tierra?",
+    "alternativas": ["Que su descendencia poseería la tierra", "Que sería rey sobre naciones", "Que tendría paz perpetua", "Que construiría un templo"]
   },
   {
-    "pregunta": "¿Cuántos hombres fueron escogidos para servir?",
-    "alternativas": [
-      "Cinco",
-      "Siete",
-      "Doce",
-      "Diez"
-    ]
+    "pregunta": "¿Cuántos años, según Esteban, serviría la descendencia de Abraham como esclava en tierra ajena?",
+    "alternativas": ["Cuatrocientos años", "Setenta años", "Doscientos años", "Mil años"]
   },
   {
-    "pregunta": "¿Qué cualidades debían tener los hombres escogidos?",
-    "alternativas": [
-      "Riqueza y experiencia",
-      "Buena reputación, llenos del Espíritu y sabiduría",
-      "Conocimiento de la ley",
-      "Autoridad y liderazgo político"
-    ]
+    "pregunta": "¿Quién era el sumo sacerdote que interrogó a Esteban al inicio del capítulo 7?",
+    "alternativas": ["El sumo sacerdote", "Anás", "Caifás", "Gamaliel"]
   },
   {
-    "pregunta": "¿Cómo respondieron los apóstoles al presentar la propuesta?",
-    "alternativas": [
-      "La rechazaron",
-      "La votaron en secreto",
-      "Agradó a toda la multitud",
-      "Causó más discusiones"
-    ]
+    "pregunta": "¿A quién menciona Esteban como el primer patriarca al comenzar su defensa?",
+    "alternativas": ["Abraham", "Isaac", "Jacob", "José"]
   },
   {
-    "pregunta": "¿Qué dos prioridades afirmaron los apóstoles que no debían descuidar?",
-    "alternativas": [
-      "El ayuno y la enseñanza",
-      "La oración y el ministerio de la palabra",
-      "La administración y el servicio",
-      "La disciplina y la corrección"
-    ]
+    "pregunta": "¿Qué sentimiento llevó a los patriarcas a vender a José?",
+    "alternativas": ["Envidia", "Miedo", "Ira", "Ambición"]
   },
   {
-    "pregunta": "¿Cuál fue el resultado espiritual del orden establecido en la iglesia?",
-    "alternativas": [
-      "Disminuyó la oposición",
-      "Creció la iglesia y muchos obedecieron a la fe",
-      "Cesaron los milagros",
-      "Los apóstoles dejaron Jerusalén"
-    ]
+    "pregunta": "¿A qué país fue llevado José después de ser vendido por sus hermanos?",
+    "alternativas": ["Egipto", "Babilonia", "Asiria", "Canaán"]
   },
   {
-    "pregunta": "¿Qué se dice específicamente del poder y las señales realizadas por Esteban?",
-    "alternativas": [
-      "Que enseñaba en secreto",
-      "Que hacía grandes prodigios y señales",
-      "Que solo servía mesas",
-      "Que evitaba confrontaciones"
-    ]
+    "pregunta": "¿Quién encontró gracia y sabiduría delante de Faraón, según el relato de Esteban?",
+    "alternativas": ["José", "Moisés", "Abraham", "Jacob"]
   },
   {
-    "pregunta": "¿Por qué no pudieron resistir a Esteban sus oponentes?",
-    "alternativas": [
-      "Porque tenía apoyo político",
-      "Porque hablaba con sabiduría y el Espíritu",
-      "Porque era uno de los apóstoles",
-      "Porque conocía la ley romana"
-    ]
+    "pregunta": "¿Qué personaje bíblico nació en un tiempo en que el pueblo de Israel estaba siendo oprimido?",
+    "alternativas": ["Moisés", "José", "Isaac", "Aarón"]
   },
   {
-    "pregunta": "¿Cómo describieron el rostro de Esteban ante el concilio?",
-    "alternativas": [
-      "Como el de un profeta",
-      "Como el de un hombre común",
-      "Como el de un ángel",
-      "Como el de un juez"
-    ]
+    "pregunta": "¿Cómo describe Esteban la apariencia del niño Moisés al nacer?",
+    "alternativas": ["Hermoso delante de Dios", "Débil y enfermo", "Común", "Temeroso"]
   }
 ]
