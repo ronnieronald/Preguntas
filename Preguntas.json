@@ -1,42 +1,52 @@
 [
   {
     "pregunta": "¿Qué edad tenía Moisés cuando decidió visitar a sus hermanos israelitas según Hechos 7:23?",
-    "alternativas": ["A) 30 años", "B) 40 años", "C) 50 años", "D) 60 años"]
+    "alternativas": ["A) 30 años", "B) 40 años", "C) 50 años", "D) 60 años"],
+    "correcta": "B) 40 años"
   },
   {
     "pregunta": "Según Esteban, ¿qué hizo Moisés cuando vio a un egipcio maltratando a un hebreo?",
-    "alternativas": ["A) Lo ignoró", "B) Intervino y mató al egipcio", "C) Huyó a Canaán", "D) Denunció al faraón"]
+    "alternativas": ["A) Lo ignoró", "B) Intervino y mató al egipcio", "C) Huyó a Canaán", "D) Denunció al faraón"],
+    "correcta": "B) Intervino y mató al egipcio"
   },
   {
     "pregunta": "¿Cómo Dios se reveló a Moisés en el desierto?",
-    "alternativas": ["A) En un sueño", "B) A través de un ángel", "C) En la zarza ardiente", "D) Mediante un arco iris"]
+    "alternativas": ["A) En un sueño", "B) A través de un ángel", "C) En la zarza ardiente", "D) Mediante un arco iris"],
+    "correcta": "C) En la zarza ardiente"
   },
   {
     "pregunta": "Esteban menciona que el pueblo de Israel siempre ha resistido a:",
-    "alternativas": ["A) Los soldados romanos", "B) Sus profetas y líderes enviados por Dios", "C) Los faraones", "D) Los comerciantes extranjeros"]
+    "alternativas": ["A) Los soldados romanos", "B) Sus profetas y líderes enviados por Dios", "C) Los faraones", "D) Los comerciantes extranjeros"],
+    "correcta": "B) Sus profetas y líderes enviados por Dios"
   },
   {
     "pregunta": "Según Esteban, ¿por qué Dios no habita en templos hechos por manos humanas?",
-    "alternativas": ["A) Porque prefiere la naturaleza", "B) Porque su presencia es universal y no depende de lugares", "C) Porque los templos eran demasiado pequeños", "D) Porque no le gustaban los sacrificios"]
+    "alternativas": ["A) Porque prefiere la naturaleza", "B) Porque su presencia es universal y no depende de lugares", "C) Porque los templos eran demasiado pequeños", "D) Porque no le gustaban los sacrificios"],
+    "correcta": "B) Porque su presencia es universal y no depende de lugares"
   },
   {
     "pregunta": "¿Qué vendieron los hermanos de José según el relato de Esteban?",
-    "alternativas": ["A) Sus tierras", "B) A José", "C) Sus armas", "D) Sus rebaños"]
+    "alternativas": ["A) Sus tierras", "B) A José", "C) Sus armas", "D) Sus rebaños"],
+    "correcta": "B) A José"
   },
   {
     "pregunta": "Esteban afirma que Moisés fue instruido por Dios sobre:",
-    "alternativas": ["A) Cómo construir un templo", "B) La liberación de Israel de Egipto", "C) Cómo gobernar Egipto", "D) Cómo comerciar con Canaán"]
+    "alternativas": ["A) Cómo construir un templo", "B) La liberación de Israel de Egipto", "C) Cómo gobernar Egipto", "D) Cómo comerciar con Canaán"],
+    "correcta": "B) La liberación de Israel de Egipto"
   },
   {
     "pregunta": "¿Qué reacción tuvo el Sanedrín ante las palabras de Esteban en Hechos 7:51-53?",
-    "alternativas": ["A) Se alegraron", "B) Lo ignoraron", "C) Se llenaron de ira y lo condenaron", "D) Lo enviaron a otra ciudad"]
+    "alternativas": ["A) Se alegraron", "B) Lo ignoraron", "C) Se llenaron de ira y lo condenaron", "D) Lo enviaron a otra ciudad"],
+    "correcta": "C) Se llenaron de ira y lo condenaron"
   },
   {
     "pregunta": "Según Esteban, los antepasados de Israel vendieron a José y después:",
-    "alternativas": ["A) Se arrepintieron inmediatamente", "B) Fueron recompensados", "C) No obedecieron a Dios y resistieron a sus profetas", "D) Gobernaron Egipto"]
+    "alternativas": ["A) Se arrepintieron inmediatamente", "B) Fueron recompensados", "C) No obedecieron a Dios y resistieron a sus profetas", "D) Gobernaron Egipto"],
+    "correcta": "C) No obedecieron a Dios y resistieron a sus profetas"
   },
   {
     "pregunta": "El discurso de Esteban muestra un patrón histórico del pueblo de Israel. ¿Cuál es?",
-    "alternativas": ["A) Siempre obedecen sin cuestionar", "B) Rechazan a los líderes y mensajeros de Dios", "C) Construyen templos rápidamente", "D) Se mudan de país cada 40 años"]
+    "alternativas": ["A) Siempre obedecen sin cuestionar", "B) Rechazan a los líderes y mensajeros de Dios", "C) Construyen templos rápidamente", "D) Se mudan de país cada 40 años"],
+    "correcta": "B) Rechazan a los líderes y mensajeros de Dios"
   }
 ]
