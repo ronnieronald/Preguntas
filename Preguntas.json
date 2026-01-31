@@ -1,52 +1,102 @@
 [
   {
-    "pregunta": "¿Qué edad tenía Moisés cuando decidió visitar a sus hermanos israelitas según Hechos 7:23?",
-    "alternativas": ["A) 30 años", "B) 40 años", "C) 50 años", "D) 60 años"],
-    "correcta": "B) 40 años"
+    "pregunta": "¿Cómo reaccionó el concilio al oír las palabras de Esteban?",
+    "alternativas": [
+      "A) Se arrepintieron",
+      "B) Se enojaron profundamente",
+      "C) Guardaron silencio",
+      "D) Lo defendieron"
+    ],
+    "correcta": "B"
   },
   {
-    "pregunta": "Según Esteban, ¿qué hizo Moisés cuando vio a un egipcio maltratando a un hebreo?",
-    "alternativas": ["A) Lo ignoró", "B) Intervino y mató al egipcio", "C) Huyó a Canaán", "D) Denunció al faraón"],
-    "correcta": "B) Intervino y mató al egipcio"
+    "pregunta": "¿Qué vio Esteban lleno del Espíritu Santo antes de morir?",
+    "alternativas": [
+      "A) Un ángel",
+      "B) El templo celestial",
+      "C) La gloria de Dios y a Jesús de pie",
+      "D) Una visión del futuro"
+    ],
+    "correcta": "C"
   },
   {
-    "pregunta": "¿Cómo Dios se reveló a Moisés en el desierto?",
-    "alternativas": ["A) En un sueño", "B) A través de un ángel", "C) En la zarza ardiente", "D) Mediante un arco iris"],
-    "correcta": "C) En la zarza ardiente"
+    "pregunta": "¿Cómo murió Esteban?",
+    "alternativas": [
+      "A) Crucificado",
+      "B) Decapitado",
+      "C) Apedreado",
+      "D) En prisión"
+    ],
+    "correcta": "C"
   },
   {
-    "pregunta": "Esteban menciona que el pueblo de Israel siempre ha resistido a:",
-    "alternativas": ["A) Los soldados romanos", "B) Sus profetas y líderes enviados por Dios", "C) Los faraones", "D) Los comerciantes extranjeros"],
-    "correcta": "B) Sus profetas y líderes enviados por Dios"
+    "pregunta": "¿Quién cuidaba los mantos de los que apedreaban a Esteban?",
+    "alternativas": [
+      "A) Pedro",
+      "B) Juan",
+      "C) Felipe",
+      "D) Saulo"
+    ],
+    "correcta": "D"
   },
   {
-    "pregunta": "Según Esteban, ¿por qué Dios no habita en templos hechos por manos humanas?",
-    "alternativas": ["A) Porque prefiere la naturaleza", "B) Porque su presencia es universal y no depende de lugares", "C) Porque los templos eran demasiado pequeños", "D) Porque no le gustaban los sacrificios"],
-    "correcta": "B) Porque su presencia es universal y no depende de lugares"
+    "pregunta": "¿Qué sucedió con la iglesia después de la muerte de Esteban?",
+    "alternativas": [
+      "A) Desapareció",
+      "B) Se dispersó",
+      "C) Se escondió en Jerusalén",
+      "D) Dejó de predicar"
+    ],
+    "correcta": "B"
   },
   {
-    "pregunta": "¿Qué vendieron los hermanos de José según el relato de Esteban?",
-    "alternativas": ["A) Sus tierras", "B) A José", "C) Sus armas", "D) Sus rebaños"],
-    "correcta": "B) A José"
+    "pregunta": "¿Qué actitud mostró Esteban hacia sus agresores al morir?",
+    "alternativas": [
+      "A) Venganza",
+      "B) Indiferencia",
+      "C) Perdón",
+      "D) Temor"
+    ],
+    "correcta": "C"
   },
   {
-    "pregunta": "Esteban afirma que Moisés fue instruido por Dios sobre:",
-    "alternativas": ["A) Cómo construir un templo", "B) La liberación de Israel de Egipto", "C) Cómo gobernar Egipto", "D) Cómo comerciar con Canaán"],
-    "correcta": "B) La liberación de Israel de Egipto"
+    "pregunta": "¿Qué expresión describe mejor la postura de Jesús en la visión de Esteban?",
+    "alternativas": [
+      "A) Sentado a la diestra de Dios",
+      "B) De pie a la diestra de Dios",
+      "C) Arrodillado en el cielo",
+      "D) Descendiendo a la tierra"
+    ],
+    "correcta": "B"
   },
   {
-    "pregunta": "¿Qué reacción tuvo el Sanedrín ante las palabras de Esteban en Hechos 7:51-53?",
-    "alternativas": ["A) Se alegraron", "B) Lo ignoraron", "C) Se llenaron de ira y lo condenaron", "D) Lo enviaron a otra ciudad"],
-    "correcta": "C) Se llenaron de ira y lo condenaron"
+    "pregunta": "¿Cuál fue el efecto principal de la persecución en la expansión del evangelio?",
+    "alternativas": [
+      "A) Lo detuvo",
+      "B) Lo debilitó",
+      "C) Lo limitó a Jerusalén",
+      "D) Lo impulsó a otras regiones"
+    ],
+    "correcta": "D"
   },
   {
-    "pregunta": "Según Esteban, los antepasados de Israel vendieron a José y después:",
-    "alternativas": ["A) Se arrepintieron inmediatamente", "B) Fueron recompensados", "C) No obedecieron a Dios y resistieron a sus profetas", "D) Gobernaron Egipto"],
-    "correcta": "C) No obedecieron a Dios y resistieron a sus profetas"
+    "pregunta": "Según Hechos 8:8, ¿qué resultado produjo la predicación en Samaria?",
+    "alternativas": [
+      "A) Confusión",
+      "B) Temor",
+      "C) Gran gozo",
+      "D) División"
+    ],
+    "correcta": "C"
   },
   {
-    "pregunta": "El discurso de Esteban muestra un patrón histórico del pueblo de Israel. ¿Cuál es?",
-    "alternativas": ["A) Siempre obedecen sin cuestionar", "B) Rechazan a los líderes y mensajeros de Dios", "C) Construyen templos rápidamente", "D) Se mudan de país cada 40 años"],
-    "correcta": "B) Rechazan a los líderes y mensajeros de Dios"
+    "pregunta": "¿Qué verdad teológica se resalta al ver que Saulo participa indirectamente en la muerte de Esteban?",
+    "alternativas": [
+      "A) Dios abandona a sus enemigos",
+      "B) El pecado no tiene consecuencias",
+      "C) Dios puede transformar a los perseguidores",
+      "D) La iglesia depende del poder humano"
+    ],
+    "correcta": "C"
   }
 ]
