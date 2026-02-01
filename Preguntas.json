@@ -1,102 +1,202 @@
 [
   {
-    "pregunta": "¿Cómo reaccionó el concilio al oír las palabras de Esteban?",
+    "pregunta": "¿Quiénes se llenaron de celos y arrestaron a los apóstoles en Hechos 5:17?",
     "alternativas": [
-      "A) Se arrepintieron",
-      "B) Se enojaron profundamente",
-      "C) Guardaron silencio",
-      "D) Lo defendieron"
+      "A) Los fariseos",
+      "B) Los romanos",
+      "C) El sumo sacerdote y los saduceos",
+      "D) Los escribas"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Dónde fueron puestos los apóstoles después de ser arrestados?",
+    "alternativas": [
+      "A) En una cárcel romana",
+      "B) En prisión pública",
+      "C) En una casa privada",
+      "D) Fuera de la ciudad"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Qué vio Esteban lleno del Espíritu Santo antes de morir?",
+    "pregunta": "¿Quién liberó milagrosamente a los apóstoles de la cárcel?",
     "alternativas": [
-      "A) Un ángel",
-      "B) El templo celestial",
-      "C) La gloria de Dios y a Jesús de pie",
-      "D) Una visión del futuro"
+      "A) Un discípulo",
+      "B) El pueblo",
+      "C) Un ángel del Señor",
+      "D) Gamaliel"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Cómo murió Esteban?",
+    "pregunta": "¿Qué orden recibieron los apóstoles después de ser liberados?",
     "alternativas": [
-      "A) Crucificado",
-      "B) Decapitado",
-      "C) Apedreado",
-      "D) En prisión"
+      "A) Huir de Jerusalén",
+      "B) Guardar silencio",
+      "C) Enseñar en el templo",
+      "D) Presentarse ante Pilato"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Quién cuidaba los mantos de los que apedreaban a Esteban?",
+    "pregunta": "¿Qué afirmaron los apóstoles ante el concilio?",
+    "alternativas": [
+      "A) Obedeceremos la ley romana",
+      "B) Obedeceremos a los sacerdotes",
+      "C) Obedeceremos a Dios antes que a los hombres",
+      "D) Esperaremos otra señal"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Quién dio consejo al concilio para no matar a los apóstoles?",
+    "alternativas": [
+      "A) Pedro",
+      "B) Gamaliel",
+      "C) Caifás",
+      "D) Juan"
+    ],
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué argumento usó Gamaliel sobre los movimientos humanos?",
+    "alternativas": [
+      "A) Siempre triunfan",
+      "B) Son apoyados por Roma",
+      "C) Se desvanecen por sí solos",
+      "D) Deben ser perseguidos"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué les hicieron a los apóstoles antes de dejarlos ir?",
+    "alternativas": [
+      "A) Los encarcelaron nuevamente",
+      "B) Los desterraron",
+      "C) Los azotaron",
+      "D) Los multaron"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cómo reaccionaron los apóstoles después de ser azotados?",
+    "alternativas": [
+      "A) Con miedo",
+      "B) Con tristeza",
+      "C) Con gozo",
+      "D) Con enojo"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál fue el problema que surgió en la iglesia en Hechos 6?",
+    "alternativas": [
+      "A) Falsos maestros",
+      "B) Persecución romana",
+      "C) Quejas por la distribución diaria",
+      "D) Falta de predicación"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuántos varones fueron escogidos para servir a las mesas?",
+    "alternativas": [
+      "A) Cinco",
+      "B) Siete",
+      "C) Doce",
+      "D) Diez"
+    ],
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué cualidad debía tener uno de los escogidos para servir?",
+    "alternativas": [
+      "A) Ser rico",
+      "B) Ser anciano",
+      "C) Estar lleno del Espíritu Santo",
+      "D) Ser levita"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Quién fue acusado falsamente y llevado ante el concilio en Hechos 6?",
     "alternativas": [
       "A) Pedro",
       "B) Juan",
-      "C) Felipe",
-      "D) Saulo"
+      "C) Esteban",
+      "D) Felipe"
     ],
-    "correcta": "D"
+    "correcta": "C"
   },
   {
-    "pregunta": "¿Qué sucedió con la iglesia después de la muerte de Esteban?",
+    "pregunta": "¿Cómo describen el rostro de Esteban ante el concilio?",
     "alternativas": [
-      "A) Desapareció",
-      "B) Se dispersó",
-      "C) Se escondió en Jerusalén",
-      "D) Dejó de predicar"
+      "A) Lleno de temor",
+      "B) Como rostro de ángel",
+      "C) Cubierto de sudor",
+      "D) Endurecido"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Qué actitud mostró Esteban hacia sus agresores al morir?",
+    "pregunta": "¿Con quién inicia Esteban su discurso en Hechos 7?",
     "alternativas": [
-      "A) Venganza",
-      "B) Indiferencia",
-      "C) Perdón",
-      "D) Temor"
+      "A) Moisés",
+      "B) David",
+      "C) Abraham",
+      "D) José"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Qué expresión describe mejor la postura de Jesús en la visión de Esteban?",
+    "pregunta": "¿Qué pecado histórico resalta Esteban en el pueblo de Israel?",
     "alternativas": [
-      "A) Sentado a la diestra de Dios",
-      "B) De pie a la diestra de Dios",
-      "C) Arrodillado en el cielo",
-      "D) Descendiendo a la tierra"
+      "A) Idolatría constante",
+      "B) Falta de sacrificios",
+      "C) Rechazo a los profetas",
+      "D) Desobediencia al rey"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cómo reaccionó el concilio ante las palabras de Esteban?",
+    "alternativas": [
+      "A) Se arrepintieron",
+      "B) Guardaron silencio",
+      "C) Se enfurecieron",
+      "D) Lo liberaron"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué vio Esteban antes de morir?",
+    "alternativas": [
+      "A) El templo destruido",
+      "B) A Moisés",
+      "C) A Jesús a la diestra de Dios",
+      "D) Ángeles descendiendo"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Quién aprobó la muerte de Esteban?",
+    "alternativas": [
+      "A) Pedro",
+      "B) Juan",
+      "C) Saulo",
+      "D) Gamaliel"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué intentó hacer Simón el mago en Hechos 8?",
+    "alternativas": [
+      "A) Engañar a los apóstoles",
+      "B) Comprar el don del Espíritu Santo",
+      "C) Negar a Jesús",
+      "D) Perseguir a la iglesia"
     ],
     "correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál fue el efecto principal de la persecución en la expansión del evangelio?",
-    "alternativas": [
-      "A) Lo detuvo",
-      "B) Lo debilitó",
-      "C) Lo limitó a Jerusalén",
-      "D) Lo impulsó a otras regiones"
-    ],
-    "correcta": "D"
-  },
-  {
-    "pregunta": "Según Hechos 8:8, ¿qué resultado produjo la predicación en Samaria?",
-    "alternativas": [
-      "A) Confusión",
-      "B) Temor",
-      "C) Gran gozo",
-      "D) División"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué verdad teológica se resalta al ver que Saulo participa indirectamente en la muerte de Esteban?",
-    "alternativas": [
-      "A) Dios abandona a sus enemigos",
-      "B) El pecado no tiene consecuencias",
-      "C) Dios puede transformar a los perseguidores",
-      "D) La iglesia depende del poder humano"
-    ],
-    "correcta": "C"
   }
 ]
