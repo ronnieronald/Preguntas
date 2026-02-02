@@ -1,202 +1,102 @@
 [
   {
-    "pregunta": "¿Quiénes se llenaron de celos y arrestaron a los apóstoles en Hechos 5:17?",
-    "alternativas": [
-      "A) Los fariseos",
-      "B) Los romanos",
-      "C) El sumo sacerdote y los saduceos",
-      "D) Los escribas"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Dónde fueron puestos los apóstoles después de ser arrestados?",
-    "alternativas": [
-      "A) En una cárcel romana",
-      "B) En prisión pública",
-      "C) En una casa privada",
-      "D) Fuera de la ciudad"
-    ],
-    "correcta": "B"
-  },
-  {
-    "pregunta": "¿Quién liberó milagrosamente a los apóstoles de la cárcel?",
-    "alternativas": [
-      "A) Un discípulo",
-      "B) El pueblo",
-      "C) Un ángel del Señor",
-      "D) Gamaliel"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué orden recibieron los apóstoles después de ser liberados?",
-    "alternativas": [
-      "A) Huir de Jerusalén",
-      "B) Guardar silencio",
-      "C) Enseñar en el templo",
-      "D) Presentarse ante Pilato"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué afirmaron los apóstoles ante el concilio?",
-    "alternativas": [
-      "A) Obedeceremos la ley romana",
-      "B) Obedeceremos a los sacerdotes",
-      "C) Obedeceremos a Dios antes que a los hombres",
-      "D) Esperaremos otra señal"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Quién dio consejo al concilio para no matar a los apóstoles?",
+    "pregunta": "¿Quién fue enviado por un ángel del Señor para encontrarse con el eunuco etíope?",
     "alternativas": [
       "A) Pedro",
-      "B) Gamaliel",
-      "C) Caifás",
-      "D) Juan"
+      "B) Juan",
+      "C) Felipe",
+      "D) Pablo"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué estaba haciendo el eunuco etíope cuando Felipe se acercó a él?",
+    "alternativas": [
+      "A) Orando en silencio",
+      "B) Leyendo al profeta Isaías",
+      "C) Cantando salmos",
+      "D) Descansando en el camino"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Qué argumento usó Gamaliel sobre los movimientos humanos?",
+    "pregunta": "¿De qué región provenía el eunuco etíope?",
     "alternativas": [
-      "A) Siempre triunfan",
-      "B) Son apoyados por Roma",
-      "C) Se desvanecen por sí solos",
-      "D) Deben ser perseguidos"
+      "A) Egipto",
+      "B) Samaria",
+      "C) Etiopía",
+      "D) Siria"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Qué les hicieron a los apóstoles antes de dejarlos ir?",
+    "pregunta": "¿Qué sacramento recibió el eunuco tras creer en Jesús?",
     "alternativas": [
-      "A) Los encarcelaron nuevamente",
-      "B) Los desterraron",
-      "C) Los azotaron",
-      "D) Los multaron"
+      "A) La imposición de manos",
+      "B) La comunión",
+      "C) El bautismo",
+      "D) La confirmación"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Cómo reaccionaron los apóstoles después de ser azotados?",
+    "pregunta": "¿Cómo continuó su camino el eunuco después de ser bautizado?",
     "alternativas": [
-      "A) Con miedo",
-      "B) Con tristeza",
+      "A) Con temor",
+      "B) Confundido",
       "C) Con gozo",
-      "D) Con enojo"
+      "D) En silencio"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Cuál fue el problema que surgió en la iglesia en Hechos 6?",
+    "pregunta": "¿Qué profeta estaba leyendo el eunuco en su carro?",
     "alternativas": [
-      "A) Falsos maestros",
-      "B) Persecución romana",
-      "C) Quejas por la distribución diaria",
-      "D) Falta de predicación"
+      "A) Jeremías",
+      "B) Ezequiel",
+      "C) Isaías",
+      "D) Daniel"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Cuántos varones fueron escogidos para servir a las mesas?",
+    "pregunta": "¿Qué función desempeñaba el eunuco etíope en su país?",
     "alternativas": [
-      "A) Cinco",
-      "B) Siete",
-      "C) Doce",
-      "D) Diez"
+      "A) Sacerdote del templo",
+      "B) General del ejército",
+      "C) Tesorero de Candace",
+      "D) Gobernador regional"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué condición expresó el eunuco para poder ser bautizado?",
+    "alternativas": [
+      "A) Ayunar primero",
+      "B) Creer con todo su corazón",
+      "C) Viajar a Jerusalén",
+      "D) Ofrecer un sacrificio"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Qué cualidad debía tener uno de los escogidos para servir?",
+    "pregunta": "¿Qué ocurrió con Felipe después del bautismo del eunuco?",
     "alternativas": [
-      "A) Ser rico",
-      "B) Ser anciano",
-      "C) Estar lleno del Espíritu Santo",
-      "D) Ser levita"
+      "A) Regresó a Jerusalén",
+      "B) Fue arrestado",
+      "C) El Espíritu lo arrebató",
+      "D) Se quedó con el eunuco"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Quién fue acusado falsamente y llevado ante el concilio en Hechos 6?",
+    "pregunta": "¿En qué ciudad apareció Felipe después de ser arrebatado por el Espíritu?",
     "alternativas": [
-      "A) Pedro",
-      "B) Juan",
-      "C) Esteban",
-      "D) Felipe"
+      "A) Gaza",
+      "B) Cesarea",
+      "C) Jope",
+      "D) Azoto"
     ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Cómo describen el rostro de Esteban ante el concilio?",
-    "alternativas": [
-      "A) Lleno de temor",
-      "B) Como rostro de ángel",
-      "C) Cubierto de sudor",
-      "D) Endurecido"
-    ],
-    "correcta": "B"
-  },
-  {
-    "pregunta": "¿Con quién inicia Esteban su discurso en Hechos 7?",
-    "alternativas": [
-      "A) Moisés",
-      "B) David",
-      "C) Abraham",
-      "D) José"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué pecado histórico resalta Esteban en el pueblo de Israel?",
-    "alternativas": [
-      "A) Idolatría constante",
-      "B) Falta de sacrificios",
-      "C) Rechazo a los profetas",
-      "D) Desobediencia al rey"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Cómo reaccionó el concilio ante las palabras de Esteban?",
-    "alternativas": [
-      "A) Se arrepintieron",
-      "B) Guardaron silencio",
-      "C) Se enfurecieron",
-      "D) Lo liberaron"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué vio Esteban antes de morir?",
-    "alternativas": [
-      "A) El templo destruido",
-      "B) A Moisés",
-      "C) A Jesús a la diestra de Dios",
-      "D) Ángeles descendiendo"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Quién aprobó la muerte de Esteban?",
-    "alternativas": [
-      "A) Pedro",
-      "B) Juan",
-      "C) Saulo",
-      "D) Gamaliel"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué intentó hacer Simón el mago en Hechos 8?",
-    "alternativas": [
-      "A) Engañar a los apóstoles",
-      "B) Comprar el don del Espíritu Santo",
-      "C) Negar a Jesús",
-      "D) Perseguir a la iglesia"
-    ],
-    "correcta": "B"
+    "correcta": "D"
   }
 ]
