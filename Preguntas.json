@@ -1,102 +1,102 @@
 [
   {
-    "pregunta": "¿Quién fue enviado por un ángel del Señor para encontrarse con el eunuco etíope?",
+    "pregunta": "¿Quién era la persona principal en Hechos 9:1–9 antes de su encuentro con Jesús?",
     "alternativas": [
-      "A) Pedro",
-      "B) Juan",
-      "C) Felipe",
-      "D) Pablo"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué estaba haciendo el eunuco etíope cuando Felipe se acercó a él?",
-    "alternativas": [
-      "A) Orando en silencio",
-      "B) Leyendo al profeta Isaías",
-      "C) Cantando salmos",
-      "D) Descansando en el camino"
+      "A) Un discípulo de Jesús",
+      "B) Un perseguidor de la iglesia",
+      "C) Un apóstol reconocido",
+      "D) Un gobernador romano"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿De qué región provenía el eunuco etíope?",
+    "pregunta": "¿Hacia qué ciudad se dirigía Saulo cuando ocurrió el encuentro con Jesús?",
     "alternativas": [
-      "A) Egipto",
-      "B) Samaria",
-      "C) Etiopía",
-      "D) Siria"
+      "A) Jerusalén",
+      "B) Antioquía",
+      "C) Damasco",
+      "D) Cesarea"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Qué sacramento recibió el eunuco tras creer en Jesús?",
+    "pregunta": "¿Qué efecto físico tuvo Saulo después de la aparición de Jesús?",
     "alternativas": [
-      "A) La imposición de manos",
-      "B) La comunión",
-      "C) El bautismo",
-      "D) La confirmación"
+      "A) Quedó paralizado",
+      "B) Perdió el habla",
+      "C) Quedó ciego",
+      "D) Cayó enfermo"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Cómo continuó su camino el eunuco después de ser bautizado?",
+    "pregunta": "¿Qué hicieron los hombres que acompañaban a Saulo durante el evento?",
     "alternativas": [
-      "A) Con temor",
-      "B) Confundido",
-      "C) Con gozo",
-      "D) En silencio"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué profeta estaba leyendo el eunuco en su carro?",
-    "alternativas": [
-      "A) Jeremías",
-      "B) Ezequiel",
-      "C) Isaías",
-      "D) Daniel"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué función desempeñaba el eunuco etíope en su país?",
-    "alternativas": [
-      "A) Sacerdote del templo",
-      "B) General del ejército",
-      "C) Tesorero de Candace",
-      "D) Gobernador regional"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué condición expresó el eunuco para poder ser bautizado?",
-    "alternativas": [
-      "A) Ayunar primero",
-      "B) Creer con todo su corazón",
-      "C) Viajar a Jerusalén",
-      "D) Ofrecer un sacrificio"
+      "A) Vieron a Jesús claramente",
+      "B) Escucharon la voz pero no vieron a nadie",
+      "C) Huyeron asustados",
+      "D) Cayeron ciegos también"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Qué ocurrió con Felipe después del bautismo del eunuco?",
+    "pregunta": "¿Cuántos días permaneció Saulo sin ver después del encuentro?",
     "alternativas": [
-      "A) Regresó a Jerusalén",
-      "B) Fue arrestado",
-      "C) El Espíritu lo arrebató",
-      "D) Se quedó con el eunuco"
+      "A) Uno",
+      "B) Dos",
+      "C) Tres",
+      "D) Siete"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿En qué ciudad apareció Felipe después de ser arrebatado por el Espíritu?",
+    "pregunta": "¿Qué revela el hecho de que Jesús se identifique con los creyentes al decir \"¿por qué me persigues?\"?",
     "alternativas": [
-      "A) Gaza",
-      "B) Cesarea",
-      "C) Jope",
-      "D) Azoto"
+      "A) Que Jesús solo defendía a ciertos discípulos",
+      "B) Que la iglesia es una institución política",
+      "C) Que Cristo se identifica íntimamente con su iglesia",
+      "D) Que Saulo conocía personalmente a Jesús"
     ],
-    "correcta": "D"
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué enseña este pasaje sobre la conversión desde una perspectiva evangélica?",
+    "alternativas": [
+      "A) Es el resultado del esfuerzo humano",
+      "B) Ocurre solo por tradición religiosa",
+      "C) Es una obra soberana de la gracia de Dios",
+      "D) Requiere aprobación de líderes religiosos"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Por qué la ceguera de Saulo puede entenderse como algo más que un castigo físico?",
+    "alternativas": [
+      "A) Porque simboliza su muerte inminente",
+      "B) Porque representa su ceguera espiritual",
+      "C) Porque fue causada por los hombres que lo acompañaban",
+      "D) Porque era una enfermedad común de la época"
+    ],
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué nos muestra el pasaje acerca del celo religioso sin un conocimiento correcto de Dios?",
+    "alternativas": [
+      "A) Siempre es aprobado por Dios",
+      "B) Es suficiente para la salvación",
+      "C) Puede llevar a oponerse a la obra de Dios",
+      "D) No tiene consecuencias espirituales"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es una implicación teológica clave del llamado de Saulo en este pasaje?",
+    "alternativas": [
+      "A) Dios elige solo a personas moralmente perfectas",
+      "B) La salvación depende del pasado del creyente",
+      "C) Dios puede transformar radicalmente al peor opositor",
+      "D) La conversión elimina toda disciplina divina"
+    ],
+    "correcta": "C"
   }
 ]
