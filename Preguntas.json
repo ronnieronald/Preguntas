@@ -1,102 +1,102 @@
 [
   {
-    "pregunta": "¿Quién fue el discípulo que Dios llamó en visión para ir a ver a Saulo?",
+    "pregunta": "¿Qué proclamaba Saulo inmediatamente después de su conversión en las sinagogas?",
+    "alternativas": [
+      "A) Que Jesús era un profeta poderoso",
+      "B) Que Jesús era el Hijo de Dios",
+      "C) Que la ley debía abandonarse",
+      "D) Que el reino de Israel sería restaurado"
+    ],
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál fue la reacción inicial de muchos al escuchar predicar a Saulo?",
+    "alternativas": [
+      "A) Alegría y aceptación inmediata",
+      "B) Indiferencia total",
+      "C) Asombro y confusión",
+      "D) Rechazo unánime sin sorpresa"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué hacían los judíos cuando Saulo crecía en poder y demostraba que Jesús era el Cristo?",
+    "alternativas": [
+      "A) Se convertían en gran número",
+      "B) Lo enviaban a otras ciudades",
+      "C) Confabulaban para matarlo",
+      "D) Lo expulsaban de las sinagogas"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cómo escapó Saulo cuando intentaron matarlo en Damasco?",
+    "alternativas": [
+      "A) Huyendo de noche por el desierto",
+      "B) Protegido por soldados romanos",
+      "C) Descendido en una canasta por el muro",
+      "D) Disfrazado como comerciante"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Por qué los discípulos en Jerusalén temían a Saulo?",
+    "alternativas": [
+      "A) Porque no conocían su enseñanza",
+      "B) Porque dudaban de su conversión",
+      "C) Porque predicaba a los gentiles",
+      "D) Porque rechazaba a los apóstoles"
+    ],
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Quién intercedió por Saulo ante los apóstoles y dio testimonio de su conversión?",
     "alternativas": [
       "A) Pedro",
-      "B) Ananías",
-      "C) Felipe",
+      "B) Juan",
+      "C) Ananías",
       "D) Bernabé"
     ],
-    "correcta": "B"
+    "correcta": "D"
   },
   {
-    "pregunta": "¿En qué ciudad se encontraba Saulo cuando Dios habló a Ananías?",
+    "pregunta": "¿Qué destacó Bernabé sobre la experiencia de Saulo en el camino?",
     "alternativas": [
-      "A) Jerusalén",
-      "B) Antioquía",
-      "C) Damasco",
-      "D) Tarso"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué condición física tenía Saulo al momento en que Ananías fue enviado a él?",
-    "alternativas": [
-      "A) Estaba enfermo",
-      "B) Estaba preso",
-      "C) Estaba ciego",
-      "D) Estaba paralítico"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué acción realizó Ananías cuando llegó a donde estaba Saulo?",
-    "alternativas": [
-      "A) Lo reprendió públicamente",
-      "B) Oró a distancia",
-      "C) Le impuso las manos",
-      "D) Lo bautizó inmediatamente"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué ocurrió inmediatamente después de que Ananías oró por Saulo?",
-    "alternativas": [
-      "A) Saulo comenzó a predicar",
-      "B) Cayó en trance",
-      "C) Recobró la vista",
-      "D) Salió huyendo de la ciudad"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Cuál fue la principal objeción de Ananías ante la orden de Dios?",
-    "alternativas": [
-      "A) No conocía el camino",
-      "B) Temía perder su reputación",
-      "C) Conocía el pasado perseguidor de Saulo",
-      "D) Dudaba de la voz de Dios"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "¿Cómo describe el Señor el propósito futuro de Saulo según el pasaje?",
-    "alternativas": [
-      "A) Como juez del pueblo de Israel",
-      "B) Como instrumento escogido",
-      "C) Como profeta del templo",
-      "D) Como líder político"
+      "A) Que había tenido una visión simbólica",
+      "B) Que el Señor se le había aparecido y le había hablado",
+      "C) Que había aprendido de los apóstoles",
+      "D) Que había recibido autoridad humana"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Qué revela el hecho de que Ananías llame a Saulo “hermano”?",
+    "pregunta": "¿Con quién discutía Saulo en Jerusalén, provocando oposición?",
     "alternativas": [
-      "A) Una relación familiar previa",
-      "B) Una aceptación basada en la gracia",
-      "C) Una estrategia diplomática",
-      "D) Una orden directa de Saulo"
-    ],
-    "correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué enseñanza teológica se destaca en la restauración de Saulo según la perspectiva evangélica?",
-    "alternativas": [
-      "A) La salvación por obras",
-      "B) La supremacía de la ley mosaica",
-      "C) La gracia soberana de Dios",
-      "D) La autoridad del Sanedrín"
+      "A) Los fariseos",
+      "B) Los saduceos",
+      "C) Los helenistas (Judios)",
+      "D) Los sacerdotes"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Qué papel cumple Ananías en el proceso de conversión de Saulo?",
+    "pregunta": "¿Qué hicieron los hermanos cuando supieron que querían matar a Saulo en Jerusalén?",
     "alternativas": [
-      "A) Mediador indispensable para la salvación",
-      "B) Instrumento humano usado por Dios",
-      "C) Autor de la sanidad espiritual",
-      "D) Líder principal de la iglesia"
+      "A) Lo escondieron en la ciudad",
+      "B) Lo enviaron a Tarso",
+      "C) Lo llevaron a Roma",
+      "D) Lo pusieron bajo vigilancia"
     ],
     "correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál fue el resultado general en la iglesia después de estos acontecimientos?",
+    "alternativas": [
+      "A) División y persecución constante",
+      "B) Estancamiento espiritual",
+      "C) Paz, edificación y crecimiento en el temor del Señor",
+      "D) Expansión solo entre los judíos"
+    ],
+    "correcta": "C"
   }
 ]
