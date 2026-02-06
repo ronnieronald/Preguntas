@@ -1,101 +1,101 @@
 [
   {
-    "pregunta": "¿Qué proclamaba Saulo inmediatamente después de su conversión en las sinagogas?",
+    "pregunta": "[1]¿A quiénes fue a visitar Pedro en la ciudad de Lida?",
     "alternativas": [
-      "A) Que Jesús era un profeta poderoso",
-      "B) Que Jesús era el Hijo de Dios",
-      "C) Que la ley debía abandonarse",
-      "D) Que el reino de Israel sería restaurado"
+      "A) A los apóstoles",
+      "B) A los creyentes",
+      "C) A las viudas",
+      "D) A los pobres"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Cuál fue la reacción inicial de muchos al escuchar predicar a Saulo?",
+    "pregunta": "[2]¿Cómo se llamaba el hombre que estaba paralizado y postrado en cama?",
     "alternativas": [
-      "A) Alegría y aceptación inmediata",
-      "B) Indiferencia total",
-      "C) Asombro y confusión",
-      "D) Rechazo unánime sin sorpresa"
+      "A) Simón",
+      "B) Dorcas",
+      "C) Eneas",
+      "D) Tabita"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Qué hacían los judíos cuando Saulo crecía en poder y demostraba que Jesús era el Cristo?",
+    "pregunta": "[3]¿Cuántos años llevaba Eneas postrado en cama?",
     "alternativas": [
-      "A) Se convertían en gran número",
-      "B) Lo enviaban a otras ciudades",
-      "C) Confabulaban para matarlo",
-      "D) Lo expulsaban de las sinagogas"
+      "A) Cinco años",
+      "B) Seis años",
+      "C) Ocho años",
+      "D) Diez años"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Cómo escapó Saulo cuando intentaron matarlo en Damasco?",
+    "pregunta": "[4]¿Qué le dijo Pedro a Eneas que hiciera después de decirle que Jesucristo lo sanaba?",
     "alternativas": [
-      "A) Huyendo de noche por el desierto",
-      "B) Protegido por soldados romanos",
-      "C) Descendido en una canasta por el muro",
-      "D) Disfrazado como comerciante"
+      "A) Que alabara a Dios",
+      "B) Que caminara por la ciudad",
+      "C) Que enrollara su camilla",
+      "D) Que fuera a Jope"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Por qué los discípulos en Jerusalén temían a Saulo?",
+    "pregunta": "[5]¿En qué ciudad vivía la creyente llamada Tabita?",
     "alternativas": [
-      "A) Porque no conocían su enseñanza",
-      "B) Porque dudaban de su conversión",
-      "C) Porque predicaba a los gentiles",
-      "D) Porque rechazaba a los apóstoles"
+      "A) Lida",
+      "B) Sarón",
+      "C) Jope",
+      "D) Jerusalén"
+    ],
+    "correcta": "C"
+  },
+  {
+    "pregunta": "[6]¿Qué hacía Tabita según se describe en el pasaje?",
+    "alternativas": [
+      "A) Predicaba en las sinagogas",
+      "B) Siempre hacía buenas acciones y ayudaba a los pobres",
+      "C) Viajaba con los apóstoles",
+      "D) Enseñaba en las casas"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Quién intercedió por Saulo ante los apóstoles y dio testimonio de su conversión?",
+    "pregunta": "[7]¿Qué hicieron los creyentes cuando supieron que Pedro estaba cerca en Lida?",
     "alternativas": [
-      "A) Pedro",
-      "B) Juan",
-      "C) Ananías",
-      "D) Bernabé"
-    ],
-    "correcta": "D"
-  },
-  {
-    "pregunta": "¿Qué destacó Bernabé sobre la experiencia de Saulo en el camino?",
-    "alternativas": [
-      "A) Que había tenido una visión simbólica",
-      "B) Que el Señor se le había aparecido y le había hablado",
-      "C) Que había aprendido de los apóstoles",
-      "D) Que había recibido autoridad humana"
+      "A) Fueron a buscarlo inmediatamente",
+      "B) Mandaron a dos hombres a suplicarle que fuera",
+      "C) Le enviaron una carta",
+      "D) Oraron sin llamarlo"
     ],
     "correcta": "B"
   },
   {
-    "pregunta": "¿Con quién discutía Saulo en Jerusalén, provocando oposición?",
+    "pregunta": "[8]¿Qué había en el cuarto cuando Pedro llegó donde estaba el cuerpo de Tabita?",
     "alternativas": [
-      "A) Los fariseos",
-      "B) Los saduceos",
-      "C) Los helenistas (Judios)",
-      "D) Los sacerdotes"
+      "A) Creyentes cantando",
+      "B) Apóstoles orando",
+      "C) Viudas llorando y mostrando ropa",
+      "D) Sacerdotes del templo"
     ],
     "correcta": "C"
   },
   {
-    "pregunta": "¿Qué hicieron los hermanos cuando supieron que querían matar a Saulo en Jerusalén?",
+    "pregunta": "[9]¿Qué hizo Pedro antes de decirle a Tabita que se levantara?",
     "alternativas": [
-      "A) Lo escondieron en la ciudad",
-      "B) Lo enviaron a Tarso",
-      "C) Lo llevaron a Roma",
-      "D) Lo pusieron bajo vigilancia"
+      "A) Cantó un salmo",
+      "B) Ungió el cuerpo con aceite",
+      "C) Se arrodilló y oró",
+      "D) Llamó a los creyentes"
     ],
-    "correcta": "B"
+    "correcta": "C"
   },
   {
-    "pregunta": "¿Cuál fue el resultado general en la iglesia después de estos acontecimientos?",
+    "pregunta": "[10]¿Con quién se quedó viviendo Pedro en Jope?",
     "alternativas": [
-      "A) División y persecución constante",
-      "B) Estancamiento espiritual",
-      "C) Paz, edificación y crecimiento en el temor del Señor",
-      "D) Expansión solo entre los judíos"
+      "A) Con Eneas",
+      "B) Con Dorcas",
+      "C) Con Simón, un curtidor de pieles",
+      "D) Con uno de los apóstoles"
     ],
     "correcta": "C"
   }
