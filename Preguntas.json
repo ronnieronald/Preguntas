@@ -1,102 +1,102 @@
 [
   {
-    "pregunta": "[1]¿A quiénes fue a visitar Pedro en la ciudad de Lida?",
+    "pregunta": "[1] ¿Quién era Cornelio?",
     "alternativas": [
-      "A) A los apóstoles",
-      "B) A los creyentes",
-      "C) A las viudas",
-      "D) A los pobres"
+      "A) Un sacerdote judío",
+      "B) Un centurión romano",
+      "C) Un profeta",
+      "D) Un pescador"
     ],
-    "correcta": "B"
+    "correcta": "B) Un centurión romano"
   },
   {
-    "pregunta": "[2]¿Cómo se llamaba el hombre que estaba paralizado y postrado en cama?",
+    "pregunta": "[2] ¿Qué acción de Cornelio agradaba a Dios?",
     "alternativas": [
-      "A) Simón",
-      "B) Dorcas",
-      "C) Eneas",
-      "D) Tabita"
+      "A) Comer alimentos kosher",
+      "B) Dar limosnas y orar a Dios",
+      "C) Viajar a Jerusalén",
+      "D) Construir un templo"
     ],
-    "correcta": "C"
+    "correcta": "B) Dar limosnas y orar a Dios"
   },
   {
-    "pregunta": "[3]¿Cuántos años llevaba Eneas postrado en cama?",
+    "pregunta": "[3] ¿Qué vio Cornelio en su visión?",
     "alternativas": [
-      "A) Cinco años",
-      "B) Seis años",
-      "C) Ocho años",
-      "D) Diez años"
+      "A) Un ángel que le habló",
+      "B) Una paloma descendiendo",
+      "C) Una puerta abierta al cielo",
+      "D) Un fuego que no lo quemaba"
     ],
-    "correcta": "C"
+    "correcta": "A) Un ángel que le habló"
   },
   {
-    "pregunta": "[4]¿Qué le dijo Pedro a Eneas que hiciera después de decirle que Jesucristo lo sanaba?",
+    "pregunta": "[4] ¿Qué le pidió el ángel a Cornelio que hiciera?",
     "alternativas": [
-      "A) Que alabara a Dios",
-      "B) Que caminara por la ciudad",
-      "C) Que enrollara su camilla",
-      "D) Que fuera a Jope"
+      "A) Que construyera un altar",
+      "B) Que enviara hombres a Joppe para traer a Pedro",
+      "C) Que dejara de orar",
+      "D) Que se uniera a los judíos"
     ],
-    "correcta": "C"
+    "correcta": "B) Que enviara hombres a Joppe para traer a Pedro"
   },
   {
-    "pregunta": "[5]¿En qué ciudad vivía la creyente llamada Tabita?",
+    "pregunta": "[5] ¿Dónde estaba Pedro cuando tuvo su visión?",
     "alternativas": [
-      "A) Lida",
-      "B) Sarón",
-      "C) Jope",
-      "D) Jerusalén"
+      "A) En el templo",
+      "B) En la sinagoga",
+      "C) En el techo de una casa",
+      "D) En la calle principal de Joppe"
     ],
-    "correcta": "C"
+    "correcta": "C) En el techo de una casa"
   },
   {
-    "pregunta": "[6]¿Qué hacía Tabita según se describe en el pasaje?",
+    "pregunta": "[6] ¿Qué descendió del cielo en la visión de Pedro?",
     "alternativas": [
-      "A) Predicaba en las sinagogas",
-      "B) Siempre hacía buenas acciones y ayudaba a los pobres",
-      "C) Viajaba con los apóstoles",
-      "D) Enseñaba en las casas"
+      "A) Una luz brillante",
+      "B) Un lienzo con animales",
+      "C) Una paloma blanca",
+      "D) Fuego que no lo quemaba"
     ],
-    "correcta": "B"
+    "correcta": "B) Un lienzo con animales"
   },
   {
-    "pregunta": "[7]¿Qué hicieron los creyentes cuando supieron que Pedro estaba cerca en Lida?",
+    "pregunta": "[7] ¿Qué le dijo la voz del cielo a Pedro sobre los animales?",
     "alternativas": [
-      "A) Fueron a buscarlo inmediatamente",
-      "B) Mandaron a dos hombres a suplicarle que fuera",
-      "C) Le enviaron una carta",
-      "D) Oraron sin llamarlo"
+      "A) \"Solo come los que son limpios\"",
+      "B) \"No llames impuro a lo que Dios ha limpiado\"",
+      "C) \"Evita comer carne de cerdo\"",
+      "D) \"Es pecado tocar estos animales\""
     ],
-    "correcta": "B"
+    "correcta": "B) \"No llames impuro a lo que Dios ha limpiado\""
   },
   {
-    "pregunta": "[8]¿Qué había en el cuarto cuando Pedro llegó donde estaba el cuerpo de Tabita?",
+    "pregunta": "[8] ¿Cómo reaccionó Pedro cuando llegaron los hombres de Cornelio?",
     "alternativas": [
-      "A) Creyentes cantando",
-      "B) Apóstoles orando",
-      "C) Viudas llorando y mostrando ropa",
-      "D) Sacerdotes del templo"
+      "A) Los rechazó",
+      "B) Los recibió y les preguntó la razón de su visita",
+      "C) Los hizo esperar tres días",
+      "D) No los vio"
     ],
-    "correcta": "C"
+    "correcta": "B) Los recibió y les preguntó la razón de su visita"
   },
   {
-    "pregunta": "[9]¿Qué hizo Pedro antes de decirle a Tabita que se levantara?",
+    "pregunta": "[9] ¿Qué instrucción dio el Espíritu a Pedro respecto a los enviados de Cornelio?",
     "alternativas": [
-      "A) Cantó un salmo",
-      "B) Ungió el cuerpo con aceite",
-      "C) Se arrodilló y oró",
-      "D) Llamó a los creyentes"
+      "A) Que no los acompañara",
+      "B) Que los acompañara sin dudar",
+      "C) Que les diera dinero",
+      "D) Que se escondiera de ellos"
     ],
-    "correcta": "C"
+    "correcta": "B) Que los acompañara sin dudar"
   },
   {
-    "pregunta": "[10]¿Con quién se quedó viviendo Pedro en Jope?",
+    "pregunta": "[10] ¿Dónde se encontraron Pedro y Cornelio finalmente?",
     "alternativas": [
-      "A) Con Eneas",
-      "B) Con Dorcas",
-      "C) Con Simón, un curtidor de pieles",
-      "D) Con uno de los apóstoles"
+      "A) En Jerusalén",
+      "B) En la casa de Cornelio en Cesarea",
+      "C) En el templo",
+      "D) En la sinagoga de Joppe"
     ],
-    "correcta": "C"
+    "correcta": "B) En la casa de Cornelio en Cesarea"
   }
 ]
