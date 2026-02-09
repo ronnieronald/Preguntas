@@ -1,102 +1,102 @@
 [
   {
-    "pregunta": "[1] ¿Quién era Cornelio?",
+    "pregunta": "[1] ¿Quiénes oyeron que los gentiles habían recibido la palabra de Dios?",
     "alternativas": [
-      "A) Un sacerdote judío",
-      "B) Un centurión romano",
-      "C) Un profeta",
-      "D) Un pescador"
+      "A) Los apóstoles y los hermanos que estaban en Judea",
+      "B) Los fariseos y los escribas",
+      "C) Los sacerdotes del templo",
+      "D) Los discípulos de Galilea"
     ],
-    "correcta": "B) Un centurión romano"
+    "correcta": "A"
   },
   {
-    "pregunta": "[2] ¿Qué acción de Cornelio agradaba a Dios?",
+    "pregunta": "[2] ¿Qué le reclamaron a Pedro los que eran de la circuncisión?",
     "alternativas": [
-      "A) Comer alimentos kosher",
-      "B) Dar limosnas y orar a Dios",
-      "C) Viajar a Jerusalén",
-      "D) Construir un templo"
+      "A) Haber predicado en Samaria",
+      "B) Haber comido con publicanos",
+      "C) Haber entrado en casa de incircuncisos y comido con ellos",
+      "D) Haber sanado en día de reposo"
     ],
-    "correcta": "B) Dar limosnas y orar a Dios"
+    "correcta": "C"
   },
   {
-    "pregunta": "[3] ¿Qué vio Cornelio en su visión?",
+    "pregunta": "[3] ¿En qué ciudad estaba Pedro cuando tuvo la visión?",
     "alternativas": [
-      "A) Un ángel que le habló",
-      "B) Una paloma descendiendo",
-      "C) Una puerta abierta al cielo",
-      "D) Un fuego que no lo quemaba"
+      "A) Jerusalén",
+      "B) Jope",
+      "C) Cesarea",
+      "D) Antioquía"
     ],
-    "correcta": "A) Un ángel que le habló"
+    "correcta": "B"
   },
   {
-    "pregunta": "[4] ¿Qué le pidió el ángel a Cornelio que hiciera?",
+    "pregunta": "[4] ¿Cuántos varones acompañaron a Pedro a casa de Cornelio?",
     "alternativas": [
-      "A) Que construyera un altar",
-      "B) Que enviara hombres a Joppe para traer a Pedro",
-      "C) Que dejara de orar",
-      "D) Que se uniera a los judíos"
+      "A) Dos",
+      "B) Tres",
+      "C) Seis",
+      "D) Siete"
     ],
-    "correcta": "B) Que enviara hombres a Joppe para traer a Pedro"
+    "correcta": "C"
   },
   {
-    "pregunta": "[5] ¿Dónde estaba Pedro cuando tuvo su visión?",
+    "pregunta": "[5] ¿Qué descendía del cielo en la visión que tuvo Pedro?",
     "alternativas": [
-      "A) En el templo",
-      "B) En la sinagoga",
-      "C) En el techo de una casa",
-      "D) En la calle principal de Joppe"
+      "A) Un rollo",
+      "B) Un lienzo grande atado de las cuatro puntas",
+      "C) Un arca",
+      "D) Una nube de fuego"
     ],
-    "correcta": "C) En el techo de una casa"
+    "correcta": "B"
   },
   {
-    "pregunta": "[6] ¿Qué descendió del cielo en la visión de Pedro?",
+    "pregunta": "[6] ¿Qué clase de animales había en el lienzo según el relato?",
     "alternativas": [
-      "A) Una luz brillante",
-      "B) Un lienzo con animales",
-      "C) Una paloma blanca",
-      "D) Fuego que no lo quemaba"
+      "A) Solo animales limpios",
+      "B) Bestias del campo y aves",
+      "C) Peces del mar",
+      "D) Bestias del campo, reptiles y aves del cielo"
     ],
-    "correcta": "B) Un lienzo con animales"
+    "correcta": "D"
   },
   {
-    "pregunta": "[7] ¿Qué le dijo la voz del cielo a Pedro sobre los animales?",
+    "pregunta": "[7] ¿Cuántas veces se oyó la voz que hablaba con Pedro en la visión?",
     "alternativas": [
-      "A) \"Solo come los que son limpios\"",
-      "B) \"No llames impuro a lo que Dios ha limpiado\"",
-      "C) \"Evita comer carne de cerdo\"",
-      "D) \"Es pecado tocar estos animales\""
+      "A) Una vez",
+      "B) Dos veces",
+      "C) Tres veces",
+      "D) Cuatro veces"
     ],
-    "correcta": "B) \"No llames impuro a lo que Dios ha limpiado\""
+    "correcta": "C"
   },
   {
-    "pregunta": "[8] ¿Cómo reaccionó Pedro cuando llegaron los hombres de Cornelio?",
+    "pregunta": "[8] ¿Qué mandamiento dio el Espíritu a Pedro respecto a los hombres que lo buscaban?",
     "alternativas": [
-      "A) Los rechazó",
-      "B) Los recibió y les preguntó la razón de su visita",
-      "C) Los hizo esperar tres días",
-      "D) No los vio"
+      "A) Que los probara primero",
+      "B) Que los evitara",
+      "C) Que fuera con ellos sin dudar",
+      "D) Que esperara una señal adicional"
     ],
-    "correcta": "B) Los recibió y les preguntó la razón de su visita"
+    "correcta": "C"
   },
   {
-    "pregunta": "[9] ¿Qué instrucción dio el Espíritu a Pedro respecto a los enviados de Cornelio?",
+    "pregunta": "[9] ¿Qué ocurrió cuando Pedro comenzó a hablar en casa de Cornelio?",
     "alternativas": [
-      "A) Que no los acompañara",
-      "B) Que los acompañara sin dudar",
-      "C) Que les diera dinero",
-      "D) Que se escondiera de ellos"
+      "A) Los oyentes guardaron silencio",
+      "B) El Espíritu Santo cayó sobre todos los que oían",
+      "C) Algunos se retiraron",
+      "D) Hubo una discusión"
     ],
-    "correcta": "B) Que los acompañara sin dudar"
+    "correcta": "B"
   },
   {
-    "pregunta": "[10] ¿Dónde se encontraron Pedro y Cornelio finalmente?",
+    "pregunta": "[10] ¿Qué conclusión sacaron los oyentes después de escuchar a Pedro?",
     "alternativas": [
-      "A) En Jerusalén",
-      "B) En la casa de Cornelio en Cesarea",
-      "C) En el templo",
-      "D) En la sinagoga de Joppe"
+      "A) Que Pedro había desobedecido la ley",
+      "B) Que los gentiles debían circuncidarse",
+      "C) Que Dios también había dado arrepentimiento para vida a los gentiles",
+      "D) Que era necesario consultar a los apóstoles"
     ],
-    "correcta": "B) En la casa de Cornelio en Cesarea"
+    "correcta": "C"
   }
 ]
