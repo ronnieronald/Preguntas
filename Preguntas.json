@@ -1,102 +1,112 @@
 [
   {
-    "pregunta": "[1] ¿Quiénes oyeron que los gentiles habían recibido la palabra de Dios?",
+    "pregunta": "[1] ¿Por causa de quién se produjo la persecución que hizo que los creyentes se dispersaran?",
     "alternativas": [
-      "A) Los apóstoles y los hermanos que estaban en Judea",
-      "B) Los fariseos y los escribas",
-      "C) Los sacerdotes del templo",
-      "D) Los discípulos de Galilea"
+      "A) Pedro",
+      "B) Esteban",
+      "C) Jacobo",
+      "D) Juan"
     ],
-    "correcta": "A"
+    "correcta": "B) Esteban",
+    "referencia": "Hechos 11:19"
   },
   {
-    "pregunta": "[2] ¿Qué le reclamaron a Pedro los que eran de la circuncisión?",
+    "pregunta": "[2] ¿A qué lugares llegaron algunos de los dispersos según el pasaje?",
     "alternativas": [
-      "A) Haber predicado en Samaria",
-      "B) Haber comido con publicanos",
-      "C) Haber entrado en casa de incircuncisos y comido con ellos",
-      "D) Haber sanado en día de reposo"
+      "A) Roma, Galacia y Corinto",
+      "B) Antioquía, Jerusalén y Samaria",
+      "C) Fenicia, Chipre y Antioquía",
+      "D) Éfeso, Colosas y Filipos"
     ],
-    "correcta": "C"
+    "correcta": "C) Fenicia, Chipre y Antioquía",
+    "referencia": "Hechos 11:19"
   },
   {
-    "pregunta": "[3] ¿En qué ciudad estaba Pedro cuando tuvo la visión?",
+    "pregunta": "[3] ¿A quiénes hablaban la palabra los que llegaron a Antioquía al principio?",
+    "alternativas": [
+      "A) A los romanos",
+      "B) A los samaritanos",
+      "C) A los gentiles",
+      "D) A los judíos solamente"
+    ],
+    "correcta": "D) A los judíos solamente",
+    "referencia": "Hechos 11:19"
+  },
+  {
+    "pregunta": "[4] ¿Cómo se llamaba el varón enviado por la iglesia de Jerusalén a Antioquía?",
+    "alternativas": [
+      "A) Saulo",
+      "B) Silas",
+      "C) Bernabé",
+      "D) Marcos"
+    ],
+    "correcta": "C) Bernabé",
+    "referencia": "Hechos 11:22"
+  },
+  {
+    "pregunta": "[5] ¿Cómo fueron llamados por primera vez los discípulos en Antioquía?",
+    "alternativas": [
+      "A) Nazarenos",
+      "B) Creyentes",
+      "C) Cristianos",
+      "D) Hermanos"
+    ],
+    "correcta": "C) Cristianos",
+    "referencia": "Hechos 11:26"
+  },
+  {
+    "pregunta": "[6] ¿Quiénes comenzaron a hablar también a los griegos anunciando el evangelio del Señor Jesús?",
+    "alternativas": [
+      "A) Los de Jerusalén",
+      "B) Los de Fenicia",
+      "C) Los varones de Chipre y de Cirene",
+      "D) Los apóstoles"
+    ],
+    "correcta": "C) Los varones de Chipre y de Cirene",
+    "referencia": "Hechos 11:20"
+  },
+  {
+    "pregunta": "[7] ¿Qué efecto tuvo la mano del Señor con los que oyeron el mensaje?",
+    "alternativas": [
+      "A) Muchos se fueron a Jerusalén",
+      "B) Gran número creyó y se convirtió al Señor",
+      "C) Fueron perseguidos",
+      "D) Se reunieron en el templo"
+    ],
+    "correcta": "B) Gran número creyó y se convirtió al Señor",
+    "referencia": "Hechos 11:21"
+  },
+  {
+    "pregunta": "[8] ¿A dónde fue Bernabé para buscar a Saulo?",
     "alternativas": [
       "A) Jerusalén",
-      "B) Jope",
-      "C) Cesarea",
-      "D) Antioquía"
+      "B) Antioquía",
+      "C) Damasco",
+      "D) Tarso"
     ],
-    "correcta": "B"
+    "correcta": "D) Tarso",
+    "referencia": "Hechos 11:25"
   },
   {
-    "pregunta": "[4] ¿Cuántos varones acompañaron a Pedro a casa de Cornelio?",
+    "pregunta": "[9] ¿Qué profeta anunció la gran hambre que habría en toda la tierra?",
     "alternativas": [
-      "A) Dos",
-      "B) Tres",
-      "C) Seis",
-      "D) Siete"
+      "A) Judas",
+      "B) Silas",
+      "C) Agabo",
+      "D) Bernabé"
     ],
-    "correcta": "C"
+    "correcta": "C) Agabo",
+    "referencia": "Hechos 11:27-28"
   },
   {
-    "pregunta": "[5] ¿Qué descendía del cielo en la visión que tuvo Pedro?",
+    "pregunta": "[10] ¿Por medio de quiénes enviaron los discípulos la ayuda a los ancianos?",
     "alternativas": [
-      "A) Un rollo",
-      "B) Un lienzo grande atado de las cuatro puntas",
-      "C) Un arca",
-      "D) Una nube de fuego"
+      "A) Pedro y Juan",
+      "B) Pablo y Silas",
+      "C) Bernabé y Saulo",
+      "D) Marcos y Lucas"
     ],
-    "correcta": "B"
-  },
-  {
-    "pregunta": "[6] ¿Qué clase de animales había en el lienzo según el relato?",
-    "alternativas": [
-      "A) Solo animales limpios",
-      "B) Bestias del campo y aves",
-      "C) Peces del mar",
-      "D) Bestias del campo, reptiles y aves del cielo"
-    ],
-    "correcta": "D"
-  },
-  {
-    "pregunta": "[7] ¿Cuántas veces se oyó la voz que hablaba con Pedro en la visión?",
-    "alternativas": [
-      "A) Una vez",
-      "B) Dos veces",
-      "C) Tres veces",
-      "D) Cuatro veces"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "[8] ¿Qué mandamiento dio el Espíritu a Pedro respecto a los hombres que lo buscaban?",
-    "alternativas": [
-      "A) Que los probara primero",
-      "B) Que los evitara",
-      "C) Que fuera con ellos sin dudar",
-      "D) Que esperara una señal adicional"
-    ],
-    "correcta": "C"
-  },
-  {
-    "pregunta": "[9] ¿Qué ocurrió cuando Pedro comenzó a hablar en casa de Cornelio?",
-    "alternativas": [
-      "A) Los oyentes guardaron silencio",
-      "B) El Espíritu Santo cayó sobre todos los que oían",
-      "C) Algunos se retiraron",
-      "D) Hubo una discusión"
-    ],
-    "correcta": "B"
-  },
-  {
-    "pregunta": "[10] ¿Qué conclusión sacaron los oyentes después de escuchar a Pedro?",
-    "alternativas": [
-      "A) Que Pedro había desobedecido la ley",
-      "B) Que los gentiles debían circuncidarse",
-      "C) Que Dios también había dado arrepentimiento para vida a los gentiles",
-      "D) Que era necesario consultar a los apóstoles"
-    ],
-    "correcta": "C"
+    "correcta": "C) Bernabé y Saulo",
+    "referencia": "Hechos 11:29-30"
   }
 ]
