@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-02-12",
+  "fecha": "2026-02-11",
   "preguntas": [
     {
       "pregunta": "[1] ¿De tal manera amó Dios al mundo, que ha dado a quién?",
@@ -10,17 +10,6 @@
         "D) A Israel"
       ],
       "correcta": "A",
-      "referencia": "Juan 3:16"
-    },
-    {
-      "pregunta": "[2] ¿Cuál es el resultado para todo aquel que cree en Él?",
-      "alternativas": [
-        "A) Prosperidad",
-        "B) No se pierda, mas tenga vida eterna",
-        "C) Larga vida en la tierra",
-        "D) Sabiduría"
-      ],
-      "correcta": "B",
       "referencia": "Juan 3:16"
     }
   ]
