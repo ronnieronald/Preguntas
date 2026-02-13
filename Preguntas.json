@@ -2,26 +2,114 @@
   "fecha": "2026-02-12",
   "preguntas": [
     {
-      "pregunta": "[1] ¿De tal manera amó Dios al mundo, que ha dado a quién?",
+      "pregunta": "[1] ¿Desde qué ciudad zarparon Pablo y sus compañeros?",
       "alternativas": [
-        "A) A su Hijo unigénito",
-        "B) A sus profetas",
-        "C) A los ángeles",
-        "D) A Israel"
-      ],
-      "correcta": "A",
-      "referencia": "Juan 3:16"
-    },
-    {
-      "pregunta": "[2] ¿Cuál es el resultado para todo aquel que cree en Él?",
-      "alternativas": [
-        "A) Prosperidad",
-        "B) No se pierda, mas tenga vida eterna",
-        "C) Larga vida en la tierra",
-        "D) Sabiduría"
+        "A) Antioquía",
+        "B) Pafos",
+        "C) Perge",
+        "D) Chipre"
       ],
       "correcta": "B",
-      "referencia": "Juan 3:16"
+      "referencia": "Hechos 13:13"
+    },
+    {
+      "pregunta": "[2] ¿Qué persona se apartó del grupo y volvió a Jerusalén?",
+      "alternativas": [
+        "A) Bernabé",
+        "B) Silas",
+        "C) Juan",
+        "D) Timoteo"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:13"
+    },
+    {
+      "pregunta": "[3] ¿En qué día entraron Pablo y Bernabé a la sinagoga?",
+      "alternativas": [
+        "A) El primer día",
+        "B) El día de reposo",
+        "C) El día de la fiesta",
+        "D) El día siguiente"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 13:14"
+    },
+    {
+      "pregunta": "[4] ¿Quiénes invitaron a Pablo a hablar después de la lectura?",
+      "alternativas": [
+        "A) Los apóstoles",
+        "B) Los sacerdotes",
+        "C) Los gobernadores de la sinagoga",
+        "D) Los fariseos"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:15"
+    },
+    {
+      "pregunta": "[5] ¿Cómo comenzó Pablo su exhortación al pueblo?",
+      "alternativas": [
+        "A) Hermanos míos",
+        "B) Varones israelitas, y los que teméis a Dios",
+        "C) Pueblo escogido",
+        "D) Hijos de Abraham"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 13:16"
+    },
+    {
+      "pregunta": "[6] ¿En qué lugar engrandeció Dios al pueblo de Israel?",
+      "alternativas": [
+        "A) Canaán",
+        "B) Babilonia",
+        "C) Egipto",
+        "D) Siria"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:17"
+    },
+    {
+      "pregunta": "[7] ¿Durante cuánto tiempo soportó Dios la conducta del pueblo en el desierto?",
+      "alternativas": [
+        "A) Treinta años",
+        "B) Cuarenta años",
+        "C) Cincuenta años",
+        "D) Setenta años"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 13:18"
+    },
+    {
+      "pregunta": "[8] ¿Cuántas naciones destruyó Dios antes de darles la tierra en herencia?",
+      "alternativas": [
+        "A) Cinco",
+        "B) Seis",
+        "C) Siete",
+        "D) Diez"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:19"
+    },
+    {
+      "pregunta": "[9] ¿Qué profeta mencionó Pablo al hablar del rey David?",
+      "alternativas": [
+        "A) Isaías",
+        "B) Jeremías",
+        "C) Samuel",
+        "D) Elías"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:20-22"
+    },
+    {
+      "pregunta": "[10] ¿De qué descendencia levantó Dios a Jesús como Salvador?",
+      "alternativas": [
+        "A) Abraham",
+        "B) Moisés",
+        "C) David",
+        "D) Saúl"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:23"
     }
   ]
 }
