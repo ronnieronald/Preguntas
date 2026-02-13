@@ -1,115 +1,115 @@
 {
-  "fecha": "2026-02-12",
+  "fecha": "2026-02-13",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Desde qué ciudad zarparon Pablo y sus compañeros?",
+      "pregunta": "[1] ¿Desde qué lugar Pablo y sus compañeros navegaron hasta llegar a Perge de Panfilia?",
       "alternativas": [
         "A) Antioquía",
-        "B) Pafos",
-        "C) Perge",
-        "D) Chipre"
-      ],
-      "correcta": "B",
-      "referencia": "Hechos 13:13"
-    },
-    {
-      "pregunta": "[2] ¿Qué persona se apartó del grupo y volvió a Jerusalén?",
-      "alternativas": [
-        "A) Bernabé",
-        "B) Silas",
-        "C) Juan",
-        "D) Timoteo"
+        "B) Chipre",
+        "C) Pafos",
+        "D) Jerusalén"
       ],
       "correcta": "C",
       "referencia": "Hechos 13:13"
     },
     {
-      "pregunta": "[3] ¿En qué día entraron Pablo y Bernabé a la sinagoga?",
+      "pregunta": "[2] ¿Quién se apartó del grupo y volvió a Jerusalén?",
+      "alternativas": [
+        "A) Bernabé",
+        "B) Silas",
+        "C) Timoteo",
+        "D) Juan"
+      ],
+      "correcta": "D",
+      "referencia": "Hechos 13:13"
+    },
+    {
+      "pregunta": "[3] ¿En qué día entraron Pablo y sus compañeros en la sinagoga en Antioquía de Pisidia?",
       "alternativas": [
         "A) El primer día",
         "B) El día de reposo",
-        "C) El día de la fiesta",
+        "C) El día de Pentecostés",
         "D) El día siguiente"
       ],
       "correcta": "B",
       "referencia": "Hechos 13:14"
     },
     {
-      "pregunta": "[4] ¿Quiénes invitaron a Pablo a hablar después de la lectura?",
+      "pregunta": "[4] ¿A quiénes se dirige Pablo al comenzar su exhortación?",
       "alternativas": [
-        "A) Los apóstoles",
-        "B) Los sacerdotes",
-        "C) Los gobernadores de la sinagoga",
-        "D) Los fariseos"
+        "A) A los fariseos",
+        "B) A los sacerdotes",
+        "C) A los varones israelitas y a los que temen a Dios",
+        "D) A los gentiles solamente"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:15"
-    },
-    {
-      "pregunta": "[5] ¿Cómo comenzó Pablo su exhortación al pueblo?",
-      "alternativas": [
-        "A) Hermanos míos",
-        "B) Varones israelitas, y los que teméis a Dios",
-        "C) Pueblo escogido",
-        "D) Hijos de Abraham"
-      ],
-      "correcta": "B",
       "referencia": "Hechos 13:16"
     },
     {
-      "pregunta": "[6] ¿En qué lugar engrandeció Dios al pueblo de Israel?",
+      "pregunta": "[5] ¿En qué tierra hizo habitar Dios al pueblo antes de sacarlo con brazo exaltado?",
       "alternativas": [
         "A) Canaán",
         "B) Babilonia",
-        "C) Egipto",
-        "D) Siria"
+        "C) Asiria",
+        "D) Egipto"
       ],
-      "correcta": "C",
+      "correcta": "D",
       "referencia": "Hechos 13:17"
     },
     {
-      "pregunta": "[7] ¿Durante cuánto tiempo soportó Dios la conducta del pueblo en el desierto?",
+      "pregunta": "[6] ¿Cuántos años soportó Dios las costumbres del pueblo en el desierto?",
       "alternativas": [
-        "A) Treinta años",
-        "B) Cuarenta años",
-        "C) Cincuenta años",
-        "D) Setenta años"
+        "A) Cuarenta",
+        "B) Setenta",
+        "C) Veinte",
+        "D) Doce"
       ],
-      "correcta": "B",
+      "correcta": "A",
       "referencia": "Hechos 13:18"
     },
     {
-      "pregunta": "[8] ¿Cuántas naciones destruyó Dios antes de darles la tierra en herencia?",
+      "pregunta": "[7] ¿Cuántas naciones destruyó Dios en la tierra de Canaán para darla en herencia?",
       "alternativas": [
         "A) Cinco",
-        "B) Seis",
-        "C) Siete",
-        "D) Diez"
+        "B) Siete",
+        "C) Diez",
+        "D) Doce"
       ],
-      "correcta": "C",
+      "correcta": "B",
       "referencia": "Hechos 13:19"
     },
     {
-      "pregunta": "[9] ¿Qué profeta mencionó Pablo al hablar del rey David?",
+      "pregunta": "[8] ¿Por cuánto tiempo dio Dios jueces al pueblo después de repartir la tierra?",
       "alternativas": [
-        "A) Isaías",
-        "B) Jeremías",
-        "C) Samuel",
-        "D) Elías"
+        "A) Doscientos años",
+        "B) Cuatrocientos años",
+        "C) Cuatrocientos cincuenta años",
+        "D) Quinientos años"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:20-22"
+      "referencia": "Hechos 13:20"
     },
     {
-      "pregunta": "[10] ¿De qué descendencia levantó Dios a Jesús como Salvador?",
+      "pregunta": "[9] ¿Cuántos años reinó Saúl hijo de Cis sobre Israel?",
       "alternativas": [
-        "A) Abraham",
-        "B) Moisés",
-        "C) David",
-        "D) Saúl"
+        "A) Veinte",
+        "B) Treinta",
+        "C) Cuarenta",
+        "D) Cincuenta"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:23"
+      "referencia": "Hechos 13:21"
+    },
+    {
+      "pregunta": "[10] ¿Qué testimonio dio Dios acerca de David según Pablo?",
+      "alternativas": [
+        "A) Que fue un gran guerrero",
+        "B) Que edificó el templo",
+        "C) Que fue el primer rey justo",
+        "D) Que era varón conforme a su corazón y haría todo lo que Él quería"
+      ],
+      "correcta": "D",
+      "referencia": "Hechos 13:22"
     }
   ]
 }
