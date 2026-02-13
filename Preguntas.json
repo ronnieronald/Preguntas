@@ -11,6 +11,17 @@
       ],
       "correcta": "A",
       "referencia": "Juan 3:16"
+    },
+    {
+      "pregunta": "[2] ¿Cuál es el resultado para todo aquel que cree en Él?",
+      "alternativas": [
+        "A) Prosperidad",
+        "B) No se pierda, mas tenga vida eterna",
+        "C) Larga vida en la tierra",
+        "D) Sabiduría"
+      ],
+      "correcta": "B",
+      "referencia": "Juan 3:16"
     }
   ]
 }
