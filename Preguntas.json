@@ -1,112 +1,27 @@
-[
-  {
-    "pregunta": "[1] ¿En qué iglesia se encontraban los profetas y maestros mencionados al inicio del pasaje?",
-    "alternativas": [
-      "A) Jerusalén",
-      "B) Antioquía",
-      "C) Éfeso",
-      "D) Corinto"
-    ],
-    "correcta": "B",
-    "referencia": "Hechos 13:1"
-  },
-  {
-    "pregunta": "[2] ¿A quiénes dijo el Espíritu Santo que apartaran para la obra?",
-    "alternativas": [
-      "A) Pedro y Juan",
-      "B) Bernabé y Marcos",
-      "C) Bernabé y Saulo",
-      "D) Saulo y Silas"
-    ],
-    "correcta": "C",
-    "referencia": "Hechos 13:2"
-  },
-  {
-    "pregunta": "[3] ¿Desde qué lugar navegaron Pablo y Bernabé hacia Chipre?",
-    "alternativas": [
-      "A) Antioquía",
-      "B) Pafos",
-      "C) Cirene",
-      "D) Seleucia"
-    ],
-    "correcta": "D",
-    "referencia": "Hechos 13:4"
-  },
-  {
-    "pregunta": "[4] ¿En qué ciudad anunciaban la palabra de Dios en las sinagogas de los judíos?",
-    "alternativas": [
-      "A) Pafos",
-      "B) Salamina",
-      "C) Jerusalén",
-      "D) Listra"
-    ],
-    "correcta": "B",
-    "referencia": "Hechos 13:5"
-  },
-  {
-    "pregunta": "[5] ¿Quién iba con ellos como ayudante?",
-    "alternativas": [
-      "A) Lucas",
-      "B) Silas",
-      "C) Juan marcos",
-      "D) Timoteo"
-    ],
-    "correcta": "C",
-    "referencia": "Hechos 13:5"
-  },
-  {
-    "pregunta": "[6] ¿Cómo describe el texto a Barjesús?",
-    "alternativas": [
-      "A) Maestro de la ley",
-      "B) Sacerdote del templo",
-      "C) Mago y falso profeta judío",
-      "D) Gobernador romano"
-    ],
-    "correcta": "C",
-    "referencia": "Hechos 13:6"
-  },
-  {
-    "pregunta": "[7] ¿Cuál era el nombre del procónsul mencionado en el pasaje?",
-    "alternativas": [
-      "A) Félix",
-      "B) Sergio Paulo",
-      "C) Cornelio",
-      "D) Augusto"
-    ],
-    "correcta": "B",
-    "referencia": "Hechos 13:7"
-  },
-  {
-    "pregunta": "[8] ¿Qué otro nombre recibe Saulo en este pasaje?",
-    "alternativas": [
-      "A) Pedro",
-      "B) Bernabé",
-      "C) Marcos",
-      "D) Pablo"
-    ],
-    "correcta": "D",
-    "referencia": "Hechos 13:9"
-  },
-  {
-    "pregunta": "[9] ¿Qué castigo anunció Pablo contra Elimas?",
-    "alternativas": [
-      "A) Quedaría mudo",
-      "B) Sería expulsado de la ciudad",
-      "C) Sería herido de muerte",
-      "D) Quedaría ciego por algún tiempo"
-    ],
-    "correcta": "D",
-    "referencia": "Hechos 13:11"
-  },
-  {
-    "pregunta": "[10] ¿Qué ocurrió con el procónsul después de lo sucedido con Elimas?",
-    "alternativas": [
-      "A) Mandó apresar a Pablo",
-      "B) Se fue de la ciudad",
-      "C) Creyó maravillado en la enseñanza del Señor",
-      "D) Permaneció indeciso"
-    ],
-    "correcta": "C",
-    "referencia": "Hechos 13:12"
-  }
-]
+{
+  "fecha": "2026-02-12",
+  "preguntas": [
+    {
+      "pregunta": "[1] ¿De tal manera amó Dios al mundo, que ha dado a quién?",
+      "alternativas": [
+        "A) A su Hijo unigénito",
+        "B) A sus profetas",
+        "C) A los ángeles",
+        "D) A Israel"
+      ],
+      "correcta": "A",
+      "referencia": "Juan 3:16"
+    },
+    {
+      "pregunta": "[2] ¿Cuál es el resultado para todo aquel que cree en Él?",
+      "alternativas": [
+        "A) Prosperidad",
+        "B) No se pierda, mas tenga vida eterna",
+        "C) Larga vida en la tierra",
+        "D) Sabiduría"
+      ],
+      "correcta": "B",
+      "referencia": "Juan 3:16"
+    }
+  ]
+}
