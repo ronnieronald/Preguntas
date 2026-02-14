@@ -1,115 +1,115 @@
 {
-  "fecha": "2026-02-13",
+  "fecha": "2026-02-14",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Desde qué lugar Pablo y sus compañeros navegaron hasta llegar a Perge de Panfilia?",
+      "pregunta": "[1] ¿A quiénes dice Pablo que es enviada la palabra de esta salvación?",
       "alternativas": [
-        "A) Antioquía",
-        "B) Chipre",
-        "C) Pafos",
-        "D) Jerusalén"
+        "A) A los apóstoles",
+        "B) A los gentiles solamente",
+        "C) A los hermanos, hijos del linaje de Abraham y a los temerosos de Dios",
+        "D) A los sacerdotes del templo"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:13"
+      "referencia": "Hechos 13:26"
     },
     {
-      "pregunta": "[2] ¿Quién se apartó del grupo y volvió a Jerusalén?",
+      "pregunta": "[2] ¿Qué hicieron los gobernantes de Jerusalén con Jesús?",
       "alternativas": [
-        "A) Bernabé",
-        "B) Silas",
-        "C) Timoteo",
-        "D) Juan"
+        "A) Lo siguieron",
+        "B) Lo reconocieron como Mesías",
+        "C) Lo enviaron a predicar",
+        "D) Lo condenaron"
       ],
       "correcta": "D",
-      "referencia": "Hechos 13:13"
+      "referencia": "Hechos 13:27-28"
     },
     {
-      "pregunta": "[3] ¿En qué día entraron Pablo y sus compañeros en la sinagoga en Antioquía de Pisidia?",
+      "pregunta": "[3] ¿Quién levantó a Jesús de los muertos?",
       "alternativas": [
-        "A) El primer día",
-        "B) El día de reposo",
-        "C) El día de Pentecostés",
-        "D) El día siguiente"
+        "A) Los discípulos",
+        "B) Los ángeles",
+        "C) Dios",
+        "D) El pueblo"
       ],
-      "correcta": "B",
-      "referencia": "Hechos 13:14"
+      "correcta": "C",
+      "referencia": "Hechos 13:30"
     },
     {
-      "pregunta": "[4] ¿A quiénes se dirige Pablo al comenzar su exhortación?",
+      "pregunta": "[4] ¿A quiénes se apareció Jesús después de haber resucitado?",
       "alternativas": [
         "A) A los fariseos",
-        "B) A los sacerdotes",
-        "C) A los varones israelitas y a los que temen a Dios",
-        "D) A los gentiles solamente"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 13:16"
-    },
-    {
-      "pregunta": "[5] ¿En qué tierra hizo habitar Dios al pueblo antes de sacarlo con brazo exaltado?",
-      "alternativas": [
-        "A) Canaán",
-        "B) Babilonia",
-        "C) Asiria",
-        "D) Egipto"
-      ],
-      "correcta": "D",
-      "referencia": "Hechos 13:17"
-    },
-    {
-      "pregunta": "[6] ¿Cuántos años soportó Dios las costumbres del pueblo en el desierto?",
-      "alternativas": [
-        "A) Cuarenta",
-        "B) Setenta",
-        "C) Veinte",
-        "D) Doce"
-      ],
-      "correcta": "A",
-      "referencia": "Hechos 13:18"
-    },
-    {
-      "pregunta": "[7] ¿Cuántas naciones destruyó Dios en la tierra de Canaán para darla en herencia?",
-      "alternativas": [
-        "A) Cinco",
-        "B) Siete",
-        "C) Diez",
-        "D) Doce"
+        "B) A los que habían subido con Él de Galilea a Jerusalén",
+        "C) A Pilato",
+        "D) A todo el pueblo"
       ],
       "correcta": "B",
-      "referencia": "Hechos 13:19"
+      "referencia": "Hechos 13:31"
     },
     {
-      "pregunta": "[8] ¿Por cuánto tiempo dio Dios jueces al pueblo después de repartir la tierra?",
+      "pregunta": "[5] ¿Qué se anuncia por medio de Jesús según Pablo?",
       "alternativas": [
-        "A) Doscientos años",
-        "B) Cuatrocientos años",
-        "C) Cuatrocientos cincuenta años",
-        "D) Quinientos años"
+        "A) La ley de Moisés",
+        "B) El juicio final",
+        "C) El perdón de pecados",
+        "D) El reino terrenal"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:20"
+      "referencia": "Hechos 13:38"
     },
     {
-      "pregunta": "[9] ¿Cuántos años reinó Saúl hijo de Cis sobre Israel?",
+      "pregunta": "[6] ¿Qué promesa dice Pablo que Dios cumplió al resucitar a Jesús?",
       "alternativas": [
-        "A) Veinte",
-        "B) Treinta",
-        "C) Cuarenta",
-        "D) Cincuenta"
+        "A) La promesa hecha a los profetas",
+        "B) La promesa hecha a los sacerdotes",
+        "C) La promesa hecha a los padres",
+        "D) La promesa hecha a los reyes"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:21"
+      "referencia": "Hechos 13:32-33"
     },
     {
-      "pregunta": "[10] ¿Qué testimonio dio Dios acerca de David según Pablo?",
+      "pregunta": "[7] ¿Qué cita Pablo para afirmar que Jesús no vería corrupción?",
       "alternativas": [
-        "A) Que fue un gran guerrero",
-        "B) Que edificó el templo",
-        "C) Que fue el primer rey justo",
-        "D) Que era varón conforme a su corazón y haría todo lo que Él quería"
+        "A) Un proverbio de Salomón",
+        "B) Una palabra de Moisés",
+        "C) Un dicho popular",
+        "D) Una promesa de Dios en los Salmos"
       ],
       "correcta": "D",
-      "referencia": "Hechos 13:22"
+      "referencia": "Hechos 13:35"
+    },
+    {
+      "pregunta": "[8] ¿Por medio de quién es justificado todo aquel que cree?",
+      "alternativas": [
+        "A) Por la ley",
+        "B) Por Moisés",
+        "C) Por los sacrificios",
+        "D) Por Jesús"
+      ],
+      "correcta": "D",
+      "referencia": "Hechos 13:39"
+    },
+    {
+      "pregunta": "[9] ¿Qué advertencia da Pablo citando a los profetas?",
+      "alternativas": [
+        "A) Que vendrá hambre",
+        "B) Que no menosprecien la obra de Dios",
+        "C) Que el templo será destruido",
+        "D) Que habrá persecución"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 13:40-41"
+    },
+    {
+      "pregunta": "[10] ¿Qué exhortación daban Pablo y Bernabé a los que los seguían?",
+      "alternativas": [
+        "A) Que guardasen la ley",
+        "B) Que ofreciesen sacrificios",
+        "C) Que perseverasen en la gracia de Dios",
+        "D) Que regresaran a Jerusalén"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 13:43"
     }
   ]
 }
