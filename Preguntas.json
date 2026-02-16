@@ -1,115 +1,115 @@
 {
-  "fecha": "2026-02-14",
+  "fecha": "2026-02-16",
   "preguntas": [
     {
-      "pregunta": "[1] ¿A quiénes dice Pablo que es enviada la palabra de esta salvación?",
+      "pregunta": "[1] ¿En qué lugar entraron Pablo y Bernabé juntos a la sinagoga y hablaron de tal manera que creyó una gran multitud?",
       "alternativas": [
-        "A) A los apóstoles",
-        "B) A los gentiles solamente",
-        "C) A los hermanos, hijos del linaje de Abraham y a los temerosos de Dios",
-        "D) A los sacerdotes del templo"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 13:26"
-    },
-    {
-      "pregunta": "[2] ¿Qué hicieron los gobernantes de Jerusalén con Jesús?",
-      "alternativas": [
-        "A) Lo siguieron",
-        "B) Lo reconocieron como Mesías",
-        "C) Lo enviaron a predicar",
-        "D) Lo condenaron"
-      ],
-      "correcta": "D",
-      "referencia": "Hechos 13:27-28"
-    },
-    {
-      "pregunta": "[3] ¿Quién levantó a Jesús de los muertos?",
-      "alternativas": [
-        "A) Los discípulos",
-        "B) Los ángeles",
-        "C) Dios",
-        "D) El pueblo"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 13:30"
-    },
-    {
-      "pregunta": "[4] ¿A quiénes se apareció Jesús después de haber resucitado?",
-      "alternativas": [
-        "A) A los fariseos",
-        "B) A los que habían subido con Él de Galilea a Jerusalén",
-        "C) A Pilato",
-        "D) A todo el pueblo"
+        "A) Listra",
+        "B) Iconio",
+        "C) Derbe",
+        "D) Antioquía"
       ],
       "correcta": "B",
-      "referencia": "Hechos 13:31"
+      "referencia": "Hechos 14:1"
     },
     {
-      "pregunta": "[5] ¿Qué se anuncia por medio de Jesús según Pablo?",
+      "pregunta": "[2] ¿Quiénes incitaron y corrompieron los ánimos de los gentiles contra los hermanos?",
       "alternativas": [
-        "A) La ley de Moisés",
-        "B) El juicio final",
-        "C) El perdón de pecados",
-        "D) El reino terrenal"
+        "A) Los sacerdotes",
+        "B) Los magistrados",
+        "C) Los judíos que no creían",
+        "D) Los fariseos"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:38"
+      "referencia": "Hechos 14:2"
     },
     {
-      "pregunta": "[6] ¿Qué promesa dice Pablo que Dios cumplió al resucitar a Jesús?",
+      "pregunta": "[3] ¿Qué daba testimonio el Señor a la palabra de su gracia?",
       "alternativas": [
-        "A) La promesa hecha a los profetas",
-        "B) La promesa hecha a los sacerdotes",
-        "C) La promesa hecha a los padres",
-        "D) La promesa hecha a los reyes"
+        "A) Por sueños",
+        "B) Por visiones",
+        "C) Por señales y prodigios",
+        "D) Por profecías"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:32-33"
+      "referencia": "Hechos 14:3"
     },
     {
-      "pregunta": "[7] ¿Qué cita Pablo para afirmar que Jesús no vería corrupción?",
+      "pregunta": "[4] ¿Qué hicieron Pablo y Bernabé cuando se dieron cuenta del intento de apedrearlos?",
       "alternativas": [
-        "A) Un proverbio de Salomón",
-        "B) Una palabra de Moisés",
-        "C) Un dicho popular",
-        "D) Una promesa de Dios en los Salmos"
+        "A) Se escondieron",
+        "B) Apelaron a las autoridades",
+        "C) Huyeron a Listra y Derbe",
+        "D) Permanecieron en Iconio"
       ],
-      "correcta": "D",
-      "referencia": "Hechos 13:35"
+      "correcta": "C",
+      "referencia": "Hechos 14:6"
     },
     {
-      "pregunta": "[8] ¿Por medio de quién es justificado todo aquel que cree?",
+      "pregunta": "[5] ¿Qué enfermedad tenía el hombre que Pablo sanó en Listra?",
       "alternativas": [
-        "A) Por la ley",
-        "B) Por Moisés",
-        "C) Por los sacrificios",
-        "D) Por Jesús"
+        "A) Era ciego",
+        "B) Era paralítico",
+        "C) Era cojo de nacimiento",
+        "D) Tenía lepra"
       ],
-      "correcta": "D",
-      "referencia": "Hechos 13:39"
+      "correcta": "C",
+      "referencia": "Hechos 14:8"
     },
     {
-      "pregunta": "[9] ¿Qué advertencia da Pablo citando a los profetas?",
+      "pregunta": "[6] ¿Cómo llamaron la gente de Listra a Bernabé y a Pablo?",
       "alternativas": [
-        "A) Que vendrá hambre",
-        "B) Que no menosprecien la obra de Dios",
-        "C) Que el templo será destruido",
-        "D) Que habrá persecución"
+        "A) Apolo y Ares",
+        "B) Zeus y Hermes",
+        "C) Júpiter y Marte",
+        "D) Hermes y Apolo"
       ],
       "correcta": "B",
-      "referencia": "Hechos 13:40-41"
+      "referencia": "Hechos 14:12"
     },
     {
-      "pregunta": "[10] ¿Qué exhortación daban Pablo y Bernabé a los que los seguían?",
+      "pregunta": "[7] ¿Qué intentó hacer el sacerdote de jupiter junto con la multitud?",
       "alternativas": [
-        "A) Que guardasen la ley",
-        "B) Que ofreciesen sacrificios",
-        "C) Que perseverasen en la gracia de Dios",
-        "D) Que regresaran a Jerusalén"
+        "A) Construir un altar",
+        "B) Ofrecer sacrificios",
+        "C) Ungir a Pablo",
+        "D) Proclamar un edicto"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 14:13"
+    },
+    {
+      "pregunta": "[8] ¿Qué hicieron Pablo y Bernabé al oír que querían ofrecerles sacrificios?",
+      "alternativas": [
+        "A) Aceptaron en silencio",
+        "B) Se retiraron del lugar",
+        "C) Rasgaron sus ropas",
+        "D) Llamaron a los ancianos"
       ],
       "correcta": "C",
-      "referencia": "Hechos 13:43"
+      "referencia": "Hechos 14:14"
+    },
+    {
+      "pregunta": "[9] ¿De dónde vinieron los judíos que persuadieron a la multitud para apedrear a Pablo?",
+      "alternativas": [
+        "A) De Jerusalén y Samaria",
+        "B) De Tarso y Derbe",
+        "C) De Antioquía y Iconio",
+        "D) De Éfeso y Mileto"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 14:19"
+    },
+    {
+      "pregunta": "[10] ¿Qué hicieron los discípulos cuando Pablo se levantó después de ser apedreado?",
+      "alternativas": [
+        "A) Lo llevaron fuera de la ciudad",
+        "B) Lo escondieron",
+        "C) Entró en la ciudad",
+        "D) Murió y lo sepultaron"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 14:20"
     }
   ]
 }
