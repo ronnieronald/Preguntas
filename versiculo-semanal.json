@@ -1,9 +1,29 @@
 {
+  "config": {
+    "version": "RVR1960",
+    "titulo": "📖 Versículo de la semana 📚"
+  },
   "versiculoSemana": {
     "libro": "Hechos",
-    "capitulo": 10,
-    "versiculo": 43,
-    "version": "RVR1960",
-    "texto": "De este dan testimonio todos los profetas, que todos los que en Él creyeren, recibirán perdón de pecados por su nombre."
-  }
+    "capitulo": 14,
+    "versiculo": 22,
+    "texto": "Es necesario que a través de muchas tribulaciones entremos en el reino de Dios."
+  },
+  "versiculosMemorizados": [
+    {
+      "libro": "Hechos",
+      "capitulo": 10,
+      "versiculo": 43
+    },
+    {
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculo": 1
+    },
+    {
+      "libro": "Hechos",
+      "capitulo": 14,
+      "versiculo": 22
+    }
+  ]
 }
