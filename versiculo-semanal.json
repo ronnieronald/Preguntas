@@ -1,6 +1,5 @@
 {
   "config": {
-    "version": "RVR1960",
     "titulo": "📖 Versículo de la semana 📚"
   },
   "versiculoSemana": {
@@ -16,14 +15,9 @@
       "versiculo": 43
     },
     {
-      "libro": "Romanos",
-      "capitulo": 8,
-      "versiculo": 1
-    },
-    {
-      "libro": "Hechos",
-      "capitulo": 14,
-      "versiculo": 22
+      "libro": "Undefined",
+      "capitulo": 0,
+      "versiculo": 0
     }
   ]
 }
