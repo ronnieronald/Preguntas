@@ -1,72 +1,116 @@
 {
   "fecha": "2026-02-17",
-  "resumen": "Pablo y Bernabé recorrieron las ciudades donde habían predicado, confirmando a los discípulos en la fe. Establecieron ancianos mediante oración y ayuno, y fortalecieron a la comunidad cristiana. Finalmente, regresaron a Antioquía para informar a la iglesia lo que Dios había hecho en cada ciudad.",
+  "resumen": "Pablo habla sobre la responsabilidad de persuadir a los hombres conociendo el temor del Señor y manifiesta que Cristo, quien no conoció pecado, fue hecho pecado por nosotros para que seamos hechos justicia de Dios en él.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿A qué ciudades volvieron Pablo y Bernabé después de predicar el evangelio? (21)",
+      "pregunta":"[1] ¿Qué conoce Pablo que lo motiva a persuadir a los hombres? (11)",
       "alternativas": [
-        "A) A las mismas ciudades donde ya habían predicado",
-        "B) A nuevas ciudades",
-        "C) A Jerusalén",
-        "D) A Roma"
-      ],
-      "correcta": "A",
-      "referencia": "Hechos 14:21"
-    },
-    {
-      "pregunta": "[2] ¿Qué hacían Pablo y Bernabé en cada ciudad que visitaban? (22)",
-      "alternativas": [
-        "A) Construían templos",
-        "B) Exhortaban a los discípulos a permanecer firmes en la fe",
-        "C) Repartían dinero",
-        "D) Escribían cartas"
+        "A) El amor de los hombres",
+        "B) El temor del Señor",
+        "C) La sabiduría de los escribas",
+        "D) La fuerza humana"
       ],
       "correcta": "B",
-      "referencia": "Hechos 14:22"
+      "referencia": "2 Corintios 5:11"
     },
     {
-      "pregunta": "[3] ¿Qué establecieron en cada iglesia que visitaban? (23)",
+      "pregunta":"[2] ¿A quién son manifiestos Pablo y su mensaje? (11)",
       "alternativas": [
-        "A) Ancianos",
-        "B) Nuevos templos",
-        "C) Bibliotecas",
-        "D) Escuelas"
+        "A) A los apóstoles",
+        "B) A los creyentes",
+        "C) A Dios",
+        "D) A los gobernantes"
       ],
-      "correcta": "A",
-      "referencia": "Hechos 14:23"
+      "correcta": "C",
+      "referencia": "2 Corintios 5:11"
     },
     {
-      "pregunta": "[4] ¿Qué hacían Pablo y Bernabé además de predicar y exhortar? (23)",
+      "pregunta":"[3] ¿Qué espera Pablo que los corintios también sean? (11)",
       "alternativas": [
-        "A) Oraban y ayunaban",
-        "B) Escribían cartas",
-        "C) Pintaban murales",
-        "D) Recolectaban alimentos"
+        "A) Manifestos en sus conciencias",
+        "B) Sabios en la ley",
+        "C) Pobres en espíritu",
+        "D) Fortalecidos en cuerpo"
       ],
       "correcta": "A",
-      "referencia": "Hechos 14:23"
+      "referencia": "2 Corintios 5:11"
     },
     {
-      "pregunta": "[5] ¿Qué instruyeron a los discípulos a hacer frente a las tribulaciones? (22)",
+      "pregunta":"[4] ¿Qué hizo Dios a Cristo por nosotros? (21)",
       "alternativas": [
-        "A) Permanecer firmes en la fe",
-        "B) Huir de la ciudad",
-        "C) Reunirse en secreto",
-        "D) Construir murallas"
+        "A) Lo recompensó",
+        "B) Lo castigó con pecados ajenos",
+        "C) Lo hizo pecado",
+        "D) Lo glorificó inmediatamente"
       ],
-      "correcta": "A",
-      "referencia": "Hechos 14:22"
+      "correcta": "C",
+      "referencia": "2 Corintios 5:21"
     },
     {
-      "pregunta": "[6] ¿Cómo regresaron Pablo y Bernabé a Antioquía después de sus viajes? (26-27)",
+      "pregunta":"[5] ¿Cómo era Cristo antes de ser hecho pecado? (21)",
       "alternativas": [
-        "A) Contando lo que Dios había hecho en las ciudades",
-        "B) Sin contar nada",
-        "C) Llevando soldados",
-        "D) Escribiendo cartas"
+        "A) Perfecto en justicia",
+        "B) No conoció pecado",
+        "C) Sin amor",
+        "D) Hombre común"
+      ],
+      "correcta": "B",
+      "referencia": "2 Corintios 5:21"
+    },
+    {
+      "pregunta":"[6] ¿Para qué somos hechos justicia de Dios? (21)",
+      "alternativas": [
+        "A) Para ser reconocidos por los hombres",
+        "B) Para que Dios sea glorificado",
+        "C) Por medio de Cristo que fue hecho pecado",
+        "D) Para vivir según la ley"
+      ],
+      "correcta": "C",
+      "referencia": "2 Corintios 5:21"
+    },
+    {
+      "pregunta":"[7] ¿Cuál es la relación entre Cristo y el pecado según el versículo 21? (21)",
+      "alternativas": [
+        "A) Cristo conoció todos los pecados",
+        "B) Cristo fue hecho pecado por nosotros",
+        "C) Cristo enseñó el pecado",
+        "D) Cristo ignoró el pecado"
+      ],
+      "correcta": "B",
+      "referencia": "2 Corintios 5:21"
+    },
+    {
+      "pregunta":"[8] ¿Qué papel juega el temor del Señor en la persuasión según 5:11? (11)",
+      "alternativas": [
+        "A) Motiva a persuadir a los hombres",
+        "B) Enseña la ley",
+        "C) Trae prosperidad",
+        "D) Aumenta el poder político"
       ],
       "correcta": "A",
-      "referencia": "Hechos 14:26-27"
+      "referencia": "2 Corintios 5:11"
+    },
+    {
+      "pregunta":"[9] ¿Qué se espera que los corintios tengan en su conciencia? (11)",
+      "alternativas": [
+        "A) Paz interior",
+        "B) Manifestación ante Dios",
+        "C) Sabiduría humana",
+        "D) Temor a los hombres"
+      ],
+      "correcta": "B",
+      "referencia": "2 Corintios 5:11"
+    },
+    {
+      "pregunta":"[10] ¿Qué resultado tiene que Cristo haya sido hecho pecado por nosotros? (21)",
+      "alternativas": [
+        "A) Que seamos ricos",
+        "B) Que seamos hechos justicia de Dios",
+        "C) Que tengamos sabiduría humana",
+        "D) Que seamos reconocidos por los hombres"
+      ],
+      "correcta": "B",
+      "referencia": "2 Corintios 5:21"
     }
   ]
 }
