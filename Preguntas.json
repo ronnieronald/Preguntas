@@ -1,116 +1,116 @@
 {
   "fecha": "2026-02-17",
-  "resumen": "Pablo habla sobre la responsabilidad de persuadir a los hombres conociendo el temor del Señor y manifiesta que Cristo, quien no conoció pecado, fue hecho pecado por nosotros para que seamos hechos justicia de Dios en él.",
+  "resumen": "Algunos que habían venido de Judea enseñaban que los gentiles debían ser circuncidados y guardar la Ley de Moisés. Pedro recordó cómo Dios les dio el Espíritu Santo a los gentiles sin exigirles la circuncisión, mostrando que la salvación es por gracia y no por la Ley.",
   "preguntas": [
     {
-      "pregunta":"[1] ¿Qué conoce Pablo que lo motiva a persuadir a los hombres? (11)",
+      "pregunta": "[1] ¿Quiénes enseñaban que los gentiles debían ser circuncidados? (1)",
       "alternativas": [
-        "A) El amor de los hombres",
-        "B) El temor del Señor",
-        "C) La sabiduría de los escribas",
-        "D) La fuerza humana"
-      ],
-      "correcta": "B",
-      "referencia": "2 Corintios 5:11"
-    },
-    {
-      "pregunta":"[2] ¿A quién son manifiestos Pablo y su mensaje? (11)",
-      "alternativas": [
-        "A) A los apóstoles",
-        "B) A los creyentes",
-        "C) A Dios",
-        "D) A los gobernantes"
-      ],
-      "correcta": "C",
-      "referencia": "2 Corintios 5:11"
-    },
-    {
-      "pregunta":"[3] ¿Qué espera Pablo que los corintios también sean? (11)",
-      "alternativas": [
-        "A) Manifestos en sus conciencias",
-        "B) Sabios en la ley",
-        "C) Pobres en espíritu",
-        "D) Fortalecidos en cuerpo"
+        "A) Los fariseos que habían creído",
+        "B) Los apóstoles",
+        "C) Los discípulos de Antioquía",
+        "D) Los gentiles"
       ],
       "correcta": "A",
-      "referencia": "2 Corintios 5:11"
+      "referencia": "Hechos 15:1"
     },
     {
-      "pregunta":"[4] ¿Qué hizo Dios a Cristo por nosotros? (21)",
+      "pregunta": "[2] ¿Qué exigían que los gentiles guardaran además de la circuncisión? (1)",
       "alternativas": [
-        "A) Lo recompensó",
-        "B) Lo castigó con pecados ajenos",
-        "C) Lo hizo pecado",
-        "D) Lo glorificó inmediatamente"
-      ],
-      "correcta": "C",
-      "referencia": "2 Corintios 5:21"
-    },
-    {
-      "pregunta":"[5] ¿Cómo era Cristo antes de ser hecho pecado? (21)",
-      "alternativas": [
-        "A) Perfecto en justicia",
-        "B) No conoció pecado",
-        "C) Sin amor",
-        "D) Hombre común"
+        "A) La oración diaria",
+        "B) La Ley de Moisés",
+        "C) La construcción del templo",
+        "D) El ayuno semanal"
       ],
       "correcta": "B",
-      "referencia": "2 Corintios 5:21"
+      "referencia": "Hechos 15:1"
     },
     {
-      "pregunta":"[6] ¿Para qué somos hechos justicia de Dios? (21)",
+      "pregunta": "[3] ¿A dónde subieron algunos de Jerusalén para enseñar esto? (2)",
       "alternativas": [
-        "A) Para ser reconocidos por los hombres",
-        "B) Para que Dios sea glorificado",
-        "C) Por medio de Cristo que fue hecho pecado",
-        "D) Para vivir según la ley"
+        "A) A Roma",
+        "B) A Jerusalén",
+        "C) A Antioquía",
+        "D) A Galilea"
       ],
       "correcta": "C",
-      "referencia": "2 Corintios 5:21"
+      "referencia": "Hechos 15:2"
     },
     {
-      "pregunta":"[7] ¿Cuál es la relación entre Cristo y el pecado según el versículo 21? (21)",
+      "pregunta": "[4] ¿Quién se levantó y habló en el concilio, recordando cómo Dios había aceptado a los gentiles? (7)",
       "alternativas": [
-        "A) Cristo conoció todos los pecados",
-        "B) Cristo fue hecho pecado por nosotros",
-        "C) Cristo enseñó el pecado",
-        "D) Cristo ignoró el pecado"
+        "A) Pablo",
+        "B) Bernabé",
+        "C) Pedro",
+        "D) Santiago"
       ],
-      "correcta": "B",
-      "referencia": "2 Corintios 5:21"
+      "correcta": "C",
+      "referencia": "Hechos 15:7"
     },
     {
-      "pregunta":"[8] ¿Qué papel juega el temor del Señor en la persuasión según 5:11? (11)",
+      "pregunta": "[5] ¿Qué les había dado Dios a los gentiles antes de exigir la circuncisión? (8)",
       "alternativas": [
-        "A) Motiva a persuadir a los hombres",
-        "B) Enseña la ley",
-        "C) Trae prosperidad",
-        "D) Aumenta el poder político"
-      ],
-      "correcta": "A",
-      "referencia": "2 Corintios 5:11"
-    },
-    {
-      "pregunta":"[9] ¿Qué se espera que los corintios tengan en su conciencia? (11)",
-      "alternativas": [
-        "A) Paz interior",
-        "B) Manifestación ante Dios",
+        "A) Riquezas",
+        "B) El Espíritu Santo",
         "C) Sabiduría humana",
-        "D) Temor a los hombres"
+        "D) La Ley de Moisés"
       ],
       "correcta": "B",
-      "referencia": "2 Corintios 5:11"
+      "referencia": "Hechos 15:8"
     },
     {
-      "pregunta":"[10] ¿Qué resultado tiene que Cristo haya sido hecho pecado por nosotros? (21)",
+      "pregunta": "[6] Según Pedro, ¿quién hace limpia la fe de los creyentes? (9)",
       "alternativas": [
-        "A) Que seamos ricos",
-        "B) Que seamos hechos justicia de Dios",
-        "C) Que tengamos sabiduría humana",
-        "D) Que seamos reconocidos por los hombres"
+        "A) Los apóstoles",
+        "B) La Ley de Moisés",
+        "C) Dios",
+        "D) Los profetas"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 15:9"
+    },
+    {
+      "pregunta": "[7] ¿Quiénes disputaban sobre si los gentiles debían ser circuncidados? (2)",
+      "alternativas": [
+        "A) Algunos creyentes de Judea y los de Antioquía",
+        "B) Los fariseos y saduceos",
+        "C) Pedro y Juan",
+        "D) Pablo y Bernabé"
+      ],
+      "correcta": "A",
+      "referencia": "Hechos 15:2"
+    },
+    {
+      "pregunta": "[8] ¿Cómo mostró Dios que no hacía distinción entre judíos y gentiles? (9-10)",
+      "alternativas": [
+        "A) Les permitió construir templos",
+        "B) Limpió sus corazones por la fe",
+        "C) Les dio riquezas",
+        "D) Les enseñó la Ley"
       ],
       "correcta": "B",
-      "referencia": "2 Corintios 5:21"
+      "referencia": "Hechos 15:9-10"
+    },
+    {
+      "pregunta": "[9] ¿Qué no podía imponer la Ley sobre los creyentes, según Pedro? (10)",
+      "alternativas": [
+        "A) Pesadas cargas",
+        "B) Enseñanza",
+        "C) Oración",
+        "D) Predicación"
+      ],
+      "correcta": "A",
+      "referencia": "Hechos 15:10"
+    },
+    {
+      "pregunta": "[10] ¿Por qué Dios mostró que la salvación es por gracia? (11)",
+      "alternativas": [
+        "A) Para que todos obedezcan la Ley",
+        "B) Para que los creyentes no se jacten por obras",
+        "C) Para que los apóstoles reciban honor",
+        "D) Para que se construyan templos"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 15:11"
     }
   ]
 }
