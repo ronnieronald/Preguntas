@@ -1,0 +1,23 @@
+{
+  "Lunes": {
+    "resumen": ""
+  },
+  "Martes": {
+    "resumen": ""
+  },
+  "Miercoles": {
+    "resumen": ""
+  },
+  "Jueves": {
+    "resumen": ""
+  },
+  "Viernes": {
+    "resumen": ""
+  },
+  "Sabado": {
+    "resumen": ""
+  },
+  "Domingo": {
+    "resumen": ""
+  }
+}
