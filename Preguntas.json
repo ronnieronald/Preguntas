@@ -1,116 +1,116 @@
 {
-  "fecha": "2026-02-18",
-  "resumen": "Algunos que habían venido de Judea enseñaban que los gentiles debían ser circuncidados y guardar la Ley de Moisés. Pedro recordó cómo Dios les dio el Espíritu Santo a los gentiles sin exigirles la circuncisión, mostrando que la salvación es por gracia y no por la Ley.",
+  "fecha": "2026-02-19",
+  "resumen": "Pablo y Bernabé relatan las señales y maravillas que Dios hizo entre los gentiles. Jacobo responde citando a los profetas y declara que no se debe inquietar a los gentiles que se convierten a Dios, sino escribirles que se aparten de ciertas prácticas. Se decide comunicar esta resolución.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Quiénes enseñaban que los gentiles debían ser circuncidados? (1)",
+      "pregunta": "[1] ¿Quiénes contaron las señales y maravillas que Dios había hecho entre los gentiles? (12)",
       "alternativas": [
-        "A) Los fariseos que habían creído",
-        "B) Los apóstoles",
-        "C) Los discípulos de Antioquía",
-        "D) Los gentiles"
-      ],
-      "correcta": "A",
-      "referencia": "Hechos 15:1"
-    },
-    {
-      "pregunta": "[2] ¿Qué exigían que los gentiles guardaran además de la circuncisión? (1)",
-      "alternativas": [
-        "A) La oración diaria",
-        "B) La Ley de Moisés",
-        "C) La construcción del templo",
-        "D) El ayuno semanal"
+        "A) Pedro y Juan",
+        "B) Pablo y Bernabé",
+        "C) Jacobo y Pedro",
+        "D) Pablo y Silas"
       ],
       "correcta": "B",
-      "referencia": "Hechos 15:1"
+      "referencia": "Hechos 15:12"
     },
     {
-      "pregunta": "[3] ¿A dónde subieron algunos de Jerusalén para enseñar esto? (2)",
+      "pregunta": "[2] ¿Entre quiénes hizo Dios señales y maravillas según el relato? (12)",
       "alternativas": [
-        "A) A Roma",
-        "B) A Jerusalén",
-        "C) A Antioquía",
-        "D) A Galilea"
+        "A) Entre los judíos",
+        "B) Entre los samaritanos",
+        "C) Entre los gentiles",
+        "D) Entre los sacerdotes"
       ],
       "correcta": "C",
-      "referencia": "Hechos 15:2"
+      "referencia": "Hechos 15:12"
     },
     {
-      "pregunta": "[4] ¿Quién se levantó y habló en el concilio, recordando cómo Dios había aceptado a los gentiles? (7)",
+      "pregunta": "[3] ¿Quién tomó la palabra después de que calló toda la multitud? (13)",
+      "alternativas": [
+        "A) Pedro",
+        "B) Pablo",
+        "C) Bernabé",
+        "D) Jacobo"
+      ],
+      "correcta": "D",
+      "referencia": "Hechos 15:13"
+    },
+    {
+      "pregunta": "[4] ¿A quién se refirió Jacobo al decir que Dios visitó por primera vez a los gentiles? (14)",
       "alternativas": [
         "A) Pablo",
-        "B) Bernabé",
-        "C) Pedro",
-        "D) Santiago"
+        "B) Pedro",
+        "C) Bernabé",
+        "D) Juan"
+      ],
+      "correcta": "B",
+      "referencia": "Hechos 15:14"
+    },
+    {
+      "pregunta": "[5] ¿Para qué dice el texto que Dios visitó a los gentiles? (14)",
+      "alternativas": [
+        "A) Para juzgarlos",
+        "B) Para enseñarles la ley",
+        "C) Para tomar de ellos pueblo para su nombre",
+        "D) Para enviarlos a otras naciones"
       ],
       "correcta": "C",
-      "referencia": "Hechos 15:7"
+      "referencia": "Hechos 15:14"
     },
     {
-      "pregunta": "[5] ¿Qué les había dado Dios a los gentiles antes de exigir la circuncisión? (8)",
+      "pregunta": "[6] ¿Con qué concuerdan las palabras de los profetas según Jacobo? (15)",
       "alternativas": [
-        "A) Riquezas",
-        "B) El Espíritu Santo",
-        "C) Sabiduría humana",
-        "D) La Ley de Moisés"
-      ],
-      "correcta": "B",
-      "referencia": "Hechos 15:8"
-    },
-    {
-      "pregunta": "[6] Según Pedro, ¿quién hace limpia la fe de los creyentes? (9)",
-      "alternativas": [
-        "A) Los apóstoles",
-        "B) La Ley de Moisés",
-        "C) Dios",
-        "D) Los profetas"
+        "A) Con la ley de Moisés",
+        "B) Con las palabras de Pablo",
+        "C) Con lo que Dios estaba haciendo",
+        "D) Con los dichos del pueblo"
       ],
       "correcta": "C",
-      "referencia": "Hechos 15:9"
+      "referencia": "Hechos 15:15"
     },
     {
-      "pregunta": "[7] ¿Quiénes disputaban sobre si los gentiles debían ser circuncidados? (2)",
+      "pregunta": "[7] ¿Qué promete Dios edificar nuevamente según la cita profética? (16)",
       "alternativas": [
-        "A) Algunos creyentes de Judea y los de Antioquía",
-        "B) Los fariseos y saduceos",
-        "C) Pedro y Juan",
-        "D) Pablo y Bernabé"
-      ],
-      "correcta": "A",
-      "referencia": "Hechos 15:2"
-    },
-    {
-      "pregunta": "[8] ¿Cómo mostró Dios que no hacía distinción entre judíos y gentiles? (9-10)",
-      "alternativas": [
-        "A) Les permitió construir templos",
-        "B) Limpió sus corazones por la fe",
-        "C) Les dio riquezas",
-        "D) Les enseñó la Ley"
+        "A) El templo de Jerusalén",
+        "B) El tabernáculo de David",
+        "C) La casa de Moisés",
+        "D) El altar del sacrificio"
       ],
       "correcta": "B",
-      "referencia": "Hechos 15:9-10"
+      "referencia": "Hechos 15:16"
     },
     {
-      "pregunta": "[9] ¿Qué no podía imponer la Ley sobre los creyentes, según Pedro? (10)",
+      "pregunta": "[8] ¿Quiénes buscarán al Señor según el texto citado? (17)",
       "alternativas": [
-        "A) Pesadas cargas",
-        "B) Enseñanza",
-        "C) Oración",
-        "D) Predicación"
+        "A) Solo los judíos",
+        "B) Los sacerdotes",
+        "C) El resto de los hombres y los gentiles",
+        "D) Los apóstoles"
       ],
-      "correcta": "A",
-      "referencia": "Hechos 15:10"
+      "correcta": "C",
+      "referencia": "Hechos 15:17"
     },
     {
-      "pregunta": "[10] ¿Por qué Dios mostró que la salvación es por gracia? (11)",
+      "pregunta": "[9] ¿Qué juicio expresa Jacobo respecto a los gentiles que se convierten a Dios? (19)",
       "alternativas": [
-        "A) Para que todos obedezcan la Ley",
-        "B) Para que los creyentes no se jacten por obras",
-        "C) Para que los apóstoles reciban honor",
-        "D) Para que se construyan templos"
+        "A) Que se les enseñe toda la ley",
+        "B) Que se les juzgue primero",
+        "C) Que no se les inquiete",
+        "D) Que sean circuncidados"
       ],
-      "correcta": "B",
-      "referencia": "Hechos 15:11"
+      "correcta": "C",
+      "referencia": "Hechos 15:19"
+    },
+    {
+      "pregunta": "[10] ¿De qué cosas debían apartarse los gentiles según la carta propuesta? (20)",
+      "alternativas": [
+        "A) De las fiestas judías",
+        "B) De los sacrificios en Jerusalén",
+        "C) De la idolatría, fornicación, ahogado y sangre",
+        "D) De guardar el día de reposo"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 15:20"
     }
   ]
 }
