@@ -1,116 +1,116 @@
 {
-  "fecha": "2026-02-19",
-  "resumen": "Pablo y Bernabé relatan las señales y maravillas que Dios hizo entre los gentiles. Jacobo responde citando a los profetas y declara que no se debe inquietar a los gentiles que se convierten a Dios, sino escribirles que se aparten de ciertas prácticas. Se decide comunicar esta resolución.",
+  "fecha": "2026-02-23",
+  "resumen": "Pablo y Silas, mientras predicaban en Filipos, liberaron a una joven con espíritu de adivinación, lo que provocó su arresto, azotes y encarcelamiento. Mientras oraban y cantaban himnos en la cárcel, un terremoto abrió las puertas y soltó las cadenas. El carcelero y su familia creyeron en Dios, y finalmente Pablo y Silas fueron liberados oficialmente por los magistrados.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Quiénes contaron las señales y maravillas que Dios había hecho entre los gentiles? (12)",
+      "pregunta": "[1] ¿Qué tipo de espíritu tenía la joven que seguía a Pablo y a sus compañeros? (16)",
       "alternativas": [
-        "A) Pedro y Juan",
-        "B) Pablo y Bernabé",
-        "C) Jacobo y Pedro",
-        "D) Pablo y Silas"
+        "A) Espíritu inmundo",
+        "B) Espíritu de adivinación",
+        "C) Espíritu de enfermedad",
+        "D) Espíritu de temor"
       ],
       "correcta": "B",
-      "referencia": "Hechos 15:12"
+      "referencia": "Hechos 16:16"
     },
     {
-      "pregunta": "[2] ¿Entre quiénes hizo Dios señales y maravillas según el relato? (12)",
+      "pregunta": "[2] ¿Qué decía la joven acerca de Pablo y sus compañeros cuando los seguía? (17)",
       "alternativas": [
-        "A) Entre los judíos",
-        "B) Entre los samaritanos",
-        "C) Entre los gentiles",
-        "D) Entre los sacerdotes"
+        "A) Que eran judíos extranjeros",
+        "B) Que eran falsos profetas",
+        "C) Que eran siervos del Dios Altísimo",
+        "D) Que eran maestros de la ley"
       ],
       "correcta": "C",
-      "referencia": "Hechos 15:12"
+      "referencia": "Hechos 16:17"
     },
     {
-      "pregunta": "[3] ¿Quién tomó la palabra después de que calló toda la multitud? (13)",
+      "pregunta": "[3] ¿En nombre de quién Pablo ordenó al espíritu que saliera de la joven? (18)",
       "alternativas": [
-        "A) Pedro",
-        "B) Pablo",
-        "C) Bernabé",
-        "D) Jacobo"
+        "A) Moisés",
+        "B) Jehová",
+        "C) Jesús",
+        "D) El Espíritu Santo"
       ],
-      "correcta": "D",
-      "referencia": "Hechos 15:13"
+      "correcta": "C",
+      "referencia": "Hechos 16:18"
     },
     {
-      "pregunta": "[4] ¿A quién se refirió Jacobo al decir que Dios visitó por primera vez a los gentiles? (14)",
+      "pregunta": "[4] ¿Qué perdieron los amos de la joven cuando el espíritu salió de ella? (19)",
       "alternativas": [
-        "A) Pablo",
-        "B) Pedro",
-        "C) Bernabé",
-        "D) Juan"
+        "A) Su autoridad",
+        "B) Su prestigio",
+        "C) La esperanza de su ganancia",
+        "D) Su ciudadanía"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 16:19"
+    },
+    {
+      "pregunta": "[5] ¿Qué castigo recibieron Pablo y Silas antes de ser encarcelados? (22-23)",
+      "alternativas": [
+        "A) Multa económica",
+        "B) Destierro",
+        "C) Azotes",
+        "D) Ayuno forzado"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 16:22-23"
+    },
+    {
+      "pregunta": "[6] ¿Qué hacían Pablo y Silas a medianoche en la cárcel? (25)",
+      "alternativas": [
+        "A) Dormían",
+        "B) Oraban y cantaban himnos",
+        "C) Conversaban entre ellos",
+        "D) Guardaban silencio"
       ],
       "correcta": "B",
-      "referencia": "Hechos 15:14"
+      "referencia": "Hechos 16:25"
     },
     {
-      "pregunta": "[5] ¿Para qué dice el texto que Dios visitó a los gentiles? (14)",
+      "pregunta": "[7] ¿Qué sucedió como resultado del gran terremoto? (26)",
       "alternativas": [
-        "A) Para juzgarlos",
-        "B) Para enseñarles la ley",
-        "C) Para tomar de ellos pueblo para su nombre",
-        "D) Para enviarlos a otras naciones"
+        "A) Se derrumbaron los muros",
+        "B) Se apagaron las antorchas",
+        "C) Se abrieron las puertas y se soltaron las cadenas",
+        "D) Los presos escaparon"
       ],
       "correcta": "C",
-      "referencia": "Hechos 15:14"
+      "referencia": "Hechos 16:26"
     },
     {
-      "pregunta": "[6] ¿Con qué concuerdan las palabras de los profetas según Jacobo? (15)",
+      "pregunta": "[8] ¿Qué iba a hacerse el carcelero al pensar que los presos habían huido? (27)",
       "alternativas": [
-        "A) Con la ley de Moisés",
-        "B) Con las palabras de Pablo",
-        "C) Con lo que Dios estaba haciendo",
-        "D) Con los dichos del pueblo"
+        "A) Escapar",
+        "B) Dormir",
+        "C) Suicidarse",
+        "D) Llamar a los magistrados"
       ],
       "correcta": "C",
-      "referencia": "Hechos 15:15"
+      "referencia": "Hechos 16:27"
     },
     {
-      "pregunta": "[7] ¿Qué promete Dios edificar nuevamente según la cita profética? (16)",
+      "pregunta": "[9] ¿Qué pregunta hizo el carcelero a Pablo y Silas? (30)",
       "alternativas": [
-        "A) El templo de Jerusalén",
-        "B) El tabernáculo de David",
-        "C) La casa de Moisés",
-        "D) El altar del sacrificio"
+        "A) ¿Por qué están aquí?",
+        "B) ¿Quién los envió?",
+        "C) ¿Qué debo hacer para ser salvo?",
+        "D) ¿Son ciudadanos romanos?"
+      ],
+      "correcta": "C",
+      "referencia": "Hechos 16:30"
+    },
+    {
+      "pregunta": "[10] ¿Qué hicieron los magistrados al enterarse de que Pablo y Silas eran ciudadanos romanos? (38-39)",
+      "alternativas": [
+        "A) Los encarcelaron nuevamente",
+        "B) Les pidieron perdón y los sacaron",
+        "C) Los enviaron a juicio",
+        "D) Los desterraron de la ciudad"
       ],
       "correcta": "B",
-      "referencia": "Hechos 15:16"
-    },
-    {
-      "pregunta": "[8] ¿Quiénes buscarán al Señor según el texto citado? (17)",
-      "alternativas": [
-        "A) Solo los judíos",
-        "B) Los sacerdotes",
-        "C) El resto de los hombres y los gentiles",
-        "D) Los apóstoles"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 15:17"
-    },
-    {
-      "pregunta": "[9] ¿Qué juicio expresa Jacobo respecto a los gentiles que se convierten a Dios? (19)",
-      "alternativas": [
-        "A) Que se les enseñe toda la ley",
-        "B) Que se les juzgue primero",
-        "C) Que no se les inquiete",
-        "D) Que sean circuncidados"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 15:19"
-    },
-    {
-      "pregunta": "[10] ¿De qué cosas debían apartarse los gentiles según la carta propuesta? (20)",
-      "alternativas": [
-        "A) De las fiestas judías",
-        "B) De los sacrificios en Jerusalén",
-        "C) De la idolatría, fornicación, ahogado y sangre",
-        "D) De guardar el día de reposo"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 15:20"
+      "referencia": "Hechos 16:38-39"
     }
   ]
 }
