@@ -4,11 +4,16 @@
   },
   "versiculoSemana": {
     "libro": "Hechos",
-    "capitulo": 15,
-    "versiculo": 8,
-    "texto": "Y Dios, que conoce los corazones, les dio testimonio, dándoles el Espíritu Santo lo mismo que a nosotros;"
+    "capitulo": 22,
+    "versiculo": 16,
+    "texto": "Ahora, pues, ¿por qué te detienes? Levántate y bautízate, y lava tus pecados, invocando su nombre."
   },
   "versiculosMemorizados": [
+    {
+      "libro": "Hechos",
+      "capitulo": 15,
+      "versiculo": 8
+    },
     {
       "libro": "Hechos",
       "capitulo": 14,
