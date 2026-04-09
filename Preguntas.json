@@ -1,116 +1,116 @@
 {
-  "fecha": "2026-04-08",
-  "resumen": "Abraham creyó a Dios y le fue contado por justicia; la bienaventuranza del hombre a quien Dios atribuye justicia sin obras; Abraham fue justificado antes de la circuncisión para ser padre de todos los que creen.",
+  "fecha": "2026-04-09",
+  "resumen": "La promesa a Abraham no fue por la ley sino por la justicia de la fe. Abraham creyó a Dios, quien da vida a los muertos y llama las cosas que no son como si fuesen. Su fe le fue contada por justicia, y también a los que creen en Dios que levantó a Jesús de entre los muertos.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué dice que halló Abraham según la carne? (1)",
+      "pregunta": "[1] ¿Por medio de qué no fue dada la promesa a Abraham o a su descendencia? (13)",
       "alternativas": [
-        "A) Que fue justificado por la ley",
-        "B) Que halló gracia por sus obras",
-        "C) Que halló algo según la carne",
-        "D) Que no halló nada"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 4:1"
-    },
-    {
-      "pregunta": "[2] ¿Qué tendría Abraham si hubiera sido justificado por las obras? (2)",
-      "alternativas": [
-        "A) Vida eterna",
-        "B) De qué gloriarse",
-        "C) Perdón de pecados",
-        "D) Justicia eterna"
+        "A) Por la gracia",
+        "B) Por la ley",
+        "C) Por la fe",
+        "D) Por la justicia"
       ],
       "correcta": "B",
-      "referencia": "Romanos 4:2"
+      "referencia": "Romanos 4:13"
     },
     {
-      "pregunta": "[3] ¿Qué dice la Escritura que hizo Abraham respecto a Dios? (3)",
+      "pregunta": "[2] ¿Por medio de qué fue dada la promesa a Abraham? (13)",
       "alternativas": [
-        "A) Obedeció la ley",
-        "B) Sacrificó ofrendas",
-        "C) Creyó a Dios",
-        "D) Ayunó"
+        "A) Por la justicia de la fe",
+        "B) Por las obras",
+        "C) Por la ley",
+        "D) Por el sacrificio"
+      ],
+      "correcta": "A",
+      "referencia": "Romanos 4:13"
+    },
+    {
+      "pregunta": "[3] ¿Qué ocurre si los que son de la ley son los herederos? (14)",
+      "alternativas": [
+        "A) La fe se fortalece",
+        "B) La promesa aumenta",
+        "C) La fe resulta vana",
+        "D) La ley se cumple"
       ],
       "correcta": "C",
-      "referencia": "Romanos 4:3"
+      "referencia": "Romanos 4:14"
     },
     {
-      "pregunta": "[4] ¿Cómo le fue contada la fe a Abraham? (3)",
+      "pregunta": "[4] ¿Qué produce la ley? (15)",
       "alternativas": [
-        "A) Por obediencia",
-        "B) Por justicia",
-        "C) Por obras",
-        "D) Por ley"
+        "A) Fe",
+        "B) Justicia",
+        "C) Esperanza",
+        "D) Ira"
+      ],
+      "correcta": "D",
+      "referencia": "Romanos 4:15"
+    },
+    {
+      "pregunta": "[5] ¿A quién da vida Dios según el texto? (17)",
+      "alternativas": [
+        "A) A los enfermos",
+        "B) A los muertos",
+        "C) A los justos",
+        "D) A los pobres"
       ],
       "correcta": "B",
-      "referencia": "Romanos 4:3"
+      "referencia": "Romanos 4:17"
     },
     {
-      "pregunta": "[5] ¿Cómo se considera el salario al que obra? (4)",
+      "pregunta": "[6] ¿Cómo llama Dios a las cosas que no son? (17)",
       "alternativas": [
-        "A) Como gracia",
-        "B) Como bendición",
-        "C) Como deuda",
-        "D) Como promesa"
+        "A) Como si fueran",
+        "B) Como si no existieran",
+        "C) Como futuras",
+        "D) Como visibles"
+      ],
+      "correcta": "A",
+      "referencia": "Romanos 4:17"
+    },
+    {
+      "pregunta": "[7] ¿Contra qué creyó Abraham? (18)",
+      "alternativas": [
+        "A) Contra la ley",
+        "B) Contra la fe",
+        "C) Contra esperanza",
+        "D) Contra el mundo"
       ],
       "correcta": "C",
-      "referencia": "Romanos 4:4"
+      "referencia": "Romanos 4:18"
     },
     {
-      "pregunta": "[6] ¿Qué hace Dios con el impío que cree en Él? (5)",
+      "pregunta": "[8] ¿Qué no hizo Abraham respecto a la promesa de Dios? (20)",
       "alternativas": [
-        "A) Lo castiga",
-        "B) Lo ignora",
-        "C) Lo justifica",
-        "D) Lo prueba"
+        "A) No creyó",
+        "B) No dudó",
+        "C) No obedeció",
+        "D) No esperó"
+      ],
+      "correcta": "B",
+      "referencia": "Romanos 4:20"
+    },
+    {
+      "pregunta": "[9] ¿De qué estaba plenamente convencido Abraham? (21)",
+      "alternativas": [
+        "A) De su fuerza",
+        "B) De la ley",
+        "C) De que Dios era poderoso para cumplir lo prometido",
+        "D) De su descendencia"
       ],
       "correcta": "C",
-      "referencia": "Romanos 4:5"
+      "referencia": "Romanos 4:21"
     },
     {
-      "pregunta": "[7] ¿Qué dice David del hombre a quien Dios atribuye justicia sin obras? (6)",
+      "pregunta": "[10] ¿Quién fue entregado por nuestras transgresiones y resucitado para nuestra justificación? (25)",
       "alternativas": [
-        "A) Que es condenado",
-        "B) Que es bienaventurado",
-        "C) Que es probado",
-        "D) Que es castigado"
+        "A) Abraham",
+        "B) Moisés",
+        "C) David",
+        "D) Jesús"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 4:6"
-    },
-    {
-      "pregunta": "[8] ¿Qué no tomará en cuenta el Señor al hombre bienaventurado? (8)",
-      "alternativas": [
-        "A) Sus obras",
-        "B) Su fe",
-        "C) Su pecado",
-        "D) Su oración"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 4:8"
-    },
-    {
-      "pregunta": "[9] ¿Cuándo le fue contada a Abraham la fe por justicia, estando circuncidado o incircunciso? (10)",
-      "alternativas": [
-        "A) Circuncidado",
-        "B) Incircunciso",
-        "C) Ambas",
-        "D) Ninguna"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 4:10"
-    },
-    {
-      "pregunta": "[10] ¿Para qué recibió Abraham la señal de la circuncisión? (11)",
-      "alternativas": [
-        "A) Para ser salvo",
-        "B) Como señal de la justicia de la fe",
-        "C) Para cumplir la ley",
-        "D) Para ser sacerdote"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 4:11"
+      "correcta": "D",
+      "referencia": "Romanos 4:25"
     }
   ]
 }
