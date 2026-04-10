@@ -1,116 +1,116 @@
 {
-  "fecha": "2026-04-09",
-  "resumen": "La promesa a Abraham no fue por la ley sino por la justicia de la fe. Abraham creyó a Dios, quien da vida a los muertos y llama las cosas que no son como si fuesen. Su fe le fue contada por justicia, y también a los que creen en Dios que levantó a Jesús de entre los muertos.",
+  "fecha": "2026-04-10",
+  "resumen": "El pasaje declara que, justificados por la fe, hay paz con Dios por medio de Jesucristo, acceso a la gracia y gloria en la esperanza. También menciona las tribulaciones, la paciencia, la prueba y la esperanza, el amor de Dios derramado por el Espíritu Santo, la muerte de Cristo por los pecadores, la justificación por su sangre, la reconciliación con Dios y la salvación por su vida.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Por medio de qué no fue dada la promesa a Abraham o a su descendencia? (13)",
+      "pregunta": "[1] ¿Qué tenemos para con Dios al ser justificados por la fe? (1)",
       "alternativas": [
-        "A) Por la gracia",
-        "B) Por la ley",
-        "C) Por la fe",
-        "D) Por la justicia"
+        "A) Vida eterna",
+        "B) Paz",
+        "C) Sabiduría",
+        "D) Justicia propia"
       ],
       "correcta": "B",
-      "referencia": "Romanos 4:13"
+      "referencia": "Romanos 5:1"
     },
     {
-      "pregunta": "[2] ¿Por medio de qué fue dada la promesa a Abraham? (13)",
+      "pregunta": "[2] ¿Por medio de quién tenemos paz con Dios? (1)",
       "alternativas": [
-        "A) Por la justicia de la fe",
-        "B) Por las obras",
-        "C) Por la ley",
-        "D) Por el sacrificio"
-      ],
-      "correcta": "A",
-      "referencia": "Romanos 4:13"
-    },
-    {
-      "pregunta": "[3] ¿Qué ocurre si los que son de la ley son los herederos? (14)",
-      "alternativas": [
-        "A) La fe se fortalece",
-        "B) La promesa aumenta",
-        "C) La fe resulta vana",
-        "D) La ley se cumple"
+        "A) Moisés",
+        "B) Abraham",
+        "C) Jesucristo",
+        "D) Los profetas"
       ],
       "correcta": "C",
-      "referencia": "Romanos 4:14"
+      "referencia": "Romanos 5:1"
     },
     {
-      "pregunta": "[4] ¿Qué produce la ley? (15)",
+      "pregunta": "[3] ¿A qué tenemos entrada por la fe? (2)",
       "alternativas": [
-        "A) Fe",
-        "B) Justicia",
-        "C) Esperanza",
-        "D) Ira"
-      ],
-      "correcta": "D",
-      "referencia": "Romanos 4:15"
-    },
-    {
-      "pregunta": "[5] ¿A quién da vida Dios según el texto? (17)",
-      "alternativas": [
-        "A) A los enfermos",
-        "B) A los muertos",
-        "C) A los justos",
-        "D) A los pobres"
+        "A) A la ley",
+        "B) A la gracia",
+        "C) Al templo",
+        "D) Al sacrificio"
       ],
       "correcta": "B",
-      "referencia": "Romanos 4:17"
+      "referencia": "Romanos 5:2"
     },
     {
-      "pregunta": "[6] ¿Cómo llama Dios a las cosas que no son? (17)",
+      "pregunta": "[4] ¿En qué nos gloriamos según el versículo 2? (2)",
       "alternativas": [
-        "A) Como si fueran",
-        "B) Como si no existieran",
-        "C) Como futuras",
-        "D) Como visibles"
-      ],
-      "correcta": "A",
-      "referencia": "Romanos 4:17"
-    },
-    {
-      "pregunta": "[7] ¿Contra qué creyó Abraham? (18)",
-      "alternativas": [
-        "A) Contra la ley",
-        "B) Contra la fe",
-        "C) Contra esperanza",
-        "D) Contra el mundo"
+        "A) En las obras",
+        "B) En la ley",
+        "C) En la esperanza de la gloria de Dios",
+        "D) En los sacrificios"
       ],
       "correcta": "C",
-      "referencia": "Romanos 4:18"
+      "referencia": "Romanos 5:2"
     },
     {
-      "pregunta": "[8] ¿Qué no hizo Abraham respecto a la promesa de Dios? (20)",
+      "pregunta": "[5] ¿Qué produce la tribulación? (3)",
       "alternativas": [
-        "A) No creyó",
-        "B) No dudó",
-        "C) No obedeció",
-        "D) No esperó"
+        "A) Gozo",
+        "B) Fe",
+        "C) Paciencia",
+        "D) Amor"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 5:3"
+    },
+    {
+      "pregunta": "[6] ¿Qué sigue después de la paciencia según el proceso mencionado? (4)",
+      "alternativas": [
+        "A) Gozo",
+        "B) Prueba",
+        "C) Fe",
+        "D) Amor"
       ],
       "correcta": "B",
-      "referencia": "Romanos 4:20"
+      "referencia": "Romanos 5:4"
     },
     {
-      "pregunta": "[9] ¿De qué estaba plenamente convencido Abraham? (21)",
+      "pregunta": "[7] ¿Por medio de quién ha sido derramado el amor de Dios en nuestros corazones? (5)",
       "alternativas": [
-        "A) De su fuerza",
-        "B) De la ley",
-        "C) De que Dios era poderoso para cumplir lo prometido",
-        "D) De su descendencia"
+        "A) Los ángeles",
+        "B) Los apóstoles",
+        "C) El Espíritu Santo",
+        "D) Los profetas"
       ],
       "correcta": "C",
-      "referencia": "Romanos 4:21"
+      "referencia": "Romanos 5:5"
     },
     {
-      "pregunta": "[10] ¿Quién fue entregado por nuestras transgresiones y resucitado para nuestra justificación? (25)",
+      "pregunta": "[8] ¿Por quién murió Cristo cuando aún éramos débiles? (6)",
       "alternativas": [
-        "A) Abraham",
-        "B) Moisés",
-        "C) David",
-        "D) Jesús"
+        "A) Por los justos",
+        "B) Por los impíos",
+        "C) Por los sabios",
+        "D) Por los fuertes"
       ],
-      "correcta": "D",
-      "referencia": "Romanos 4:25"
+      "correcta": "B",
+      "referencia": "Romanos 5:6"
+    },
+    {
+      "pregunta": "[9] ¿Qué muestra Dios para con nosotros en que Cristo murió por nosotros? (8)",
+      "alternativas": [
+        "A) Su justicia",
+        "B) Su poder",
+        "C) Su amor",
+        "D) Su gloria"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 5:8"
+    },
+    {
+      "pregunta": "[10] ¿Por medio de qué hemos recibido ahora la reconciliación? (11)",
+      "alternativas": [
+        "A) La ley",
+        "B) Los sacrificios",
+        "C) Jesucristo",
+        "D) Los profetas"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 5:11"
     }
   ]
 }
