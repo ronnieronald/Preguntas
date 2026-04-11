@@ -1,116 +1,116 @@
 {
-  "fecha": "2026-04-10",
-  "resumen": "Hoy vemos que, justificados por la fe, tenemos paz con Dios por medio de Jesucristo, acceso a la gracia y nos gloriamos en la esperanza. También vemos que las tribulaciones producen paciencia, prueba y esperanza; que el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo; que Cristo murió por los impíos; y que ahora somos justificados por su sangre y reconciliados con Dios por medio de Jesucristo.",
+  "fecha": "2026-04-11",
+  "resumen": "Hoy Vemos como compara a Adán y a Cristo, mostrando que el pecado entró en el mundo por un hombre y la muerte por el pecado, extendiéndose a todos. También presenta que por la obediencia de Cristo viene la justificación y la vida para muchos, contrastando la condenación en Adán con la gracia en Cristo.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué tenemos para con Dios al ser justificados por la fe? (1)",
+      "pregunta": "[1] ¿Por medio de quién entró el pecado en el mundo? (12)",
       "alternativas": [
-        "A) Vida eterna",
-        "B) Paz",
-        "C) Sabiduría",
-        "D) Justicia propia"
+        "A) Por un hombre",
+        "B) Por la ley",
+        "C) Por Moisés",
+        "D) Por los profetas"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 5:1"
+      "correcta": "A",
+      "referencia": "Romanos 5:12"
     },
     {
-      "pregunta": "[2] ¿Por medio de quién tenemos paz con Dios? (1)",
+      "pregunta": "[2] ¿Qué entró en el mundo por el pecado? (12)",
       "alternativas": [
-        "A) Moisés",
-        "B) Abraham",
-        "C) Jesucristo",
-        "D) Los profetas"
+        "A) La muerte",
+        "B) La vida",
+        "C) La justicia",
+        "D) La paz"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 5:1"
+      "correcta": "A",
+      "referencia": "Romanos 5:12"
     },
     {
-      "pregunta": "[3] ¿A qué tenemos entrada por la fe? (2)",
+      "pregunta": "[3] ¿A quién pasó la muerte? (12)",
       "alternativas": [
-        "A) A la ley",
-        "B) A la gracia",
-        "C) Al templo",
-        "D) Al sacrificio"
+        "A) A todos los hombres",
+        "B) Solo a Adán",
+        "C) Solo a los pecadores",
+        "D) Solo a Israel"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 5:2"
+      "correcta": "A",
+      "referencia": "Romanos 5:12"
     },
     {
-      "pregunta": "[4] ¿En qué nos gloriamos según el versículo 2? (2)",
+      "pregunta": "[4] ¿Hasta cuándo había pecado en el mundo sin que se contara de la misma manera? (13)",
       "alternativas": [
-        "A) En las obras",
-        "B) En la ley",
-        "C) En la esperanza de la gloria de Dios",
-        "D) En los sacrificios"
+        "A) Hasta la ley",
+        "B) Hasta Abraham",
+        "C) Hasta los profetas",
+        "D) Hasta el diluvio"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 5:2"
+      "correcta": "A",
+      "referencia": "Romanos 5:13"
     },
     {
-      "pregunta": "[5] ¿Qué produce la tribulación? (3)",
+      "pregunta": "[5] ¿Qué reinó desde Adán hasta Moisés? (14)",
       "alternativas": [
-        "A) Gozo",
-        "B) Fe",
-        "C) Paciencia",
-        "D) Amor"
+        "A) La muerte",
+        "B) La vida",
+        "C) La justicia",
+        "D) La fe"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 5:3"
+      "correcta": "A",
+      "referencia": "Romanos 5:14"
     },
     {
-      "pregunta": "[6] ¿Qué produce la paciencia? (4)",
+      "pregunta": "[6] ¿Con quién es comparado Adán en este pasaje? (14)",
       "alternativas": [
-        "A) Gozo",
-        "B) Prueba",
-        "C) Fe",
-        "D) Amor"
+        "A) Con Cristo",
+        "B) Con Moisés",
+        "C) Con Abraham",
+        "D) Con David"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 5:4"
+      "correcta": "A",
+      "referencia": "Romanos 5:14"
     },
     {
-      "pregunta": "[7] ¿Por medio de quién ha sido derramado el amor de Dios en nuestros corazones? (5)",
+      "pregunta": "[7] ¿Qué resultó del pecado de un solo hombre? (18)",
       "alternativas": [
-        "A) Los ángeles",
-        "B) Los apóstoles",
-        "C) El Espíritu Santo",
-        "D) Los profetas"
+        "A) Condenación a todos los hombres",
+        "B) Perdón para todos los hombres",
+        "C) Paz para todos los hombres",
+        "D) Vida eterna para todos"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 5:5"
+      "correcta": "A",
+      "referencia": "Romanos 5:18"
     },
     {
-      "pregunta": "[8] ¿Por quién murió Cristo cuando aún éramos débiles? (6)",
+      "pregunta": "[8] ¿Qué resultó de un solo acto de justicia? (18)",
       "alternativas": [
-        "A) Por los justos",
-        "B) Por los impíos",
-        "C) Por los sabios",
-        "D) Por los fuertes"
+        "A) Justificación de vida para todos los hombres",
+        "B) Condenación para todos los hombres",
+        "C) Muerte para todos los hombres",
+        "D) Ley para todos los hombres"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 5:6"
+      "correcta": "A",
+      "referencia": "Romanos 5:18"
     },
     {
-      "pregunta": "[9] ¿Qué muestra Dios para con nosotros en que Cristo murió por nosotros? (8)",
+      "pregunta": "[9] ¿Qué fueron hechos muchos por la desobediencia de un hombre? (19)",
       "alternativas": [
-        "A) Su justicia",
-        "B) Su poder",
-        "C) Su amor",
-        "D) Su gloria"
+        "A) Pecadores",
+        "B) Justos",
+        "C) Profetas",
+        "D) Apóstoles"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 5:8"
+      "correcta": "A",
+      "referencia": "Romanos 5:19"
     },
     {
-      "pregunta": "[10] ¿Por medio de quién hemos recibido ahora la reconciliación? (11)",
+      "pregunta": "[10] ¿Qué serán hechos muchos por la obediencia de uno? (19)",
       "alternativas": [
-        "A) La ley",
-        "B) Los sacrificios",
-        "C) Jesucristo",
-        "D) Los profetas"
+        "A) Justos",
+        "B) Condenados",
+        "C) Incrédulos",
+        "D) Siervos de la ley"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 5:11"
+      "correcta": "A",
+      "referencia": "Romanos 5:19"
     }
   ]
 }
