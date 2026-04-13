@@ -1,116 +1,83 @@
 {
-  "fecha": "2026-04-12",
-  "resumen": "Pablo pregunta si se debe perseverar en el pecado para que la gracia abunde y responde que no. Explica que los que han sido bautizados en Cristo Jesús han sido bautizados en su muerte, y que por el bautismo fueron sepultados juntamente con él para muerte, a fin de que como Cristo resucitó, así también anden en vida nueva.",
+  "fecha": "2026-04-13",
+  "resumen": "El pasaje enseña que los que están unidos a Cristo en su muerte también lo estarán en su resurrección; el viejo hombre fue crucificado, el pecado no debe reinar, y los creyentes deben presentarse a Dios como vivos de entre los muertos, porque no están bajo la ley sino bajo la gracia.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué pregunta se hace sobre perseverar en el pecado para que la gracia abunde? (1)",
+      "pregunta": "[1] ¿Qué sucede con los que fueron plantados juntamente con Cristo en la semejanza de su muerte? (5)",
       "alternativas": [
-        "A) ¿Perseveraremos en el pecado para que la gracia abunde?",
-        "B) ¿Debemos dejar la gracia para vivir en la ley?",
-        "C) ¿Es mejor no pecar nunca?",
-        "D) ¿La gracia elimina el pecado automáticamente?"
-      ],
-      "correcta": "A",
-      "referencia": "Romanos 6:1"
-    },
-    {
-      "pregunta": "[2] ¿Cuál es la respuesta dada a la idea de perseverar en el pecado? (2)",
-      "alternativas": [
-        "A) Tal vez",
-        "B) De ninguna manera",
-        "C) Solo a veces",
-        "D) Depende de la situación"
+        "A) Serán plantados en la ley",
+        "B) Lo serán también en la semejanza de su resurrección",
+        "C) Permanecerán en pecado",
+        "D) Serán juzgados inmediatamente"
       ],
       "correcta": "B",
-      "referencia": "Romanos 6:2"
+      "referencia": "Romanos 6:5"
     },
     {
-      "pregunta": "[3] ¿A qué se dice que hemos muerto? (2)",
+      "pregunta": "[2] ¿Qué fue crucificado juntamente con Cristo según el pasaje? (6)",
       "alternativas": [
-        "A) A la ley",
-        "B) Al mundo",
-        "C) Al pecado",
-        "D) A la carne"
+        "A) El cuerpo físico",
+        "B) El alma",
+        "C) El viejo hombre",
+        "D) La ley"
       ],
       "correcta": "C",
-      "referencia": "Romanos 6:2"
+      "referencia": "Romanos 6:6"
     },
     {
-      "pregunta": "[4] ¿Qué se pregunta acerca de vivir en relación con aquello a lo que hemos muerto? (2)",
+      "pregunta": "[3] ¿Qué se afirma del que ha muerto? (7)",
       "alternativas": [
-        "A) ¿Cómo viviremos aún en él?",
-        "B) ¿Cómo escaparemos de él?",
-        "C) ¿Cómo lo evitaremos siempre?",
-        "D) ¿Cómo lo entenderemos mejor?"
-      ],
-      "correcta": "A",
-      "referencia": "Romanos 6:2"
-    },
-    {
-      "pregunta": "[5] ¿En quién dice el texto que hemos sido bautizados? (3)",
-      "alternativas": [
-        "A) En Moisés",
-        "B) En la ley",
-        "C) En Cristo Jesús",
-        "D) En el Espíritu"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 6:3"
-    },
-    {
-      "pregunta": "[6] ¿En qué se dice que fuimos bautizados al ser bautizados en Cristo Jesús? (3)",
-      "alternativas": [
-        "A) En su vida",
-        "B) En su muerte",
-        "C) En su gloria",
-        "D) En su reino"
+        "A) Está condenado",
+        "B) Está libre del pecado",
+        "C) Vive en la ley",
+        "D) Está perdido"
       ],
       "correcta": "B",
-      "referencia": "Romanos 6:3"
+      "referencia": "Romanos 6:7"
     },
     {
-      "pregunta": "[7] ¿Con quién fuimos sepultados por el bautismo para muerte? (4)",
+      "pregunta": "[4] ¿Qué se dice acerca de Cristo después de haber resucitado de los muertos? (9)",
       "alternativas": [
-        "A) Con los apóstoles",
-        "B) Con Adán",
-        "C) Con Cristo",
-        "D) Con los profetas"
+        "A) Vuelve a morir",
+        "B) Vive bajo la ley",
+        "C) Ya no muere",
+        "D) Está sujeto al pecado"
       ],
       "correcta": "C",
-      "referencia": "Romanos 6:4"
+      "referencia": "Romanos 6:9"
     },
     {
-      "pregunta": "[8] ¿Por medio de quién resucitó Cristo de los muertos? (4)",
+      "pregunta": "[5] ¿Para quién vive Cristo según el texto? (10)",
       "alternativas": [
-        "A) Por el Espíritu Santo",
-        "B) Por su propio poder",
-        "C) Por la fe de los discípulos",
-        "D) Por la gloria del Padre"
+        "A) Para el mundo",
+        "B) Para sí mismo",
+        "C) Para la ley",
+        "D) Para Dios"
       ],
       "correcta": "D",
-      "referencia": "Romanos 6:4"
+      "referencia": "Romanos 6:10"
     },
     {
-      "pregunta": "[9] ¿Qué se menciona que Cristo hizo después de ser sepultado? (4)",
+      "pregunta": "[6] ¿Qué no debe reinar en el cuerpo mortal según el pasaje? (12)",
       "alternativas": [
-        "A) Subió al cielo",
-        "B) Resucitó de los muertos",
-        "C) Predicó a las naciones",
-        "D) Juzgó al mundo"
+        "A) La ley",
+        "B) El pecado",
+        "C) La gracia",
+        "D) La muerte"
       ],
       "correcta": "B",
-      "referencia": "Romanos 6:4"
+      "referencia": "Romanos 6:12"
     },
     {
-      "pregunta": "[10] ¿En qué debemos andar según el texto? (4)",
+      "pregunta": "[7] ¿Bajo qué no están los creyentes, sino bajo qué están? (14)",
       "alternativas": [
-        "A) En la ley",
-        "B) En el espíritu",
-        "C) En justicia propia",
-        "D) En vida nueva"
+        "A) Bajo el pecado, sino bajo la muerte",
+        "B) Bajo la ley, sino bajo la gracia",
+        "C) Bajo la gracia, sino bajo la ley",
+        "D) Bajo el mundo, sino bajo el cielo"
       ],
-      "correcta": "D",
-      "referencia": "Romanos 6:4"
+      "correcta": "B",
+      "referencia": "Romanos 6:14"
     }
   ]
 }
