@@ -1,83 +1,61 @@
 {
-  "fecha": "2026-04-13",
-  "resumen": "El pasaje enseña que los que están unidos a Cristo en su muerte también lo estarán en su resurrección; el viejo hombre fue crucificado, el pecado no debe reinar, y los creyentes deben presentarse a Dios como vivos de entre los muertos, porque no están bajo la ley sino bajo la gracia.",
+  "fecha": "2026-04-14",
+  "resumen": "El pasaje enseña que no se debe pecar por estar bajo la gracia, que las personas son esclavas de aquello a lo que obedecen, y muestra el resultado del pecado y de obedecer a Dios.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué sucede con los que fueron plantados juntamente con Cristo en la semejanza de su muerte? (5)",
+      "pregunta":"[1] ¿Debemos pecar porque no estamos bajo la ley sino bajo la gracia? (15)",
       "alternativas": [
-        "A) Serán plantados en la ley",
-        "B) Lo serán también en la semejanza de su resurrección",
-        "C) Permanecerán en pecado",
-        "D) Serán juzgados inmediatamente"
+        "A) Sí",
+        "B) No",
+        "C) A veces",
+        "D) No dice"
       ],
       "correcta": "B",
-      "referencia": "Romanos 6:5"
+      "referencia": "Romanos 6:15"
     },
     {
-      "pregunta": "[2] ¿Qué fue crucificado juntamente con Cristo según el pasaje? (6)",
+      "pregunta":"[2] Si una persona obedece al pecado, ¿de qué es esclava? (16)",
       "alternativas": [
-        "A) El cuerpo físico",
-        "B) El alma",
-        "C) El viejo hombre",
-        "D) La ley"
+        "A) De Dios",
+        "B) Del pecado",
+        "C) De la ley",
+        "D) De otros"
+      ],
+      "correcta": "B",
+      "referencia": "Romanos 6:16"
+    },
+    {
+      "pregunta":"[3] ¿Qué obedecieron de corazón los creyentes? (17)",
+      "alternativas": [
+        "A) Sus deseos",
+        "B) Una forma de doctrina",
+        "C) La ley",
+        "D) A otras personas"
+      ],
+      "correcta": "B",
+      "referencia": "Romanos 6:17"
+    },
+    {
+      "pregunta":"[4] ¿Cuál es el resultado final de las cosas de las que ahora se avergüenzan? (21)",
+      "alternativas": [
+        "A) Vida",
+        "B) Gozo",
+        "C) Muerte",
+        "D) Paz"
       ],
       "correcta": "C",
-      "referencia": "Romanos 6:6"
+      "referencia": "Romanos 6:21"
     },
     {
-      "pregunta": "[3] ¿Qué se afirma del que ha muerto? (7)",
+      "pregunta":"[5] ¿Qué dice el texto que es la paga del pecado? (23)",
       "alternativas": [
-        "A) Está condenado",
-        "B) Está libre del pecado",
-        "C) Vive en la ley",
-        "D) Está perdido"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 6:7"
-    },
-    {
-      "pregunta": "[4] ¿Qué se dice acerca de Cristo después de haber resucitado de los muertos? (9)",
-      "alternativas": [
-        "A) Vuelve a morir",
-        "B) Vive bajo la ley",
-        "C) Ya no muere",
-        "D) Está sujeto al pecado"
+        "A) Vida eterna",
+        "B) Bendición",
+        "C) Muerte",
+        "D) Perdón"
       ],
       "correcta": "C",
-      "referencia": "Romanos 6:9"
-    },
-    {
-      "pregunta": "[5] ¿Para quién vive Cristo según el texto? (10)",
-      "alternativas": [
-        "A) Para el mundo",
-        "B) Para sí mismo",
-        "C) Para la ley",
-        "D) Para Dios"
-      ],
-      "correcta": "D",
-      "referencia": "Romanos 6:10"
-    },
-    {
-      "pregunta": "[6] ¿Qué no debe reinar en el cuerpo mortal según el pasaje? (12)",
-      "alternativas": [
-        "A) La ley",
-        "B) El pecado",
-        "C) La gracia",
-        "D) La muerte"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 6:12"
-    },
-    {
-      "pregunta": "[7] ¿Bajo qué no están los creyentes, sino bajo qué están? (14)",
-      "alternativas": [
-        "A) Bajo el pecado, sino bajo la muerte",
-        "B) Bajo la ley, sino bajo la gracia",
-        "C) Bajo la gracia, sino bajo la ley",
-        "D) Bajo el mundo, sino bajo el cielo"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 6:14"
+      "referencia": "Romanos 6:23"
     }
   ]
 }
