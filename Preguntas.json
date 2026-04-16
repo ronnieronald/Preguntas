@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-14",
-  "resumen": "El pasaje enseña que no se debe pecar por estar bajo la gracia, que las personas son esclavas de aquello a lo que obedecen, y muestra el resultado del pecado y de obedecer a Dios.",
+  "fecha": "2026-04-16",
+  "resumen": "El texto describe que la ley permite conocer el pecado, muestra cómo el pecado actúa a través del mandamiento, y afirma que la ley es santa, justa y buena.",
   "preguntas": [
     {
-      "pregunta":"[1] ¿Debemos pecar porque no estamos bajo la ley sino bajo la gracia? (15)",
+      "pregunta": "[1] ¿Qué dice el texto que no se habría conocido si la ley no dijera: No codiciarás? (7)",
       "alternativas": [
-        "A) Sí",
-        "B) No",
-        "C) A veces",
-        "D) No dice"
+        "A) La justicia",
+        "B) El pecado",
+        "C) La codicia",
+        "D) La muerte"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 6:15"
+      "correcta": "C",
+      "referencia": "Romanos 7:7"
     },
     {
-      "pregunta":"[2] Si una persona obedece al pecado, ¿de qué es esclava? (16)",
+      "pregunta": "[2] ¿Qué produjo el pecado en el autor al tomar ocasión por el mandamiento? (8)",
       "alternativas": [
-        "A) De Dios",
-        "B) Del pecado",
-        "C) De la ley",
-        "D) De otros"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 6:16"
-    },
-    {
-      "pregunta":"[3] ¿Qué obedecieron de corazón los creyentes? (17)",
-      "alternativas": [
-        "A) Sus deseos",
-        "B) Una forma de doctrina",
-        "C) La ley",
-        "D) A otras personas"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 6:17"
-    },
-    {
-      "pregunta":"[4] ¿Cuál es el resultado final de las cosas de las que ahora se avergüenzan? (21)",
-      "alternativas": [
-        "A) Vida",
-        "B) Gozo",
-        "C) Muerte",
+        "A) Justicia",
+        "B) Vida",
+        "C) Toda codicia",
         "D) Paz"
       ],
       "correcta": "C",
-      "referencia": "Romanos 6:21"
+      "referencia": "Romanos 7:8"
     },
     {
-      "pregunta":"[5] ¿Qué dice el texto que es la paga del pecado? (23)",
+      "pregunta": "[3] ¿Qué ocurrió cuando vino el mandamiento según el texto? (9)",
       "alternativas": [
-        "A) Vida eterna",
-        "B) Bendición",
-        "C) Muerte",
-        "D) Perdón"
+        "A) El pecado murió",
+        "B) El pecado revivió y yo morí",
+        "C) La ley desapareció",
+        "D) La vida aumentó"
+      ],
+      "correcta": "B",
+      "referencia": "Romanos 7:9"
+    },
+    {
+      "pregunta": "[4] ¿Cómo describe el texto a la ley y al mandamiento? (12)",
+      "alternativas": [
+        "A) Débiles e inútiles",
+        "B) Santos, justos y buenos",
+        "C) Difíciles y pesados",
+        "D) Antiguos y abolidos"
+      ],
+      "correcta": "B",
+      "referencia": "Romanos 7:12"
+    },
+    {
+      "pregunta": "[5] ¿Por medio de qué produjo el pecado la muerte en el autor? (13)",
+      "alternativas": [
+        "A) Por medio de la fe",
+        "B) Por medio de la gracia",
+        "C) Por medio de lo que es bueno",
+        "D) Por medio de la ignorancia"
       ],
       "correcta": "C",
-      "referencia": "Romanos 6:23"
+      "referencia": "Romanos 7:13"
     }
   ]
 }
