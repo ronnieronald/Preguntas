@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-16",
-  "resumen": "El texto describe que la ley permite conocer el pecado, muestra cómo el pecado actúa a través del mandamiento, y afirma que la ley es santa, justa y buena.",
+  "fecha": "2026-04-18",
+  "resumen": "Se declara que no hay condenación para los que están en Cristo Jesús; la ley del Espíritu de vida libra de la ley del pecado y de la muerte; Dios envió a su Hijo en semejanza de carne de pecado y a causa del pecado, para condenar al pecado en la carne; y el propósito es que la justicia de la ley se cumpla en los que no andan conforme a la carne, sino conforme al Espíritu.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué dice el texto que no se habría conocido si la ley no dijera: No codiciarás? (7)",
+      "pregunta": "[1] ¿Para quiénes no hay condenación según el texto? (1)",
       "alternativas": [
-        "A) La justicia",
-        "B) El pecado",
-        "C) La codicia",
-        "D) La muerte"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 7:7"
-    },
-    {
-      "pregunta": "[2] ¿Qué produjo el pecado en el autor al tomar ocasión por el mandamiento? (8)",
-      "alternativas": [
-        "A) Justicia",
-        "B) Vida",
-        "C) Toda codicia",
-        "D) Paz"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 7:8"
-    },
-    {
-      "pregunta": "[3] ¿Qué ocurrió cuando vino el mandamiento según el texto? (9)",
-      "alternativas": [
-        "A) El pecado murió",
-        "B) El pecado revivió y yo morí",
-        "C) La ley desapareció",
-        "D) La vida aumentó"
+        "A) Para todos los hombres",
+        "B) Para los que están en Cristo Jesús",
+        "C) Para los que guardan la ley",
+        "D) Para los que hacen buenas obras"
       ],
       "correcta": "B",
-      "referencia": "Romanos 7:9"
+      "referencia": "Romanos 8:1"
     },
     {
-      "pregunta": "[4] ¿Cómo describe el texto a la ley y al mandamiento? (12)",
+      "pregunta": "[2] ¿Qué ley ha librado de la ley del pecado y de la muerte? (2)",
       "alternativas": [
-        "A) Débiles e inútiles",
-        "B) Santos, justos y buenos",
-        "C) Difíciles y pesados",
-        "D) Antiguos y abolidos"
+        "A) La ley de Moisés",
+        "B) La ley del Espíritu de vida en Cristo Jesús",
+        "C) La ley de los profetas",
+        "D) La ley del templo"
       ],
       "correcta": "B",
-      "referencia": "Romanos 7:12"
+      "referencia": "Romanos 8:2"
     },
     {
-      "pregunta": "[5] ¿Por medio de qué produjo el pecado la muerte en el autor? (13)",
+      "pregunta": "[3] ¿A quién envió Dios en semejanza de carne de pecado? (3)",
       "alternativas": [
-        "A) Por medio de la fe",
-        "B) Por medio de la gracia",
-        "C) Por medio de lo que es bueno",
-        "D) Por medio de la ignorancia"
+        "A) A un profeta",
+        "B) A un ángel",
+        "C) A su Hijo",
+        "D) A un sacerdote"
       ],
       "correcta": "C",
-      "referencia": "Romanos 7:13"
+      "referencia": "Romanos 8:3"
+    },
+    {
+      "pregunta": "[4] ¿Dónde condenó Dios al pecado según el texto? (3)",
+      "alternativas": [
+        "A) En el cielo",
+        "B) En la ley",
+        "C) En la carne",
+        "D) En el templo"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:3"
+    },
+    {
+      "pregunta": "[5] Según el pasaje, ¿cómo deben andar los que cumplen la justicia de la ley? (4)",
+      "alternativas": [
+        "A) Conforme a la carne",
+        "B) Conforme a la tradición",
+        "C) Conforme al Espíritu",
+        "D) Conforme a la ley de Moisés"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:4"
     }
   ]
 }
