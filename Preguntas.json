@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-18",
-  "resumen": "Se declara que no hay condenación para los que están en Cristo Jesús; la ley del Espíritu de vida libra de la ley del pecado y de la muerte; Dios envió a su Hijo en semejanza de carne de pecado y a causa del pecado, para condenar al pecado en la carne; y el propósito es que la justicia de la ley se cumpla en los que no andan conforme a la carne, sino conforme al Espíritu.",
+  "fecha": "2026-04-21",
+  "resumen": "El apóstol Pablo declara que las aflicciones del tiempo presente no son comparables con la gloria venidera; la creación aguarda la manifestación de los hijos de Dios, fue sujetada a vanidad, gime a una, y los creyentes esperan la redención del cuerpo con paciencia.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Para quiénes no hay condenación según el texto? (1)",
+      "pregunta": "[1] ¿Con qué compara Pablo las aflicciones del tiempo presente? (18)",
       "alternativas": [
-        "A) Para todos los hombres",
-        "B) Para los que están en Cristo Jesús",
-        "C) Para los que guardan la ley",
-        "D) Para los que hacen buenas obras"
+        "A) Con la ley",
+        "B) Con la gloria venidera",
+        "C) Con la muerte",
+        "D) Con el pecado"
       ],
       "correcta": "B",
-      "referencia": "Romanos 8:1"
+      "referencia": "Romanos 8:18"
     },
     {
-      "pregunta": "[2] ¿Qué ley ha librado de la ley del pecado y de la muerte? (2)",
+      "pregunta": "[2] ¿Qué aguarda ardientemente la creación? (19)",
       "alternativas": [
-        "A) La ley de Moisés",
-        "B) La ley del Espíritu de vida en Cristo Jesús",
-        "C) La ley de los profetas",
-        "D) La ley del templo"
+        "A) La venida de los ángeles",
+        "B) La destrucción del mundo",
+        "C) La manifestación de los hijos de Dios",
+        "D) El juicio final"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:19"
+    },
+    {
+      "pregunta": "[3] ¿A qué fue sujetada la creación? (20)",
+      "alternativas": [
+        "A) A la gloria",
+        "B) A la libertad",
+        "C) A la vanidad",
+        "D) A la justicia"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:20"
+    },
+    {
+      "pregunta": "[4] ¿Cómo describe Pablo el estado actual de toda la creación? (22)",
+      "alternativas": [
+        "A) Se regocija continuamente",
+        "B) Está en silencio",
+        "C) Gime a una y sufre dolores de parto",
+        "D) Vive en paz completa"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:22"
+    },
+    {
+      "pregunta": "[5] ¿Qué esperan los creyentes según este pasaje? (23-25)",
+      "alternativas": [
+        "A) La riqueza terrenal",
+        "B) La redención del cuerpo",
+        "C) El poder político",
+        "D) La sabiduría humana"
       ],
       "correcta": "B",
-      "referencia": "Romanos 8:2"
-    },
-    {
-      "pregunta": "[3] ¿A quién envió Dios en semejanza de carne de pecado? (3)",
-      "alternativas": [
-        "A) A un profeta",
-        "B) A un ángel",
-        "C) A su Hijo",
-        "D) A un sacerdote"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 8:3"
-    },
-    {
-      "pregunta": "[4] ¿Dónde condenó Dios al pecado según el texto? (3)",
-      "alternativas": [
-        "A) En el cielo",
-        "B) En la ley",
-        "C) En la carne",
-        "D) En el templo"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 8:3"
-    },
-    {
-      "pregunta": "[5] Según el pasaje, ¿cómo deben andar los que cumplen la justicia de la ley? (4)",
-      "alternativas": [
-        "A) Conforme a la carne",
-        "B) Conforme a la tradición",
-        "C) Conforme al Espíritu",
-        "D) Conforme a la ley de Moisés"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 8:4"
+      "referencia": "Romanos 8:23-25"
     }
   ]
 }
