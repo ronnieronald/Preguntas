@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-21",
-  "resumen": "El apóstol Pablo declara que las aflicciones del tiempo presente no son comparables con la gloria venidera; la creación aguarda la manifestación de los hijos de Dios, fue sujetada a vanidad, gime a una, y los creyentes esperan la redención del cuerpo con paciencia.",
+  "fecha": "2026-04-22",
+  "resumen": "El Espíritu ayuda en la debilidad e intercede por los santos; a los que aman a Dios todas las cosas les ayudan a bien; Dios conoció, predestinó, llamó, justificó y glorificó.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Con qué compara Pablo las aflicciones del tiempo presente? (18)",
+      "pregunta": "[1] ¿Quién ayuda en nuestra debilidad? (26)",
       "alternativas": [
-        "A) Con la ley",
-        "B) Con la gloria venidera",
-        "C) Con la muerte",
-        "D) Con el pecado"
+        "A) Los ángeles",
+        "B) El Espíritu",
+        "C) Los profetas",
+        "D) Los discípulos"
       ],
       "correcta": "B",
-      "referencia": "Romanos 8:18"
+      "referencia": "Romanos 8:26"
     },
     {
-      "pregunta": "[2] ¿Qué aguarda ardientemente la creación? (19)",
+      "pregunta": "[2] ¿Por quién intercede el Espíritu con gemidos indecibles? (26)",
       "alternativas": [
-        "A) La venida de los ángeles",
-        "B) La destrucción del mundo",
-        "C) La manifestación de los hijos de Dios",
-        "D) El juicio final"
+        "A) Por los ángeles",
+        "B) Por el mundo",
+        "C) Por nosotros",
+        "D) Por los gobernantes"
       ],
       "correcta": "C",
-      "referencia": "Romanos 8:19"
+      "referencia": "Romanos 8:26"
     },
     {
-      "pregunta": "[3] ¿A qué fue sujetada la creación? (20)",
+      "pregunta": "[3] ¿Para quiénes todas las cosas ayudan a bien? (28)",
       "alternativas": [
-        "A) A la gloria",
-        "B) A la libertad",
-        "C) A la vanidad",
-        "D) A la justicia"
+        "A) Para todos los hombres",
+        "B) Para los que buscan riquezas",
+        "C) Para los que aman a Dios",
+        "D) Para los que gobiernan"
       ],
       "correcta": "C",
-      "referencia": "Romanos 8:20"
+      "referencia": "Romanos 8:28"
     },
     {
-      "pregunta": "[4] ¿Cómo describe Pablo el estado actual de toda la creación? (22)",
+      "pregunta": "[4] ¿A qué fueron predestinados los que Dios conoció? (29)",
       "alternativas": [
-        "A) Se regocija continuamente",
-        "B) Está en silencio",
-        "C) Gime a una y sufre dolores de parto",
-        "D) Vive en paz completa"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 8:22"
-    },
-    {
-      "pregunta": "[5] ¿Qué esperan los creyentes según este pasaje? (23-25)",
-      "alternativas": [
-        "A) La riqueza terrenal",
-        "B) La redención del cuerpo",
-        "C) El poder político",
-        "D) La sabiduría humana"
+        "A) A ser ricos",
+        "B) A ser conformes a la imagen de su Hijo",
+        "C) A gobernar naciones",
+        "D) A vivir muchos años"
       ],
       "correcta": "B",
-      "referencia": "Romanos 8:23-25"
+      "referencia": "Romanos 8:29"
+    },
+    {
+      "pregunta": "[5] ¿Qué hizo Dios con los que llamó? (30)",
+      "alternativas": [
+        "A) Los rechazó",
+        "B) Los probó",
+        "C) Los justificó",
+        "D) Los castigó"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:30"
     }
   ]
 }
