@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-22",
-  "resumen": "El Espíritu ayuda en la debilidad e intercede por los santos; a los que aman a Dios todas las cosas les ayudan a bien; Dios conoció, predestinó, llamó, justificó y glorificó.",
+  "fecha": "2026-04-23",
+  "resumen": "El pasaje declara que Dios es por nosotros, que no escatimó a su propio Hijo, que nadie puede acusar a los escogidos de Dios, que Cristo murió y resucitó e intercede, y que nada podrá separarnos del amor de Dios que es en Cristo Jesús.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Quién ayuda en nuestra debilidad? (26)",
+      "pregunta": "[1] ¿Qué dice el texto que sucede si Dios es por nosotros? (31)",
       "alternativas": [
-        "A) Los ángeles",
-        "B) El Espíritu",
-        "C) Los profetas",
-        "D) Los discípulos"
+        "A) Nadie puede estar contra nosotros",
+        "B) Todos estarán contra nosotros",
+        "C) Algunos estarán contra nosotros",
+        "D) No hay respuesta en el texto"
+      ],
+      "correcta": "A",
+      "referencia": "Romanos 8:31"
+    },
+    {
+      "pregunta": "[2] ¿Qué no escatimó Dios según el pasaje? (32)",
+      "alternativas": [
+        "A) Su poder",
+        "B) Su justicia",
+        "C) A su propio Hijo",
+        "D) Su misericordia"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 8:32"
+    },
+    {
+      "pregunta": "[3] ¿Quién es el que justifica según el texto? (33)",
+      "alternativas": [
+        "A) Los hombres",
+        "B) Dios",
+        "C) Los apóstoles",
+        "D) La ley"
       ],
       "correcta": "B",
-      "referencia": "Romanos 8:26"
+      "referencia": "Romanos 8:33"
     },
     {
-      "pregunta": "[2] ¿Por quién intercede el Espíritu con gemidos indecibles? (26)",
+      "pregunta": "[4] ¿Qué hace Cristo Jesús según el pasaje además de haber muerto y resucitado? (34)",
       "alternativas": [
-        "A) Por los ángeles",
-        "B) Por el mundo",
-        "C) Por nosotros",
-        "D) Por los gobernantes"
+        "A) Juzga al mundo",
+        "B) Enseña a las multitudes",
+        "C) Intercede por nosotros",
+        "D) Gobierna las naciones"
       ],
       "correcta": "C",
-      "referencia": "Romanos 8:26"
+      "referencia": "Romanos 8:34"
     },
     {
-      "pregunta": "[3] ¿Para quiénes todas las cosas ayudan a bien? (28)",
+      "pregunta": "[5] ¿Qué afirma el texto que no podrá separarnos del amor de Dios? (38-39)",
       "alternativas": [
-        "A) Para todos los hombres",
-        "B) Para los que buscan riquezas",
-        "C) Para los que aman a Dios",
-        "D) Para los que gobiernan"
+        "A) Solo la muerte",
+        "B) Solo la vida",
+        "C) Algunas cosas",
+        "D) Nada"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 8:28"
-    },
-    {
-      "pregunta": "[4] ¿A qué fueron predestinados los que Dios conoció? (29)",
-      "alternativas": [
-        "A) A ser ricos",
-        "B) A ser conformes a la imagen de su Hijo",
-        "C) A gobernar naciones",
-        "D) A vivir muchos años"
-      ],
-      "correcta": "B",
-      "referencia": "Romanos 8:29"
-    },
-    {
-      "pregunta": "[5] ¿Qué hizo Dios con los que llamó? (30)",
-      "alternativas": [
-        "A) Los rechazó",
-        "B) Los probó",
-        "C) Los justificó",
-        "D) Los castigó"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 8:30"
+      "correcta": "D",
+      "referencia": "Romanos 8:38-39"
     }
   ]
 }
