@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-23",
-  "resumen": "El pasaje declara que Dios es por nosotros, que no escatimó a su propio Hijo, que nadie puede acusar a los escogidos de Dios, que Cristo murió y resucitó e intercede, y que nada podrá separarnos del amor de Dios que es en Cristo Jesús.",
+  "fecha": "2026-04-24",
+  "resumen": "Pablo declara su verdad en Cristo, expresa gran tristeza por sus hermanos israelitas, menciona los privilegios de Israel y afirma que no todos los descendientes son hijos, sino los de la promesa.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué dice el texto que sucede si Dios es por nosotros? (31)",
+      "pregunta": "[1] ¿Qué da testimonio a Pablo en el Espíritu Santo? (1)",
       "alternativas": [
-        "A) Nadie puede estar contra nosotros",
-        "B) Todos estarán contra nosotros",
-        "C) Algunos estarán contra nosotros",
-        "D) No hay respuesta en el texto"
-      ],
-      "correcta": "A",
-      "referencia": "Romanos 8:31"
-    },
-    {
-      "pregunta": "[2] ¿Qué no escatimó Dios según el pasaje? (32)",
-      "alternativas": [
-        "A) Su poder",
-        "B) Su justicia",
-        "C) A su propio Hijo",
-        "D) Su misericordia"
-      ],
-      "correcta": "C",
-      "referencia": "Romanos 8:32"
-    },
-    {
-      "pregunta": "[3] ¿Quién es el que justifica según el texto? (33)",
-      "alternativas": [
-        "A) Los hombres",
-        "B) Dios",
-        "C) Los apóstoles",
-        "D) La ley"
+        "A) Su fe",
+        "B) Su conciencia",
+        "C) Su entendimiento",
+        "D) Su corazón"
       ],
       "correcta": "B",
-      "referencia": "Romanos 8:33"
+      "referencia": "Romanos 9:1"
     },
     {
-      "pregunta": "[4] ¿Qué hace Cristo Jesús según el pasaje además de haber muerto y resucitado? (34)",
+      "pregunta": "[2] ¿Qué dice Pablo que tiene en su corazón? (2)",
       "alternativas": [
-        "A) Juzga al mundo",
-        "B) Enseña a las multitudes",
-        "C) Intercede por nosotros",
-        "D) Gobierna las naciones"
+        "A) Gozo y paz",
+        "B) Temor y duda",
+        "C) Gran tristeza y continuo dolor",
+        "D) Esperanza y confianza"
       ],
       "correcta": "C",
-      "referencia": "Romanos 8:34"
+      "referencia": "Romanos 9:2"
     },
     {
-      "pregunta": "[5] ¿Qué afirma el texto que no podrá separarnos del amor de Dios? (38-39)",
+      "pregunta": "[3] ¿Qué desearía Pablo por amor a sus hermanos? (3)",
       "alternativas": [
-        "A) Solo la muerte",
-        "B) Solo la vida",
-        "C) Algunas cosas",
-        "D) Nada"
+        "A) Ser bendecido",
+        "B) Ser exaltado",
+        "C) Ser anatema, separado de Cristo",
+        "D) Ser enviado a predicar"
       ],
-      "correcta": "D",
-      "referencia": "Romanos 8:38-39"
+      "correcta": "C",
+      "referencia": "Romanos 9:3"
+    },
+    {
+      "pregunta": "[4] ¿Cuál de las siguientes pertenece a los israelitas según el texto? (4)",
+      "alternativas": [
+        "A) La filosofía",
+        "B) La adopción, la gloria y los pactos",
+        "C) La riqueza material",
+        "D) La sabiduría humana"
+      ],
+      "correcta": "B",
+      "referencia": "Romanos 9:4"
+    },
+    {
+      "pregunta": "[5] ¿Qué dice la palabra de la promesa acerca de Sara? (9)",
+      "alternativas": [
+        "A) Sara tendrá muchos hijos",
+        "B) Sara será bendecida en su vejez",
+        "C) Sara tendrá un hijo en el tiempo señalado",
+        "D) Sara será madre de naciones"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 9:9"
     }
   ]
 }
