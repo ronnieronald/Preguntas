@@ -74,6 +74,15 @@ TEXTO.JS
 
 VERSO.JS
 
+  "versiculoSemana": {
+    "libro": "",
+    "capitulo": ,
+    "versiculo": ,
+    "texto": ""
+  },
+
+
+
     {
       "libro": "",
       "capitulo": ,
