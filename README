@@ -1,3 +1,4 @@
+ACTUA.JS
 {
   "weekId": "2026-W[]",
   "devocionales": {
@@ -35,5 +36,36 @@
 
 > ────────────────
 
-
+TEXTO.JS
+{
+  "weekId": "2026-W[]",
+  "lunes": {
+    "libro": "",
+    "texto": ""
+  },
+  "martes": {
+    "libro": "",
+    "texto": ""
+  },
+  "miercoles": {
+    "libro": "",
+    "texto": ""
+  },
+  "jueves": {
+    "libro": "",
+    "texto": ""
+  },
+  "viernes": {
+    "libro": "",
+    "texto": ""
+  },
+  "sabado": {
+    "libro": "",
+    "texto": ""
+  },
+  "domingo": {
+    "libro": "",
+    "texto": ""
+  }
+}
 
