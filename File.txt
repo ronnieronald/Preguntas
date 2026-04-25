@@ -8,32 +8,32 @@
 ////////////////
 
 {
-  "lunes": {
-    "libro": "",
-    "texto": ""
-  },
-  "martes": {
-    "libro": "",
-    "texto": ""
-  },
-  "miércoles": {
-    "libro": "",
-    "texto": ""
-  },
-  "jueves": {
-    "libro": "",
-    "texto": ""
-  },
-  "viernes": {
-    "libro": "",
-    "texto": ""
-  },
-  "sábado": {
-    "libro": "",
-    "texto": ""
-  },
-  "domingo": {
-    "libro": "",
-    "texto": ""
-  }
+  "lunes": {
+    "libro": "",
+    "texto": ""
+  },
+  "martes": {
+    "libro": "",
+    "texto": ""
+  },
+  "miércoles": {
+    "libro": "",
+    "texto": ""
+  },
+  "jueves": {
+    "libro": "",
+    "texto": ""
+  },
+  "viernes": {
+    "libro": "",
+    "texto": ""
+  },
+  "sábado": {
+    "libro": "",
+    "texto": ""
+  },
+  "domingo": {
+    "libro": "",
+    "texto": ""
+  }
 }
