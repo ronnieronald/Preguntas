@@ -1,4 +1,5 @@
 {
+  "weekId": "2026-W17",
   "lunes": {
     "libro": "",
     "texto": ""
@@ -7,7 +8,7 @@
     "libro": "",
     "texto": ""
   },
-  "miércoles": {
+  "miercoles": {
     "libro": "",
     "texto": ""
   },
@@ -19,7 +20,7 @@
     "libro": "",
     "texto": ""
   },
-  "sábado": {
+  "sabado": {
     "libro": "",
     "texto": ""
   },
