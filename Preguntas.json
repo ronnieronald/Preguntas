@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-25",
-  "resumen": "Se menciona a Rebeca y sus hijos antes de nacer, la declaración de que el mayor serviría al menor, la cita sobre Jacob y Esaú, la afirmación de que no hay injusticia en Dios, la declaración de su misericordia, y que todo depende de Dios, quien muestra misericordia y endurece a quien quiere.",
+  "fecha": "2026-04-26",
+  "resumen": "Pablo responde a preguntas sobre la justicia y la voluntad de Dios, usando la imagen del alfarero y el barro. Explica la autoridad de Dios, su trato con la humanidad, y menciona el llamado tanto a judíos como a gentiles, además de las citas proféticas sobre el remanente y la descendencia.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿De quién concibió Rebeca según el pasaje? (10)",
+      "pregunta": "[1] ¿Qué se pregunta en el versículo 19? (19)",
       "alternativas": [
-        "A) De Abraham",
-        "B) De Isaac",
-        "C) De Jacob",
-        "D) De Esaú"
+        "A) ¿Por qué, pues, inculpa?",
+        "B) ¿Quién eres tú, para que alterques con Dios?",
+        "C) ¿El alfarero no tiene potestad sobre el barro?",
+        "D) Llamaré pueblo mío al que no era mi pueblo"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 9:10"
+      "correcta": "A",
+      "referencia": "Romanos 9:19"
     },
     {
-      "pregunta": "[2] ¿Qué se dijo acerca de los hijos antes de que nacieran o hicieran bien o mal? (11)",
+      "pregunta": "[2] ¿Qué se dice del hombre en su relación con Dios en el versículo 20? (20)",
       "alternativas": [
-        "A) Que serían reyes",
-        "B) Que serían castigados",
-        "C) Que el propósito de Dios conforme a la elección permaneciese",
-        "D) Que serían iguales"
+        "A) ¿Quién eres tú, para que alterques con Dios?",
+        "B) ¿Quién ha resistido a su voluntad?",
+        "C) El remanente será salvo",
+        "D) Llamaré pueblo mío al que no era mi pueblo"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 9:11"
+      "correcta": "A",
+      "referencia": "Romanos 9:20"
     },
     {
-      "pregunta": "[3] ¿Qué se le dijo a Rebeca sobre sus hijos? (12)",
+      "pregunta": "[3] ¿Qué tiene potestad de hacer el alfarero según el versículo 21? (21)",
       "alternativas": [
-        "A) El menor servirá al mayor",
-        "B) Ambos gobernarán",
-        "C) El mayor servirá al menor",
-        "D) Ninguno servirá"
+        "A) hacer de la misma masa un vaso para honra y otro para deshonra",
+        "B) ¿Quién eres tú, para que alterques con Dios?",
+        "C) ¿Por qué, pues, inculpa?",
+        "D) Porque el Señor ejecutará su sentencia"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 9:12"
+      "correcta": "A",
+      "referencia": "Romanos 9:21"
     },
     {
-      "pregunta": "[4] ¿Qué respuesta se da a la pregunta sobre si hay injusticia en Dios? (14)",
+      "pregunta": "[4] ¿A quiénes ha llamado Dios según el versículo 24? (24)",
       "alternativas": [
-        "A) Sí, hay injusticia",
-        "B) No se sabe",
-        "C) Solo a veces",
-        "D) En ninguna manera"
+        "A) a los cuales también ha llamado, esto es, a nosotros, no sólo de los judíos, sino también de los gentiles",
+        "B) El remanente será salvo",
+        "C) ¿Quién ha resistido a su voluntad?",
+        "D) Llamaré pueblo mío al que no era mi pueblo"
       ],
-      "correcta": "D",
-      "referencia": "Romanos 9:14"
+      "correcta": "A",
+      "referencia": "Romanos 9:24"
     },
     {
-      "pregunta": "[5] ¿De quién depende el tener misericordia según el pasaje? (16)",
+      "pregunta": "[5] ¿Qué se menciona sobre la sentencia del Señor en el versículo 28? (28)",
       "alternativas": [
-        "A) Del que quiere",
-        "B) Del que corre",
-        "C) De Dios",
-        "D) De los hombres"
+        "A) Porque el Señor ejecutará su sentencia sobre la tierra en justicia y con prontitud",
+        "B) ¿El alfarero no tiene potestad sobre el barro?",
+        "C) ¿Por qué, pues, inculpa?",
+        "D) a los gentiles"
       ],
-      "correcta": "C",
-      "referencia": "Romanos 9:16"
+      "correcta": "A",
+      "referencia": "Romanos 9:28"
     }
   ]
 }
