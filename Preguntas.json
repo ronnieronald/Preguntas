@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-26",
-  "resumen": "Pablo responde a preguntas sobre la justicia y la voluntad de Dios, usando la imagen del alfarero y el barro. Explica la autoridad de Dios, su trato con la humanidad, y menciona el llamado tanto a judíos como a gentiles, además de las citas proféticas sobre el remanente y la descendencia.",
+  "fecha": "2026-04-27",
+  "resumen": "El pasaje muestra que los gentiles alcanzaron la justicia por fe, mientras que Israel no la alcanzó por buscarla como por obras. Se explica que Cristo es el fin de la ley para justicia a todo aquel que cree. La salvación se recibe confesando a Jesús como Señor y creyendo en su resurrección, y se afirma que todo aquel que invoque el nombre del Señor será salvo.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Qué se pregunta en el versículo 19? (19)",
+      "pregunta": "[1] ¿Cómo alcanzaron los gentiles la justicia? (30)",
       "alternativas": [
-        "A) ¿Por qué, pues, inculpa?",
-        "B) ¿Quién eres tú, para que alterques con Dios?",
-        "C) ¿El alfarero no tiene potestad sobre el barro?",
-        "D) Llamaré pueblo mío al que no era mi pueblo"
+        "A) Por fe",
+        "B) Por obras de la ley",
+        "C) Por sacrificios",
+        "D) Por descendencia"
       ],
       "correcta": "A",
-      "referencia": "Romanos 9:19"
+      "referencia": "Romanos 9:30"
     },
     {
-      "pregunta": "[2] ¿Qué se dice del hombre en su relación con Dios en el versículo 20? (20)",
+      "pregunta": "[2] ¿Por qué Israel no alcanzó la justicia? (31-32)",
       "alternativas": [
-        "A) ¿Quién eres tú, para que alterques con Dios?",
-        "B) ¿Quién ha resistido a su voluntad?",
-        "C) El remanente será salvo",
-        "D) Llamaré pueblo mío al que no era mi pueblo"
+        "A) Porque no la buscó",
+        "B) Porque la buscó por obras de la ley y no por fe",
+        "C) Porque no tenía ley",
+        "D) Porque fue escogido por los gentiles"
       ],
-      "correcta": "A",
-      "referencia": "Romanos 9:20"
+      "correcta": "B",
+      "referencia": "Romanos 9:31-32"
     },
     {
-      "pregunta": "[3] ¿Qué tiene potestad de hacer el alfarero según el versículo 21? (21)",
+      "pregunta": "[3] ¿Para qué es Cristo el fin de la ley? (4)",
       "alternativas": [
-        "A) hacer de la misma masa un vaso para honra y otro para deshonra",
-        "B) ¿Quién eres tú, para que alterques con Dios?",
-        "C) ¿Por qué, pues, inculpa?",
-        "D) Porque el Señor ejecutará su sentencia"
+        "A) Para condenación",
+        "B) Para justicia a todo aquel que cree",
+        "C) Para eliminar la fe",
+        "D) Para dar nuevas leyes"
       ],
-      "correcta": "A",
-      "referencia": "Romanos 9:21"
+      "correcta": "B",
+      "referencia": "Romanos 10:4"
     },
     {
-      "pregunta": "[4] ¿A quiénes ha llamado Dios según el versículo 24? (24)",
+      "pregunta": "[4] ¿Qué se debe confesar y creer para ser salvo? (9-10)",
       "alternativas": [
-        "A) a los cuales también ha llamado, esto es, a nosotros, no sólo de los judíos, sino también de los gentiles",
-        "B) El remanente será salvo",
-        "C) ¿Quién ha resistido a su voluntad?",
-        "D) Llamaré pueblo mío al que no era mi pueblo"
+        "A) Confesar a Moisés y creer en la ley",
+        "B) Confesar con la boca que Jesús es el Señor y creer que Dios lo levantó de los muertos",
+        "C) Confesar pecados solamente",
+        "D) Creer en tradiciones humanas"
       ],
-      "correcta": "A",
-      "referencia": "Romanos 9:24"
+      "correcta": "B",
+      "referencia": "Romanos 10:9-10"
     },
     {
-      "pregunta": "[5] ¿Qué se menciona sobre la sentencia del Señor en el versículo 28? (28)",
+      "pregunta": "[5] ¿Qué le sucede a todo aquel que invoque el nombre del Señor? (13)",
       "alternativas": [
-        "A) Porque el Señor ejecutará su sentencia sobre la tierra en justicia y con prontitud",
-        "B) ¿El alfarero no tiene potestad sobre el barro?",
-        "C) ¿Por qué, pues, inculpa?",
-        "D) a los gentiles"
+        "A) Será juzgado",
+        "B) Será salvo",
+        "C) Será recompensado en la tierra",
+        "D) Será olvidado"
       ],
-      "correcta": "A",
-      "referencia": "Romanos 9:28"
+      "correcta": "B",
+      "referencia": "Romanos 10:13"
     }
   ]
 }
