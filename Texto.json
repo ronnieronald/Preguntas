@@ -1,31 +1,31 @@
 {
   "weekId": "2026-W18",
   "lunes": {
-    "libro": "Romanos",
-    "texto": "9.30-10.13"
+    "libro": "Romanos 9.30-10.13",
+    "texto": ""
   },
   "martes": {
-    "libro": "Romanos",
-    "texto": "10.14-21"
+    "libro": "Romanos 10.14-21",
+    "texto": ""
   },
   "miercoles": {
-    "libro": "Romanos",
-    "texto": "11.1-10"
+    "libro": "Romanos 11.1-10",
+    "texto": ""
   },
   "jueves": {
-    "libro": "Romanos",
-    "texto": "11.11-24"
+    "libro": "Romanos 11.11-24",
+    "texto": ""
   },
   "viernes": {
-    "libro": "Romanos",
-    "texto": "11.25-32"
+    "libro": "Romanos 11.25-32",
+    "texto": ""
   },
   "sabado": {
-    "libro": "Romanos",
-    "texto": "11.33-36"
+    "libro": "Romanos 11.33-36",
+    "texto": ""
   },
   "domingo": {
-    "libro": "Romanos",
-    "texto": "12.1-8"
+    "libro": "Romanos 12.1-8",
+    "texto": ""
   }
 }
