@@ -1,61 +1,61 @@
 {
-  "fecha": "2026-04-27",
-  "resumen": "El pasaje muestra que los gentiles alcanzaron la justicia por fe, mientras que Israel no la alcanzó por buscarla como por obras. Se explica que Cristo es el fin de la ley para justicia a todo aquel que cree. La salvación se recibe confesando a Jesús como Señor y creyendo en su resurrección, y se afirma que todo aquel que invoque el nombre del Señor será salvo.",
+  "fecha": "2026-04-28",
+  "resumen": "El mensaje es anunciado por quienes son enviados; la fe viene por el oír la palabra de Dios; no todos obedecieron al evangelio; por toda la tierra salió la voz; Israel oyó pero fue desobediente y rebelde.",
   "preguntas": [
     {
-      "pregunta": "[1] ¿Cómo alcanzaron los gentiles la justicia? (30)",
+      "pregunta": "[1] ¿Cómo oirán sin haber quien les predique? (14)",
       "alternativas": [
-        "A) Por fe",
-        "B) Por obras de la ley",
-        "C) Por sacrificios",
-        "D) Por descendencia"
-      ],
-      "correcta": "A",
-      "referencia": "Romanos 9:30"
-    },
-    {
-      "pregunta": "[2] ¿Por qué Israel no alcanzó la justicia? (31-32)",
-      "alternativas": [
-        "A) Porque no la buscó",
-        "B) Porque la buscó por obras de la ley y no por fe",
-        "C) Porque no tenía ley",
-        "D) Porque fue escogido por los gentiles"
+        "A) Con señales en el cielo",
+        "B) Sin haber quien les predique",
+        "C) Por sueños",
+        "D) Por tradición"
       ],
       "correcta": "B",
-      "referencia": "Romanos 9:31-32"
+      "referencia": "Romanos 10:14"
     },
     {
-      "pregunta": "[3] ¿Para qué es Cristo el fin de la ley? (4)",
+      "pregunta": "[2] ¿Qué es hermoso según está escrito? (15)",
       "alternativas": [
-        "A) Para condenación",
-        "B) Para justicia a todo aquel que cree",
-        "C) Para eliminar la fe",
-        "D) Para dar nuevas leyes"
+        "A) Los templos",
+        "B) Los sacrificios",
+        "C) Los pies de los que anuncian la paz",
+        "D) Las vestiduras"
       ],
-      "correcta": "B",
-      "referencia": "Romanos 10:4"
+      "correcta": "C",
+      "referencia": "Romanos 10:15"
     },
     {
-      "pregunta": "[4] ¿Qué se debe confesar y creer para ser salvo? (9-10)",
+      "pregunta": "[3] ¿Qué viene por el oír? (17)",
       "alternativas": [
-        "A) Confesar a Moisés y creer en la ley",
-        "B) Confesar con la boca que Jesús es el Señor y creer que Dios lo levantó de los muertos",
-        "C) Confesar pecados solamente",
-        "D) Creer en tradiciones humanas"
+        "A) La sabiduría",
+        "B) La fe",
+        "C) La paciencia",
+        "D) La justicia"
       ],
       "correcta": "B",
-      "referencia": "Romanos 10:9-10"
+      "referencia": "Romanos 10:17"
     },
     {
-      "pregunta": "[5] ¿Qué le sucede a todo aquel que invoque el nombre del Señor? (13)",
+      "pregunta": "[4] ¿Por dónde salió la voz según el texto? (18)",
       "alternativas": [
-        "A) Será juzgado",
-        "B) Será salvo",
-        "C) Será recompensado en la tierra",
-        "D) Será olvidado"
+        "A) Solo por Israel",
+        "B) Por toda la tierra",
+        "C) Por Jerusalén",
+        "D) Por el templo"
       ],
       "correcta": "B",
-      "referencia": "Romanos 10:13"
+      "referencia": "Romanos 10:18"
+    },
+    {
+      "pregunta": "[5] ¿Cómo describe Dios a Israel en el texto? (21)",
+      "alternativas": [
+        "A) Fiel y obediente",
+        "B) Santo y justo",
+        "C) Desobediente y rebelde",
+        "D) Sabio y entendido"
+      ],
+      "correcta": "C",
+      "referencia": "Romanos 10:21"
     }
   ]
 }
